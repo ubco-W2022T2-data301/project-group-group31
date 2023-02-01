@@ -16,7 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Eric Harrison: I am, unfortunetely, a canucks fan.
 - Person 2: one sentence about you!
 - Chase Winslow: I have wasted 11 years watching the Oilers. 
 
