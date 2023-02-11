@@ -24,7 +24,7 @@ The NHL Players Statistics dataset is a collection of stats on every player who 
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/Jesse-Puljujärvi_(cropped).png" width="100px">
+<img src ="images/Jesse-Puljujärvi_(cropped).jpg" width="100px">
 
 ## References
 
