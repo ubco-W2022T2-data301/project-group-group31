@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in this dataset - answer in about 150-200 words
 
-{Add here}
+We have decided on a National Hockey League dataset due to our common interest in hockey. Our goal by the end of the project is to provide supporting evidence for under appreciated junior leagues and countries for the NHL draft. We are hopeful that we can bring more attention to young hockey players that are often not recognized in scouting. This project can display to NHL scouts the most underrated and most well developed junior leagues. Some more specific questions we would like to answer include exploring specifically which NHL team drafts the most successful NHL players in the league. Our group is also looking forward to researching which countries and which leagues develop the most drafted prospects. With this data we should have no problems creating a user-facing Dashboard.
 
 ## Describe your dataset in about 150-200 words
 
