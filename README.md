@@ -1,4 +1,4 @@
-# Group YY - {Short snappy Title of your project}
+# Group 31 - NHL Dataset
 
 - NHL Draft Statistics.
 
