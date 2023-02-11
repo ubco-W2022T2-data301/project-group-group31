@@ -1,6 +1,6 @@
-# Group YY - {Short snappy Title of your project}
+# Group 31 - NHL Dataset
 
-- Your title can change over time.
+- NHL Draft Statistics.
 
 ## Milestones
 
@@ -24,7 +24,7 @@ The NHL Players Statistics dataset is a collection of stats on every player who 
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/test.png" width="100px">
+<img src ="images/Jesse-Puljujärvi_(cropped).jpg" width="100px">
 
 ## References
 
