@@ -1,6 +1,6 @@
 # Group YY - {Short snappy Title of your project}
 
-- Your title can change over time.
+- NHL Draft Statistics.
 
 ## Milestones
 
