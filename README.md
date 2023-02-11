@@ -17,7 +17,7 @@ The NHL Players Statistics dataset is a collection of stats on every player who 
 ## Team Members
 
 - Eric Harrison: I am, unfortunetely, a canucks fan.
-- Person 2: one sentence about you!
+- Logan Marshall: I have been a long tenured fan of hockey and sadly the canucks.
 - Chase Winslow: I have wasted 11 years watching the Oilers. 
 
 ## Images
