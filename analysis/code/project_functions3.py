@@ -4,12 +4,16 @@ def load_and_process(path_to_csv_file):
     #Load dataframe from given path
     df = pd.read_csv(path_to_csv_file)
     
-    #Method chain 3, keeps only rows from 1982 - present, drops all unneccessary columns, and adds score column
-    df = (df.loc[227:9928]
+
+    df = (df.loc[:9927]
           .drop(['id', 'age', 'plus_minus', 'penalties_minutes', 'goalie_losses', 'to_year',
-                      'goalie_ties_overtime', 'save_percentage', 'goals_against_average',
-                      'point_shares','team','player','year','overall_pick','goals','assists'], axis=1)
-         .assign(score=lambda x: x.games_played + x.points))
-    
+                 'goalie_ties_overtime', 'save_percentage', 'goals_against_average',
+                 'point_shares', 'goals', 'assists'], axis=1)
+          .assign(score=lambda x: x.games_played + x.points)
+          .assign(Goalie_score=lambda x: x.goalie_games_played+x.goalie_wins)
+          .dropna(subset=['goalie_games_played', 'games_played'], how='all')
+         )
+
     return df
+
 
