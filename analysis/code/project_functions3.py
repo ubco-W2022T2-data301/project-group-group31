@@ -22,4 +22,3 @@ def load_and_process(path_to_csv_file):
     return df
 
 
-
