@@ -2,21 +2,20 @@ import pandas as pd
 
 # Mapping positions to forward (F) and defense (D)
 positions_map = {
-    'RW': 'F',
-    'C': 'F',
-    'LW': 'F',
-    'C/LW': 'F',
-    'LW/C': 'F',
-    'C/RW': 'F',
-    'W': 'F',
-    'RW/D': 'F',
-    'C RW': 'F',
-    'C; LW': 'F',
-    'LD': 'D',
-    'RD': 'D',
-    'D': 'D',
-    'LW/D': 'D',
-    'RW/D': 'D'
+    'RW': 'Forward',
+    'C': 'Forward',
+    'LW': 'Forward',
+    'C/LW': 'Forward',
+    'LW/C': 'Forward',
+    'C/RW': 'Forward',
+    'W': 'Forward',
+    'RW/D': 'Forward',
+    'C RW': 'Forward',
+    'C; LW': 'Forward',
+    'LW/D': 'Forward',
+    'RW/D': 'Forward',
+    'D': 'Defence',
+    'G': 'Goalie'
 }
 
 # Load dataframe and replace positions
@@ -32,6 +31,8 @@ def load_and_process(path_to_csv_file):
       .assign(Score=lambda x: x.Games + x.Points)
       .dropna(subset=['Games'], how='all')
      )
+
+
     #Fixing teams that changed their name 
     df['Amateur Team'] = df['Amateur Team'].replace('Portland Winter Hawks (WHL)', 'Portland Winterhawks (WHL)')
     df['Amateur Team'] = df['Amateur Team'].replace('USA U-18 Development Team (USDP/USHL)', 'USNDT (USA)')
