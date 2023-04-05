@@ -425,7 +425,7 @@
     </worksheet>
   </worksheets>
   <windows saved-dpi-scale-factor='1.5' source-height='44'>
-    <window class='worksheet' maximized='true' name='Overall Score by Team'>
+    <window class='worksheet' name='Overall Score by Team'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -460,7 +460,7 @@
       </viewpoint>
       <simple-id uuid='{5BF2F7C7-D93A-48F3-A0D9-B2BA5C6E3CB7}' />
     </window>
-    <window class='worksheet' name='Average Overall Pick by Team'>
+    <window class='worksheet' maximized='true' name='Average Overall Pick by Team'>
       <cards>
         <edge name='left'>
           <strip size='160'>
