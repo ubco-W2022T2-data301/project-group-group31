@@ -40,6 +40,30 @@ def load_and_process(path_to_csv_file):
     df['Amateur Team'] = df['Amateur Team'].replace('CSKA Moskva (Soviet)', 'CSKA Moskva (Russia)')
     df['Amateur Team'] = df['Amateur Team'].replace('Dynamo Moskva (Soviet)', 'Dynamo Moskva (Russia)')
     
+    df['Amateur League'] = df['Amateur Team'].apply(lambda x: 'WHL' if '(WHL)' in x else
+                                                ('BCHL' if '(BCHL)' in x else
+                                                ('AJHL' if '(AJHL)' in x else
+                                                ('OHL' if '(OHL)' in x else
+                                                ('QMJHL' if '(QMJHL)' in x else
+                                                ('USHL' if 'USHL' in x else
+                                                ('USDP' if 'USDP' in x or '(USA)' in x else
+                                                ('NAHL' if '(NAHL)' in x else
+                                                ('High School' if 'High' in x else
+                                                ('NCAA' if '(Big Ten)' in x or '(H-East)' in x or '(NCHC)' in x or '(CCHA)' in x else
+                                                ('DEL' if '(Germany)' in x else
+                                                ('KHL' if '(Russia)' in x else
+                                                ('VHL' if '(Russia-2)' in x else
+                                                ('MHL' if '(Russia Jr.)' in x else
+                                                ('SHL' if '(Sweden)' in x else
+                                                ('Allsvenskan' if '(Sweden-2)' in x else
+                                                ('J20 Nationell' if '(Sweden Jr.)' in x else
+                                                ('SM-liiga' if '(Finland' in x else
+                                                ('SM-sarja' if '(Finland Jr.)' in x else
+                                                ('Tipsport Extraliga' if '(Czech' in x else
+                                                ('Tipos Extraliga' if '(Slovakia' in x else
+                                                ('Fjordkraft-ligaen' if '(Norway' in x else
+                                                ('NL' if '(Swiss' in x else '')))))))))))))))))))))))
+
     # Replace positions
     df['Position'] = df['Position'].replace(positions_map)
     
