@@ -1,4 +1,4 @@
-year,overall_pick,team,player,games_played,goals,assists,points,score
+Year,Overall Pick,Team,Player,Games Played,Goals,Assists,Points,Score
 2022,1,Montreal Canadiens,Juraj Slafkovsky,,,,,
 2022,2,New Jersey Devils,Simon Nemec,,,,,
 2022,3,Arizona Coyotes,Logan Cooley,,,,,
@@ -2586,7 +2586,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,5,New York Islanders,Nino Niederreiter,732.0,181.0,187.0,368.0,1100.0
 2010,6,Tampa Bay Lightning,Brett Connolly,536.0,101.0,94.0,195.0,731.0
 2010,7,Carolina Hurricanes,Jeff Skinner,853.0,298.0,244.0,542.0,1395.0
-2010,8,Atlanta Thrashers,Alexander Burmistrov,348.0,37.0,64.0,101.0,449.0
 2010,9,Minnesota Wild,Mikael Granlund,671.0,135.0,308.0,443.0,1114.0
 2010,10,New York Rangers,Dylan McIlrath,66.0,3.0,2.0,5.0,71.0
 2010,11,Dallas Stars,Jack Campbell,135.0,0.0,2.0,2.0,137.0
@@ -2665,7 +2664,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,84,New Jersey Devils,Scott Wedgewood,77.0,0.0,0.0,0.0,77.0
 2010,85,Carolina Hurricanes,Austin Levi,,,,,
 2010,86,Washington Capitals,Stanislav Galiev,26.0,1.0,3.0,4.0,30.0
-2010,87,Atlanta Thrashers,Julian Melchiori,30.0,0.0,2.0,2.0,32.0
 2010,88,San Jose Sharks,Max Gaede,,,,,
 2010,89,Philadelphia Flyers,Michael Chaput,182.0,6.0,16.0,22.0,204.0
 2010,90,Chicago Blackhawks,Joakim Nordstrom,444.0,32.0,43.0,75.0,519.0
@@ -2679,7 +2677,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,98,Buffalo Sabres,Steven Shipley,,,,,
 2010,99,Florida Panthers,Joonas Donskoi,474.0,80.0,128.0,208.0,682.0
 2010,100,New York Rangers,Andrew Yogan,,,,,
-2010,101,Atlanta Thrashers,Ivan Telegin,,,,,
 2010,102,Columbus Blue Jackets,Mathieu Corbeil,,,,,
 2010,103,Calgary Flames,John Ramage,2.0,0.0,0.0,0.0,2.0
 2010,104,St. Louis Blues,Jani Hakanpaa,142.0,7.0,10.0,17.0,159.0
@@ -2706,7 +2703,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,125,New York Islanders,Tony Dehart,,,,,
 2010,126,Nashville Predators,Patrick Cehlin,,,,,
 2010,127,San Jose Sharks,Cody Ferriero,,,,,
-2010,128,Atlanta Thrashers,Fredrik Pettersson-Wentzel,,,,,
 2010,129,San Jose Sharks,Freddie Hamilton,75.0,4.0,2.0,6.0,81.0
 2010,130,New York Rangers,Jason Wilson,,,,,
 2010,131,Dallas Stars,John Klingberg,552.0,71.0,303.0,374.0,926.0
@@ -2728,17 +2724,14 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,147,Montreal Canadiens,Brendan Gallagher,638.0,194.0,187.0,381.0,1019.0
 2010,148,Los Angeles Kings,Kevin Gravel,109.0,1.0,12.0,13.0,122.0
 2010,149,Philadelphia Flyers,Michael Parks,,,,,
-2010,150,Atlanta Thrashers,Yasin Cisse,,,,,
 2010,151,Chicago Blackhawks,Mirko Hoefflin,,,,,
 2010,152,Pittsburgh Penguins,Joe Rogalski,,,,,
 2010,153,Florida Panthers,Corey Durocher,,,,,
 2010,154,Columbus Blue Jackets,Dalton Prout,264.0,7.0,31.0,38.0,302.0
-2010,155,Atlanta Thrashers,Kendall McFaull,,,,,
 2010,156,Tampa Bay Lightning,Brendan O'Donnell,,,,,
 2010,157,New York Rangers,Jesper Fast,550.0,75.0,125.0,200.0,750.0
 2010,158,Los Angeles Kings,Maxim Kitsyn,,,,,
 2010,159,Minnesota Wild,Johan Gustafsson,,,,,
-2010,160,Atlanta Thrashers,Tanner Lane,,,,,
 2010,161,Anaheim Ducks,Andreas Dahlstrom,,,,,
 2010,162,Edmonton Oilers,Brandon Davidson,180.0,9.0,14.0,23.0,203.0
 2010,163,San Jose Sharks,Konrad Abeltshauser,,,,,
@@ -2747,7 +2740,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,166,Edmonton Oilers,Drew Czerwonka,,,,,
 2010,167,Carolina Hurricanes,Tyler Stahl,,,,,
 2010,168,Nashville Predators,Anthony Bitetto,197.0,3.0,28.0,31.0,228.0
-2010,169,Atlanta Thrashers,Sebastian Owuya,,,,,
 2010,170,Pittsburgh Penguins,Reid McNeill,,,,,
 2010,171,Detroit Red Wings,Brooks Macek,,,,,
 2010,172,Vancouver Canucks,Alex Friesen,1.0,0.0,0.0,0.0,1.0
@@ -2777,7 +2769,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2010,196,Ottawa Senators,Bryce Aneloski,,,,,
 2010,197,Colorado Avalanche,Luke Moffatt,,,,,
 2010,198,Nashville Predators,Joonas Rask,2.0,0.0,1.0,1.0,3.0
-2010,199,Atlanta Thrashers,Peter Stoykewych,,,,,
 2010,200,San Jose Sharks,Chris Crane,,,,,
 2010,201,Detroit Red Wings,Ben Marshall,,,,,
 2010,202,Edmonton Oilers,Kellen Jones,,,,,
@@ -2792,7 +2783,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,1,New York Islanders,John Tavares,949.0,391.0,504.0,895.0,1844.0
 2009,2,Tampa Bay Lightning,Victor Hedman,898.0,134.0,469.0,603.0,1501.0
 2009,3,Colorado Avalanche,Matt Duchene,905.0,294.0,394.0,688.0,1593.0
-2009,4,Atlanta Thrashers,Evander Kane,812.0,286.0,259.0,545.0,1357.0
 2009,5,Los Angeles Kings,Brayden Schenn,776.0,219.0,305.0,524.0,1300.0
 2009,6,Phoenix Coyotes,Oliver Ekman-Larsson,848.0,133.0,284.0,417.0,1265.0
 2009,7,Toronto Maple Leafs,Nazem Kadri,739.0,219.0,293.0,512.0,1251.0
@@ -2822,7 +2812,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,31,New York Islanders,Mikko Koskinen,168.0,0.0,4.0,4.0,172.0
 2009,32,Detroit Red Wings,Landon Ferraro,77.0,7.0,5.0,12.0,89.0
 2009,33,Colorado Avalanche,Ryan O'Reilly,938.0,240.0,432.0,672.0,1610.0
-2009,34,Atlanta Thrashers,Carl Klingberg,12.0,1.0,0.0,1.0,13.0
 2009,35,Los Angeles Kings,Kyle Clifford,751.0,66.0,77.0,143.0,894.0
 2009,36,Phoenix Coyotes,Chris Brown,23.0,2.0,1.0,3.0,26.0
 2009,37,Anaheim Ducks,Mat Clark,9.0,0.0,1.0,1.0,10.0
@@ -2833,7 +2822,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,42,Nashville Predators,Charles-Olivier Roussel,,,,,
 2009,43,San Jose Sharks,William Wrenn,,,,,
 2009,44,Florida Panthers,Drew Shore,98.0,9.0,17.0,26.0,124.0
-2009,45,Atlanta Thrashers,Jeremy Morin,82.0,10.0,12.0,22.0,104.0
 2009,46,Ottawa Senators,Robin Lehner,364.0,0.0,6.0,6.0,370.0
 2009,47,New York Rangers,Ethan Werek,,,,,
 2009,48,St. Louis Blues,Brett Ponich,,,,,
@@ -2905,14 +2893,11 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,114,New Jersey Devils,Seth Helgeson,50.0,1.0,3.0,4.0,54.0
 2009,115,Washington Capitals,Patrick Wey,9.0,0.0,3.0,3.0,12.0
 2009,116,Minnesota Wild,Alex Fallstrom,,,,,
-2009,117,Atlanta Thrashers,Eddie Pasquale,3.0,0.0,0.0,0.0,3.0
 2009,119,Chicago Blackhawks,Byron Froese,116.0,6.0,11.0,17.0,133.0
-2009,120,Atlanta Thrashers,Ben Chiarot,489.0,31.0,87.0,118.0,607.0
 2009,121,Pittsburgh Penguins,Nick Petersen,,,,,
 2009,122,New York Islanders,Anton Klementyev,1.0,0.0,0.0,0.0,1.0
 2009,123,Pittsburgh Penguins,Alex Velischek,,,,,
 2009,124,Colorado Avalanche,Kieran Millan,,,,,
-2009,125,Atlanta Thrashers,Cody Sol,,,,,
 2009,126,Los Angeles Kings,David Kolomatis,,,,,
 2009,127,New York Rangers,Roman Horak,84.0,6.0,13.0,19.0,103.0
 2009,128,Toronto Maple Leafs,Eric Knodel,,,,,
@@ -2942,7 +2927,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,152,New York Islanders,Anders Lee,596.0,212.0,154.0,366.0,962.0
 2009,153,Philadelphia Flyers,Dave Labrecque,,,,,
 2009,154,Colorado Avalanche,Brandon Maxwell,,,,,
-2009,155,Atlanta Thrashers,Jimmy Bubnick,,,,,
 2009,156,Los Angeles Kings,Michael Pelech,,,,,
 2009,157,Phoenix Coyotes,Evan Bloodoff,,,,,
 2009,158,Toronto Maple Leafs,Jerry D'Amigo,31.0,1.0,2.0,3.0,34.0
@@ -2972,7 +2956,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,182,Minnesota Wild,Erik Haula,534.0,112.0,128.0,240.0,774.0
 2009,183,Tampa Bay Lightning,Kirill Gotovets,,,,,
 2009,184,Colorado Avalanche,Gus Young,,,,,
-2009,185,Atlanta Thrashers,Levko Koper,,,,,
 2009,186,Los Angeles Kings,Jordan Nolan,375.0,24.0,28.0,52.0,427.0
 2009,187,Vancouver Canucks,Steven Anthony,,,,,
 2009,188,Toronto Maple Leafs,Barron Smith,,,,,
@@ -2990,7 +2973,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,200,New York Rangers,Mikhail Pashnin,,,,,
 2009,201,Calgary Flames,Gaelan Patterson,,,,,
 2009,202,St. Louis Blues,Max Tardy,,,,,
-2009,203,Atlanta Thrashers,Jordan Samuels-Thomas,,,,,
 2009,204,New Jersey Devils,Curtis Gedig,,,,,
 2009,205,Washington Capitals,Benjamin Casavant,,,,,
 2009,206,Boston Bruins,Ben Sexton,2.0,0.0,0.0,0.0,2.0
@@ -3001,7 +2983,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2009,211,Montreal Canadiens,Petteri Simila,,,,,
 2008,1,Tampa Bay Lightning,Steven Stamkos,922.0,481.0,491.0,972.0,1894.0
 2008,2,Los Angeles Kings,Drew Doughty,1014.0,132.0,435.0,567.0,1581.0
-2008,3,Atlanta Thrashers,Zach Bogosian,737.0,56.0,152.0,208.0,945.0
 2008,4,St. Louis Blues,Alex Pietrangelo,879.0,129.0,388.0,517.0,1396.0
 2008,5,Toronto Maple Leafs,Luke Schenn,863.0,38.0,131.0,169.0,1032.0
 2008,6,Columbus Blue Jackets,Nikita Filatov,53.0,6.0,8.0,14.0,67.0
@@ -3027,7 +3008,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2008,26,Buffalo Sabres,Tyler Ennis,700.0,144.0,202.0,346.0,1046.0
 2008,27,Washington Capitals,John Carlson,887.0,132.0,461.0,593.0,1480.0
 2008,28,Phoenix Coyotes,Viktor Tikhonov,111.0,11.0,11.0,22.0,133.0
-2008,29,Atlanta Thrashers,Daultan Leveille,,,,,
 2008,30,Detroit Red Wings,Thomas McCollum,3.0,0.0,0.0,0.0,3.0
 2008,31,Florida Panthers,Jacob Markstrom,378.0,0.0,12.0,12.0,390.0
 2008,32,Los Angeles Kings,Slava Voynov,190.0,18.0,63.0,81.0,271.0
@@ -3062,7 +3042,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2008,61,Colorado Avalanche,Peter Delmas,,,,,
 2008,62,San Jose Sharks,Justin Daniels,,,,,
 2008,63,Los Angeles Kings,Robert Czarnik,,,,,
-2008,64,Atlanta Thrashers,Danick Paquette,,,,,
 2008,65,St. Louis Blues,Jori Lehtera,307.0,34.0,77.0,111.0,418.0
 2008,66,New York Islanders,David Toews,,,,,
 2008,67,Philadelphia Flyers,Marc-Andre Bourdon,45.0,4.0,3.0,7.0,52.0
@@ -3092,7 +3071,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2008,91,Detroit Red Wings,Max Nicastro,,,,,
 2008,92,San Jose Sharks,Samuel Groulx,,,,,
 2008,93,Washington Capitals,Braden Holtby,513.0,0.0,12.0,12.0,525.0
-2008,94,Atlanta Thrashers,Vinny Saponari,,,,,
 2008,95,St. Louis Blues,David Warsofsky,55.0,2.0,9.0,11.0,66.0
 2008,96,New York Islanders,Matt Donovan,69.0,2.0,18.0,20.0,89.0
 2008,97,Boston Bruins,Jamie Arniel,1.0,0.0,0.0,0.0,1.0
@@ -3122,7 +3100,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2008,121,Detroit Red Wings,Gustav Nyquist,652.0,164.0,237.0,401.0,1053.0
 2008,122,Tampa Bay Lightning,Dustin Tokarski,76.0,0.0,3.0,3.0,79.0
 2008,123,Los Angeles Kings,Andrei Loktionov,155.0,22.0,26.0,48.0,203.0
-2008,124,Atlanta Thrashers,Nicklas Lasu,,,,,
 2008,125,St. Louis Blues,Kristofer Berglund,,,,,
 2008,126,New York Islanders,Kevin Poulin,50.0,0.0,1.0,1.0,51.0
 2008,127,Columbus Blue Jackets,Matt Calvert,566.0,95.0,108.0,203.0,769.0
@@ -3152,7 +3129,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2008,151,Detroit Red Wings,Julien Cayer,,,,,
 2008,152,Tampa Bay Lightning,Mark Barberio,272.0,14.0,42.0,56.0,328.0
 2008,153,Los Angeles Kings,Justin Azevedo,,,,,
-2008,154,Atlanta Thrashers,Chris Carrozzi,,,,,
 2008,155,St. Louis Blues,Anthony Nigro,,,,,
 2008,156,New York Islanders,Jared Spurgeon,772.0,99.0,246.0,345.0,1117.0
 2008,157,Columbus Blue Jackets,Cam Atkinson,700.0,236.0,216.0,452.0,1152.0
@@ -3182,7 +3158,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2008,181,Detroit Red Wings,Stephen Johnston,,,,,
 2008,182,Tampa Bay Lightning,Matias Sointu,,,,,
 2008,183,Los Angeles Kings,Garrett Roe,,,,,
-2008,184,Atlanta Thrashers,Zach Redmond,133.0,9.0,29.0,38.0,171.0
 2008,185,St. Louis Blues,Paul Karpowich,,,,,
 2008,186,San Jose Sharks,Jason Demers,699.0,45.0,169.0,214.0,913.0
 2008,187,Columbus Blue Jackets,Sean Collins,21.0,0.0,3.0,3.0,24.0
@@ -3276,7 +3251,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2007,64,Dallas Stars,Sergei Korostin,,,,,
 2007,65,Montreal Canadiens,Olivier Fortier,,,,,
 2007,66,Philadelphia Flyers,Garrett Klotz,,,,,
-2007,67,Atlanta Thrashers,Spencer Machacek,25.0,2.0,7.0,9.0,34.0
 2007,68,Columbus Blue Jackets,Jake Hansen,,,,,
 2007,69,Chicago Blackhawks,Maxime Tanguay,,,,,
 2007,70,Calgary Flames,John Negrin,3.0,0.0,1.0,1.0,4.0
@@ -3324,7 +3298,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2007,112,Dallas Stars,Colton Sceviour,535.0,66.0,90.0,156.0,691.0
 2007,113,Colorado Avalanche,Kent Patterson,,,,,
 2007,114,Nashville Predators,Ben Ryan,,,,,
-2007,115,Atlanta Thrashers,Niclas Lucenius,,,,,
 2007,116,Calgary Flames,Keith Aulie,167.0,4.0,10.0,14.0,181.0
 2007,117,New Jersey Devils,Matt Halischuk,280.0,33.0,42.0,75.0,355.0
 2007,118,Pittsburgh Penguins,Alex Grant,7.0,2.0,0.0,2.0,9.0
@@ -3384,7 +3357,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2007,172,Dallas Stars,Luke Gazdic,147.0,5.0,3.0,8.0,155.0
 2007,173,San Jose Sharks,Nick Bonino,761.0,148.0,186.0,334.0,1095.0
 2007,174,Nashville Predators,Robert Dietrich,,,,,
-2007,175,Atlanta Thrashers,John Albert,9.0,1.0,0.0,1.0,10.0
 2007,176,Vancouver Canucks,Taylor Matson,,,,,
 2007,177,New Jersey Devils,Vili Sopanen,,,,,
 2007,178,Detroit Red Wings,Zack Torquato,,,,,
@@ -3414,7 +3386,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2007,202,Florida Panthers,Sergei Gayduchenko,,,,,
 2007,203,San Jose Sharks,Frazer McLaren,102.0,4.0,7.0,11.0,113.0
 2007,204,Nashville Predators,Atte Engren,,,,,
-2007,205,Atlanta Thrashers,Paul Postma,205.0,10.0,25.0,35.0,240.0
 2007,206,Vancouver Canucks,Dan Gendur,,,,,
 2007,207,New Jersey Devils,Ryan Molle,,,,,
 2007,208,Detroit Red Wings,Bryan Rufenach,,,,,
@@ -3432,7 +3403,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,9,Minnesota Wild,James Sheppard,394.0,23.0,68.0,91.0,485.0
 2006,10,Florida Panthers,Michael Frolik,858.0,159.0,225.0,384.0,1242.0
 2006,11,Los Angeles Kings,Jonathan Bernier,404.0,0.0,8.0,8.0,412.0
-2006,12,Atlanta Thrashers,Bryan Little,843.0,217.0,304.0,521.0,1364.0
 2006,13,Toronto Maple Leafs,Jiri Tlusty,446.0,89.0,88.0,177.0,623.0
 2006,14,Vancouver Canucks,Michael Grabner,640.0,175.0,101.0,276.0,916.0
 2006,15,Tampa Bay Lightning,Riku Helenius,1.0,0.0,0.0,0.0,1.0
@@ -3463,7 +3433,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,40,Minnesota Wild,Ondrej Fiala,,,,,
 2006,41,Detroit Red Wings,Cory Emmerton,139.0,12.0,9.0,21.0,160.0
 2006,42,Philadelphia Flyers,Mike Ratchuk,,,,,
-2006,43,Atlanta Thrashers,Riley Holzapfel,,,,,
 2006,44,Toronto Maple Leafs,Nikolai Kulemin,669.0,121.0,153.0,274.0,943.0
 2006,45,Edmonton Oilers,Jeff Petry,803.0,87.0,235.0,322.0,1125.0
 2006,46,Buffalo Sabres,Jhonas Enroth,153.0,0.0,0.0,0.0,153.0
@@ -3500,7 +3469,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,77,New Jersey Devils,Vladimir Zharkov,82.0,2.0,12.0,14.0,96.0
 2006,78,Tampa Bay Lightning,Kevin Quick,6.0,0.0,1.0,1.0,7.0
 2006,79,Philadelphia Flyers,Jon Matsumoto,14.0,2.0,0.0,2.0,16.0
-2006,80,Atlanta Thrashers,Michael Forney,,,,,
 2006,81,Colorado Avalanche,Mike Carman,,,,,
 2006,82,Vancouver Canucks,Daniel Rahimi,,,,,
 2006,83,Anaheim Ducks,John de Gray,,,,,
@@ -3555,7 +3523,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,132,Minnesota Wild,Niko Hovinen,,,,,
 2006,133,Edmonton Oilers,Bryan Pitton,,,,,
 2006,134,Los Angeles Kings,David Meckler,,,,,
-2006,135,Atlanta Thrashers,Alex Kangas,,,,,
 2006,136,Columbus Blue Jackets,Nick Sucharski,,,,,
 2006,137,New York Rangers,Tomas Zaborsky,,,,,
 2006,138,Dallas Stars,David McIntyre,7.0,1.0,1.0,2.0,9.0
@@ -3585,7 +3552,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,162,Minnesota Wild,Julian Walker,,,,,
 2006,163,Vancouver Canucks,Sergei Shirokov,8.0,1.0,0.0,1.0,9.0
 2006,164,Los Angeles Kings,Constantin Braun,,,,,
-2006,165,Atlanta Thrashers,Jonas Enlund,,,,,
 2006,166,Toronto Maple Leafs,Tyler Ruegsegger,,,,,
 2006,167,Vancouver Canucks,Juraj Simek,,,,,
 2006,168,Tampa Bay Lightning,Dane Crowley,,,,,
@@ -3615,12 +3581,10 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,192,Minnesota Wild,Chris Hickey,,,,,
 2006,193,Florida Panthers,Marc Cheverie,,,,,
 2006,194,Columbus Blue Jackets,Matt Marquardt,,,,,
-2006,195,Atlanta Thrashers,Jesse Martin,,,,,
 2006,196,Phoenix Coyotes,Benn Ferriero,98.0,14.0,9.0,23.0,121.0
 2006,197,Vancouver Canucks,Evan Fuller,,,,,
 2006,198,Tampa Bay Lightning,Denis Kazionov,,,,,
 2006,199,Montreal Canadiens,Cameron Cepek,,,,,
-2006,200,Atlanta Thrashers,Arturs Kulda,15.0,0.0,2.0,2.0,17.0
 2006,201,Colorado Avalanche,Billy Sauer,,,,,
 2006,202,San Jose Sharks,John McCarthy,88.0,3.0,3.0,6.0,94.0
 2006,203,San Jose Sharks,Jay Barriball,,,,,
@@ -3630,7 +3594,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2006,207,Buffalo Sabres,Benjamin Breault,,,,,
 2006,208,New Jersey Devils,Kyell Henegan,,,,,
 2006,209,Calgary Flames,Per Jonsson,,,,,
-2006,210,Atlanta Thrashers,Will O'Neill,1.0,0.0,0.0,0.0,1.0
 2006,211,Ottawa Senators,Erik Condra,372.0,40.0,59.0,99.0,471.0
 2006,212,Detroit Red Wings,Logan Pyett,,,,,
 2006,213,Carolina Hurricanes,Justin Krueger,,,,,
@@ -3649,7 +3612,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,13,Buffalo Sabres,Marek Zagrapan,,,,,
 2005,14,Washington Capitals,Sasha Pokulok,,,,,
 2005,15,New York Islanders,Ryan O'Marra,33.0,1.0,6.0,7.0,40.0
-2005,16,Atlanta Thrashers,Alex Bourret,,,,,
 2005,17,Phoenix Coyotes,Martin Hanzal,673.0,127.0,211.0,338.0,1011.0
 2005,18,Nashville Predators,Ryan Parent,106.0,1.0,6.0,7.0,113.0
 2005,19,Detroit Red Wings,Jakub Kindl,331.0,16.0,58.0,74.0,405.0
@@ -3674,7 +3636,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,38,New Jersey Devils,Jeff Frazee,1.0,0.0,0.0,0.0,1.0
 2005,39,Boston Bruins,Petr Kalus,11.0,4.0,1.0,5.0,16.0
 2005,40,New York Rangers,Michael Sauer,98.0,4.0,14.0,18.0,116.0
-2005,41,Atlanta Thrashers,Ondrej Pavelec,398.0,0.0,6.0,6.0,404.0
 2005,42,Detroit Red Wings,Justin Abdelkader,739.0,106.0,146.0,252.0,991.0
 2005,43,Chicago Blackhawks,Mike Blunden,127.0,7.0,6.0,13.0,140.0
 2005,44,Colorado Avalanche,Paul Stastny,1072.0,284.0,516.0,800.0,1872.0
@@ -3682,11 +3643,9 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,46,New York Islanders,Dustin Kohn,22.0,0.0,4.0,4.0,26.0
 2005,47,Colorado Avalanche,Tom Fritsche,,,,,
 2005,48,Buffalo Sabres,Philip Gogulla,,,,,
-2005,49,Atlanta Thrashers,Chad Denny,,,,,
 2005,50,Los Angeles Kings,Dany Roussin,,,,,
 2005,51,Vancouver Canucks,Mason Raymond,546.0,115.0,136.0,251.0,797.0
 2005,52,Colorado Avalanche,Chris Durand,,,,,
-2005,53,Atlanta Thrashers,Andrew Kozek,,,,,
 2005,54,Chicago Blackhawks,Dan Bertram,,,,,
 2005,55,Columbus Blue Jackets,Adam McQuaid,512.0,16.0,57.0,73.0,585.0
 2005,56,New York Rangers,Marc-Andre Cliche,151.0,3.0,11.0,14.0,165.0
@@ -3749,7 +3708,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,113,Chicago Blackhawks,Nathan Davis,,,,,
 2005,114,Vancouver Canucks,Alexandre Vincent,,,,,
 2005,115,Ottawa Senators,Janne Kolehmainen,,,,,
-2005,116,Atlanta Thrashers,Jordan Smotherman,4.0,1.0,1.0,2.0,6.0
 2005,117,Chicago Blackhawks,Denis Istomin,,,,,
 2005,118,Washington Capitals,Patrick McNeill,,,,,
 2005,119,Philadelphia Flyers,Jeremy Duchesne,1.0,0.0,0.0,0.0,1.0
@@ -3768,7 +3726,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,132,Detroit Red Wings,Darren Helm,812.0,119.0,147.0,266.0,1078.0
 2005,133,Tampa Bay Lightning,Stanislav Lascek,,,,,
 2005,134,Chicago Blackhawks,Brennan Turner,,,,,
-2005,135,Atlanta Thrashers,Tomas Pospisil,,,,,
 2005,136,Ottawa Senators,Tomas Kudelka,,,,,
 2005,137,Detroit Red Wings,Johan Ryno,,,,,
 2005,138,Vancouver Canucks,Matt Butcher,,,,,
@@ -3820,7 +3777,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,184,Los Angeles Kings,Ryan McGinnis,,,,,
 2005,185,Vancouver Canucks,Kris Fredheim,3.0,0.0,0.0,0.0,3.0
 2005,186,Ottawa Senators,Dmitri Megalinsky,,,,,
-2005,187,Atlanta Thrashers,Andrei Zubarev,4.0,0.0,1.0,1.0,5.0
 2005,188,Chicago Blackhawks,Joe Charlebois,,,,,
 2005,189,Columbus Blue Jackets,Kirill Starkov,,,,,
 2005,190,Montreal Canadiens,Matt D'Agostini,324.0,52.0,55.0,107.0,431.0
@@ -3840,7 +3796,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2005,204,Ottawa Senators,Colin Greening,286.0,45.0,57.0,102.0,388.0
 2005,205,Vancouver Canucks,Mario Bliznak,6.0,1.0,0.0,1.0,7.0
 2005,206,Los Angeles Kings,Josh Meyers,,,,,
-2005,207,Atlanta Thrashers,Myles Stoesz,,,,,
 2005,208,Buffalo Sabres,Matt Generous,,,,,
 2005,209,Washington Capitals,Viktor Dovgan,,,,,
 2005,210,New York Islanders,Luciano Aquino,,,,,
@@ -3873,7 +3828,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,7,Florida Panthers,Rostislav Olesz,365.0,57.0,77.0,134.0,499.0
 2004,8,Columbus Blue Jackets,Alexandre Picard,67.0,0.0,2.0,2.0,69.0
 2004,9,Anaheim Ducks,Ladislav Smid,583.0,12.0,60.0,72.0,655.0
-2004,10,Atlanta Thrashers,Boris Valabik,80.0,0.0,7.0,7.0,87.0
 2004,11,Los Angeles Kings,Lauri Tukonen,5.0,0.0,0.0,0.0,5.0
 2004,12,Minnesota Wild,A.J. Thelen,,,,,
 2004,13,Buffalo Sabres,Drew Stafford,841.0,196.0,232.0,428.0,1269.0
@@ -3903,7 +3857,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,37,Florida Panthers,David Shantz,,,,,
 2004,38,Carolina Hurricanes,Justin Peters,83.0,0.0,2.0,2.0,85.0
 2004,39,Anaheim Ducks,Jordan Smith,,,,,
-2004,40,Atlanta Thrashers,Grant Lewis,1.0,0.0,0.0,0.0,1.0
 2004,41,Chicago Blackhawks,Bryan Bickell,395.0,66.0,70.0,136.0,531.0
 2004,42,Minnesota Wild,Roman Voloshenko,,,,,
 2004,43,Buffalo Sabres,Michael Funk,9.0,0.0,2.0,2.0,11.0
@@ -3939,7 +3892,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,73,New York Rangers,Zdenek Bahensky,,,,,
 2004,74,Anaheim Ducks,Kyle Klubertanz,,,,,
 2004,75,Anaheim Ducks,Tim Brent,207.0,21.0,27.0,48.0,255.0
-2004,76,Atlanta Thrashers,Scott Lehman,1.0,0.0,0.0,0.0,1.0
 2004,77,Ottawa Senators,Shawn Weller,,,,,
 2004,78,Minnesota Wild,Peter Olvecky,32.0,2.0,5.0,7.0,39.0
 2004,79,Minnesota Wild,Clayton Stoner,360.0,7.0,41.0,48.0,408.0
@@ -3969,7 +3921,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,103,Phoenix Coyotes,Roman Tomanek,,,,,
 2004,104,Dallas Stars,Fredrik Naslund,,,,,
 2004,105,Florida Panthers,Evan Schafer,,,,,
-2004,106,Atlanta Thrashers,Chad Painchaud,,,,,
 2004,107,Nashville Predators,Nick Fugere,,,,,
 2004,108,Boston Bruins,Ashton Rome,,,,,
 2004,109,Carolina Hurricanes,Brett Carson,90.0,2.0,11.0,13.0,103.0
@@ -4005,7 +3956,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,139,Nashville Predators,Kyle Moir,,,,,
 2004,140,Chicago Blackhawks,Jake Dowell,157.0,11.0,22.0,33.0,190.0
 2004,141,Ottawa Senators,Jim McKenzie,,,,,
-2004,142,Atlanta Thrashers,Juraj Gracik,,,,,
 2004,143,Los Angeles Kings,Eric Neilson,,,,,
 2004,144,Philadelphia Flyers,Chris Zarb,,,,,
 2004,145,Buffalo Sabres,Michal Valent,,,,,
@@ -4049,7 +3999,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,183,Dallas Stars,Trevor Ludwig,,,,,
 2004,184,Colorado Avalanche,Derek Peltier,14.0,0.0,0.0,0.0,14.0
 2004,185,New Jersey Devils,Josh Disher,,,,,
-2004,186,Atlanta Thrashers,Dan Turple,,,,,
 2004,187,Toronto Maple Leafs,Robbie Earl,47.0,6.0,1.0,7.0,54.0
 2004,188,Tampa Bay Lightning,Jan Zapletal,,,,,
 2004,189,Vancouver Canucks,Julien Ellis,,,,,
@@ -4067,7 +4016,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,201,San Jose Sharks,Mike Vernace,22.0,0.0,1.0,1.0,23.0
 2004,202,Carolina Hurricanes,Ryan Pottruff,,,,,
 2004,203,Anaheim Ducks,Gabriel Bouthillette,,,,,
-2004,204,Atlanta Thrashers,Miikka Tuomainen,,,,,
 2004,205,Los Angeles Kings,Mike Curry,,,,,
 2004,206,Minnesota Wild,Anton Khudobin,259.0,0.0,8.0,8.0,267.0
 2004,207,Buffalo Sabres,Mark Mancari,42.0,3.0,10.0,13.0,55.0
@@ -4100,7 +4048,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,234,San Jose Sharks,Derek MacIntyre,,,,,
 2004,235,Carolina Hurricanes,Jonas Fiedler,,,,,
 2004,236,Anaheim Ducks,Matt Christie,,,,,
-2004,237,Atlanta Thrashers,Mitch Carefoot,,,,,
 2004,238,Los Angeles Kings,Yutaka Fukufuji,4.0,0.0,0.0,0.0,4.0
 2004,239,Colorado Avalanche,Brandon Yip,174.0,29.0,27.0,56.0,230.0
 2004,240,Phoenix Coyotes,Aaron Gagnon,38.0,3.0,2.0,5.0,43.0
@@ -4133,7 +4080,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2004,267,Florida Panthers,Spencer Dillon,,,,,
 2004,268,Carolina Hurricanes,Martin Vagner,,,,,
 2004,269,Anaheim Ducks,Janne Pesonen,7.0,0.0,0.0,0.0,7.0
-2004,270,Atlanta Thrashers,Matt Siddall,,,,,
 2004,271,Columbus Blue Jackets,Grant Clitsome,205.0,15.0,56.0,71.0,276.0
 2004,272,Minnesota Wild,Kyle Wilson,39.0,4.0,9.0,13.0,52.0
 2004,273,Buffalo Sabres,Dylan Hunter,,,,,
@@ -4162,7 +4108,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,5,Buffalo Sabres,Thomas Vanek,1029.0,373.0,416.0,789.0,1818.0
 2003,6,San Jose Sharks,Milan Michalek,747.0,208.0,238.0,446.0,1193.0
 2003,7,Nashville Predators,Ryan Suter,1280.0,100.0,539.0,639.0,1919.0
-2003,8,Atlanta Thrashers,Braydon Coburn,983.0,49.0,185.0,234.0,1217.0
 2003,9,Calgary Flames,Dion Phaneuf,1048.0,137.0,357.0,494.0,1542.0
 2003,10,Montreal Canadiens,Andrei Kostitsyn,398.0,103.0,119.0,222.0,620.0
 2003,11,Philadelphia Flyers,Jeff Carter,1170.0,418.0,389.0,807.0,1977.0
@@ -4264,13 +4209,11 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,107,Boston Bruins,Byron Bitz,97.0,10.0,12.0,22.0,119.0
 2003,108,Philadelphia Flyers,Kevin Romy,,,,,
 2003,109,Washington Capitals,Andreas Valdix,,,,,
-2003,110,Atlanta Thrashers,Jim Sharrow,,,,,
 2003,111,Vancouver Canucks,Brandon Nolan,6.0,0.0,1.0,1.0,7.0
 2003,112,Calgary Flames,Jamie Tardif,2.0,0.0,0.0,0.0,2.0
 2003,113,Montreal Canadiens,Corey Locke,9.0,0.0,1.0,1.0,10.0
 2003,114,Buffalo Sabres,Denis Ezhov,,,,,
 2003,115,Phoenix Coyotes,Liam Lindstrom,,,,,
-2003,116,Atlanta Thrashers,Guillaume Desbiens,23.0,0.0,0.0,0.0,23.0
 2003,117,Nashville Predators,Teemu Lassila,,,,,
 2003,118,Boston Bruins,Frank Rediker,,,,,
 2003,119,Anaheim Ducks,Nathan Saunders,,,,,
@@ -4290,7 +4233,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,133,Nashville Predators,Rustam Sidikov,,,,,
 2003,134,Dallas Stars,Alexander Naurov,,,,,
 2003,135,Ottawa Senators,Mattias Karlsson,,,,,
-2003,136,Atlanta Thrashers,Michael Vannelli,,,,,
 2003,137,Carolina Hurricanes,Tyson Strachan,186.0,1.0,19.0,20.0,206.0
 2003,138,Columbus Blue Jackets,Arsi Piispanen,,,,,
 2003,139,San Jose Sharks,Patrick Ehelechner,,,,,
@@ -4299,7 +4241,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,142,Ottawa Senators,Tim Cook,,,,,
 2003,143,Calgary Flames,Greg Moore,10.0,0.0,0.0,0.0,10.0
 2003,144,Dallas Stars,Eero Kilpelainen,,,,,
-2003,145,Atlanta Thrashers,Brett Sterling,30.0,5.0,4.0,9.0,39.0
 2003,146,Colorado Avalanche,Mark McCutcheon,,,,,
 2003,147,Edmonton Oilers,Kalle Olsson,,,,,
 2003,148,St. Louis Blues,Lee Stempniak,911.0,203.0,266.0,469.0,1380.0
@@ -4329,7 +4270,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,172,Buffalo Sabres,Pavel Voroshnin,,,,,
 2003,173,Calgary Flames,Tyler Johnson,,,,,
 2003,174,Los Angeles Kings,Esa Pirnes,57.0,3.0,8.0,11.0,68.0
-2003,175,Atlanta Thrashers,Mike Hamilton,,,,,
 2003,176,New York Rangers,Ivan Dornic,,,,,
 2003,177,Montreal Canadiens,Chris Heino-Lindberg,,,,,
 2003,178,Phoenix Coyotes,Ryan Gibbons,,,,,
@@ -4357,7 +4297,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,200,Columbus Blue Jackets,Alexander Guskov,,,,,
 2003,201,San Jose Sharks,Jonathan Tremblay,,,,,
 2003,202,Buffalo Sabres,Nathan Paetsch,167.0,7.0,35.0,42.0,209.0
-2003,203,Atlanta Thrashers,Denis Loginov,,,,,
 2003,204,Colorado Avalanche,Linus Videll,,,,,
 2003,205,San Jose Sharks,Joe Pavelski,1168.0,421.0,503.0,924.0,2092.0
 2003,206,Calgary Flames,Thomas Bellemare,,,,,
@@ -4393,7 +4332,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,236,San Jose Sharks,Alexander Hult,,,,,
 2003,237,Toronto Maple Leafs,Shaun Landolt,,,,,
 2003,238,New York Islanders,Cody Blanshan,,,,,
-2003,239,Atlanta Thrashers,Toby Enstrom,719.0,54.0,254.0,308.0,1027.0
 2003,240,Calgary Flames,Cam Cunning,,,,,
 2003,241,Montreal Canadiens,Jimmy Bonneau,,,,,
 2003,242,Phoenix Coyotes,Eduard Lewandowski,,,,,
@@ -4423,7 +4361,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,266,Buffalo Sabres,Louis-Philippe Martin,,,,,
 2003,267,San Jose Sharks,Brian O'Hanley,,,,,
 2003,268,Nashville Predators,Lauris Darzins,,,,,
-2003,269,Atlanta Thrashers,Rylan Kaip,,,,,
 2003,270,Calgary Flames,Kevin Harvey,,,,,
 2003,271,Montreal Canadiens,Jaroslav Halak,556.0,0.0,12.0,12.0,568.0
 2003,272,Phoenix Coyotes,Sean Sullivan,,,,,
@@ -4448,7 +4385,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2003,291,Ottawa Senators,Brian Elliott,521.0,0.0,10.0,10.0,531.0
 2003,292,New Jersey Devils,Arseny Bondarev,,,,,
 2002,1,Columbus Blue Jackets,Rick Nash,1060.0,437.0,368.0,805.0,1865.0
-2002,2,Atlanta Thrashers,Kari Lehtonen,649.0,0.0,28.0,28.0,677.0
 2002,3,Florida Panthers,Jay Bouwmeester,1240.0,88.0,336.0,424.0,1664.0
 2002,4,Philadelphia Flyers,Joni Pitkanen,535.0,57.0,225.0,282.0,817.0
 2002,5,Pittsburgh Penguins,Ryan Whitney,481.0,50.0,209.0,259.0,740.0
@@ -4476,7 +4412,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,27,San Jose Sharks,Mike Morris,,,,,
 2002,28,Colorado Avalanche,Jonas Johansson,1.0,0.0,0.0,0.0,1.0
 2002,29,Boston Bruins,Hannu Toivonen,61.0,0.0,0.0,0.0,61.0
-2002,30,Atlanta Thrashers,Jim Slater,584.0,67.0,71.0,138.0,722.0
 2002,31,Edmonton Oilers,Jeff Deslauriers,62.0,0.0,4.0,4.0,66.0
 2002,32,Dallas Stars,Janos Vas,,,,,
 2002,33,New York Rangers,Lee Falardeau,,,,,
@@ -4562,7 +4497,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,113,Ottawa Senators,Scott Dobben,,,,,
 2002,114,Vancouver Canucks,John Laliberte,,,,,
 2002,115,Los Angeles Kings,Mark Rooneem,,,,,
-2002,116,Atlanta Thrashers,Patrick Dwyer,416.0,42.0,51.0,93.0,509.0
 2002,117,New Jersey Devils,Cam Janssen,336.0,6.0,8.0,14.0,350.0
 2002,118,Washington Capitals,Petr Dvorak,,,,,
 2002,119,Columbus Blue Jackets,Jekabs Redlihs,,,,,
@@ -4570,7 +4504,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,121,Buffalo Sabres,Marty Magers,,,,,
 2002,122,Toronto Maple Leafs,David Turon,,,,,
 2002,123,Edmonton Oilers,invalid pick,,,,,
-2002,124,Atlanta Thrashers,Lane Manson,,,,,
 2002,125,Ottawa Senators,Johan Bjork,,,,,
 2002,126,Philadelphia Flyers,Konstantin Baranov,,,,,
 2002,127,New York Rangers,Nate Guenin,205.0,5.0,23.0,28.0,233.0
@@ -4590,7 +4523,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,141,Calgary Flames,Jiri Cetkovsky,,,,,
 2002,142,Calgary Flames,Emanuel Peter,,,,,
 2002,143,New York Rangers,Mike Walsh,,,,,
-2002,144,Atlanta Thrashers,Paul Flache,,,,,
 2002,145,Washington Capitals,Rob Gherson,,,,,
 2002,146,Calgary Flames,Viktor Bobrov,,,,,
 2002,147,Dallas Stars,David Bararuk,,,,,
@@ -4613,7 +4545,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,164,Colorado Avalanche,Tyler Weiman,1.0,0.0,0.0,0.0,1.0
 2002,165,St. Louis Blues,Justin Maiser,,,,,
 2002,166,Detroit Red Wings,Logan Koopmans,,,,,
-2002,167,Atlanta Thrashers,Brad Schell,,,,,
 2002,168,Columbus Blue Jackets,Tim Konsorada,,,,,
 2002,169,Florida Panthers,Jeremy Swanson,,,,,
 2002,170,Tampa Bay Lightning,P.J. Atherton,,,,,
@@ -4644,7 +4575,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,195,Colorado Avalanche,Taylor Christie,,,,,
 2002,196,Florida Panthers,Mikael Vuorio,,,,,
 2002,197,Detroit Red Wings,Jimmy Cuddihy,,,,,
-2002,198,Atlanta Thrashers,Nathan Oystrick,65.0,5.0,10.0,15.0,80.0
 2002,199,Columbus Blue Jackets,Greg Mauldin,36.0,5.0,5.0,10.0,46.0
 2002,200,Florida Panthers,Denis Yachmenev,,,,,
 2002,201,Philadelphia Flyers,Mathieu Brunelle,,,,,
@@ -4676,13 +4606,11 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,227,Colorado Avalanche,Ryan Steeves,,,,,
 2002,228,Boston Bruins,Dmitri Utkin,,,,,
 2002,229,Detroit Red Wings,Derek Meech,144.0,4.0,13.0,17.0,161.0
-2002,230,Atlanta Thrashers,Colton Fretter,,,,,
 2002,231,Columbus Blue Jackets,Jaroslav Kracik,,,,,
 2002,232,Florida Panthers,Peter Hafner,,,,,
 2002,233,Tampa Bay Lightning,Vasily Koshechkin,,,,,
 2002,234,Pittsburgh Penguins,Maxime Talbot,704.0,91.0,113.0,204.0,908.0
 2002,235,Nashville Predators,Kaleb Betts,,,,,
-2002,236,Atlanta Thrashers,Tyler Boldt,,,,,
 2002,237,Minnesota Wild,Christoph Brandner,35.0,4.0,5.0,9.0,44.0
 2002,238,Calgary Flames,Jyri Marttinen,,,,,
 2002,239,Pittsburgh Penguins,Ryan Lannon,,,,,
@@ -4703,7 +4631,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,254,Toronto Maple Leafs,Jarkko Immonen,20.0,3.0,5.0,8.0,28.0
 2002,255,Tampa Bay Lightning,Ryan Craig,198.0,32.0,31.0,63.0,261.0
 2002,256,Tampa Bay Lightning,Darren Reid,21.0,0.0,1.0,1.0,22.0
-2002,257,Atlanta Thrashers,Pauli Levokari,,,,,
 2002,258,Colorado Avalanche,Sergei Shemetov,,,,,
 2002,259,Boston Bruins,Yan Stastny,91.0,6.0,10.0,16.0,107.0
 2002,260,Detroit Red Wings,Pierre-Olivier Beaulieu,,,,,
@@ -4738,7 +4665,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2002,289,Colorado Avalanche,Sean Collins,,,,,
 2002,290,Boston Bruins,Pavel Frolov,,,,,
 2002,291,Detroit Red Wings,Jonathan Ericsson,680.0,27.0,98.0,125.0,805.0
-2001,1,Atlanta Thrashers,Ilya Kovalchuk,926.0,443.0,433.0,876.0,1802.0
 2001,2,Ottawa Senators,Jason Spezza,1248.0,363.0,632.0,995.0,2243.0
 2001,3,Tampa Bay Lightning,Alexander Svitov,179.0,13.0,24.0,37.0,216.0
 2001,4,Florida Panthers,Stephen Weiss,732.0,156.0,267.0,423.0,1155.0
@@ -4817,7 +4743,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,77,Boston Bruins,Darren McLachlan,,,,,
 2001,78,Phoenix Coyotes,Beat Forster,,,,,
 2001,79,New York Rangers,Garth Murray,116.0,8.0,2.0,10.0,126.0
-2001,80,Atlanta Thrashers,Michael Garnett,24.0,0.0,2.0,2.0,26.0
 2001,81,Ottawa Senators,Neil Komadoski,,,,,
 2001,82,Toronto Maple Leafs,Jay Harrison,372.0,23.0,52.0,75.0,447.0
 2001,83,Los Angeles Kings,Henrik Juntunen,,,,,
@@ -4837,7 +4762,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,97,Colorado Avalanche,Danny Bois,1.0,0.0,0.0,0.0,1.0
 2001,98,Nashville Predators,Jordin Tootoo,723.0,65.0,96.0,161.0,884.0
 2001,99,Ottawa Senators,Ray Emery,287.0,0.0,4.0,4.0,291.0
-2001,100,Atlanta Thrashers,Brian Sipotz,,,,,
 2001,101,New York Islanders,Cory Stillman,,,,,
 2001,102,Anaheim Ducks,Timo Parssinen,17.0,0.0,3.0,3.0,20.0
 2001,103,Minnesota Wild,Tony Virta,8.0,2.0,3.0,5.0,13.0
@@ -4849,7 +4773,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,109,Montreal Canadiens,Martti Jarventie,1.0,0.0,0.0,0.0,1.0
 2001,110,Carolina Hurricanes,Rob Zepp,10.0,0.0,0.0,0.0,10.0
 2001,111,Boston Bruins,Matti Kaltiainen,,,,,
-2001,112,Atlanta Thrashers,Milan Gajic,,,,,
 2001,113,New York Rangers,Bryce Lampman,10.0,0.0,0.0,0.0,10.0
 2001,114,Vancouver Canucks,Evgeny Gladskikh,,,,,
 2001,115,Chicago Blackhawks,Vladimir Gusev,,,,,
@@ -4872,7 +4795,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,132,New York Islanders,Dusan Salficky,,,,,
 2001,133,Edmonton Oilers,Jussi Markkanen,128.0,0.0,2.0,2.0,130.0
 2001,134,Toronto Maple Leafs,Kyle Wellwood,489.0,92.0,143.0,235.0,724.0
-2001,135,Atlanta Thrashers,Colin Stuart,56.0,8.0,5.0,13.0,69.0
 2001,136,Florida Panthers,Billy Thompson,,,,,
 2001,137,Anaheim Ducks,Joel Perrault,96.0,12.0,14.0,26.0,122.0
 2001,138,Tampa Bay Lightning,Paul Lynch,,,,,
@@ -4926,7 +4848,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,186,Chicago Blackhawks,Petr Puncochar,,,,,
 2001,187,Columbus Blue Jackets,Artem Vostrikov,,,,,
 2001,188,Tampa Bay Lightning,Art Femenella,,,,,
-2001,189,Atlanta Thrashers,Pasi Nurminen,125.0,0.0,5.0,5.0,130.0
 2001,190,St. Louis Blues,Brett Scheffelmaier,,,,,
 2001,191,Washington Capitals,Zbynek Novak,,,,,
 2001,192,Dallas Stars,Jussi Jokinen,951.0,191.0,372.0,563.0,1514.0
@@ -4936,9 +4857,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,196,Colorado Avalanche,Charlie Stephens,8.0,0.0,2.0,2.0,10.0
 2001,197,New York Islanders,Jan Holub,,,,,
 2001,198,Toronto Maple Leafs,Ivan Kolozvary,,,,,
-2001,199,Atlanta Thrashers,Matt Suderman,,,,,
 2001,200,Florida Panthers,Toni Koivisto,,,,,
-2001,201,Atlanta Thrashers,Colin FitzRandolph,,,,,
 2001,202,Minnesota Wild,Derek Boogaard,277.0,3.0,13.0,16.0,293.0
 2001,203,Montreal Canadiens,Andrew Archer,,,,,
 2001,204,Columbus Blue Jackets,Raffaele Sannitz,,,,,
@@ -4999,7 +4918,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,259,Tampa Bay Lightning,Dmitri Bezrukov,,,,,
 2001,260,New York Islanders,Bryan Perez,,,,,
 2001,261,Tampa Bay Lightning,Vitali Smolyaninov,,,,,
-2001,262,Atlanta Thrashers,Mario Cartelli,,,,,
 2001,263,Florida Panthers,Jan Blanar,,,,,
 2001,264,Anaheim Ducks,P.A. Parenteau,491.0,114.0,182.0,296.0,787.0
 2001,265,Dallas Stars,Dale Sullivan,,,,,
@@ -5028,7 +4946,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2001,288,Detroit Red Wings,Francois Senez,,,,,
 2001,289,Tampa Bay Lightning,Henrik Bergfors,,,,,
 2000,1,New York Islanders,Rick DiPietro,318.0,0.0,19.0,19.0,337.0
-2000,2,Atlanta Thrashers,Dany Heatley,869.0,372.0,419.0,791.0,1660.0
 2000,3,Minnesota Wild,Marian Gaborik,1035.0,407.0,408.0,815.0,1850.0
 2000,4,Columbus Blue Jackets,Rostislav Klesla,659.0,48.0,111.0,159.0,818.0
 2000,5,New York Islanders,Raffi Torres,635.0,137.0,123.0,260.0,895.0
@@ -5057,7 +4974,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,28,Philadelphia Flyers,Justin Williams,1264.0,320.0,477.0,797.0,2061.0
 2000,29,Detroit Red Wings,Niklas Kronwall,953.0,83.0,349.0,432.0,1385.0
 2000,30,St. Louis Blues,Jeff Taffe,180.0,21.0,25.0,46.0,226.0
-2000,31,Atlanta Thrashers,Ilja Nikulin,,,,,
 2000,32,Carolina Hurricanes,Tomas Kurka,17.0,3.0,2.0,5.0,22.0
 2000,33,Minnesota Wild,Nick Schultz,1069.0,30.0,145.0,175.0,1244.0
 2000,34,Tampa Bay Lightning,Ruslan Zainullin,,,,,
@@ -5068,7 +4984,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,39,New Jersey Devils,Teemu Laine,,,,,
 2000,40,Calgary Flames,Kurtis Foster,405.0,42.0,118.0,160.0,565.0
 2000,41,San Jose Sharks,Tero Maatta,,,,,
-2000,42,Atlanta Thrashers,Libor Ustrnul,,,,,
 2000,43,Washington Capitals,Matt Pettinger,422.0,65.0,58.0,123.0,545.0
 2000,44,Anaheim Ducks,Ilya Bryzgalov,465.0,0.0,12.0,12.0,477.0
 2000,45,Ottawa Senators,Mathieu Chouinard,1.0,0.0,0.0,0.0,1.0
@@ -5133,8 +5048,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,104,San Jose Sharks,Jon DiSalvatore,6.0,0.0,0.0,0.0,6.0
 2000,105,New York Islanders,Vladimir Gorbunov,,,,,
 2000,106,Chicago Blackhawks,Scott Balan,,,,,
-2000,107,Atlanta Thrashers,Carl Mallette,,,,,
-2000,108,Atlanta Thrashers,Blake Robson,,,,,
 2000,109,Montreal Canadiens,Johan Eneqvist,,,,,
 2000,110,Carolina Hurricanes,Jared Newman,,,,,
 2000,111,Buffalo Sabres,Ghyslain Rousseau,,,,,
@@ -5173,7 +5086,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,144,Vancouver Canucks,Pavel Duma,,,,,
 2000,145,Montreal Canadiens,Ryan Glenn,,,,,
 2000,146,Pittsburgh Penguins,David Koci,142.0,3.0,1.0,4.0,146.0
-2000,147,Atlanta Thrashers,Matt McRae,,,,,
 2000,148,New York Islanders,Kristofer Ottosson,,,,,
 2000,149,Buffalo Sabres,Denis Denisov,,,,,
 2000,150,Columbus Blue Jackets,Tyler Kolarik,,,,,
@@ -5194,7 +5106,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,165,Los Angeles Kings,Nathan Marsters,,,,,
 2000,166,San Jose Sharks,Nolan Schaefer,7.0,0.0,0.0,0.0,7.0
 2000,167,St. Louis Blues,Craig Weller,95.0,4.0,10.0,14.0,109.0
-2000,168,Atlanta Thrashers,Zdenek Smid,,,,,
 2000,169,Columbus Blue Jackets,Shane Bendera,,,,,
 2000,170,Minnesota Wild,Erik Reitz,48.0,1.0,1.0,2.0,50.0
 2000,171,Philadelphia Flyers,Roman Cechmanek,212.0,0.0,1.0,1.0,213.0
@@ -5204,9 +5115,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,175,New York Rangers,Sven Helfenstein,,,,,
 2000,176,Calgary Flames,Jukka Hentunen,38.0,4.0,5.0,9.0,47.0
 2000,177,Chicago Blackhawks,Michael Ayers,,,,,
-2000,178,Atlanta Thrashers,Jeff Dwyer,,,,,
 2000,179,Toronto Maple Leafs,Vadim Sozinov,,,,,
-2000,180,Atlanta Thrashers,Darcy Hordichuk,542.0,20.0,21.0,41.0,583.0
 2000,181,Carolina Hurricanes,J.D. Forrest,,,,,
 2000,182,Montreal Canadiens,Petr Chvojka,,,,,
 2000,183,San Jose Sharks,Michal Macho,,,,,
@@ -5256,7 +5165,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,227,Philadelphia Flyers,Guillaume Lefebvre,39.0,2.0,4.0,6.0,45.0
 2000,228,Detroit Red Wings,Jimmie Svensson,,,,,
 2000,229,St. Louis Blues,Brett Lutes,,,,,
-2000,230,Atlanta Thrashers,Samu Isosalo,,,,,
 2000,231,Columbus Blue Jackets,Peter Zingoni,,,,,
 2000,232,Minnesota Wild,Lubomir Sekeras,213.0,18.0,53.0,71.0,284.0
 2000,233,Tampa Bay Lightning,Alexander Polukeyev,,,,,
@@ -5268,9 +5176,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,239,Calgary Flames,David Hajek,,,,,
 2000,240,Chicago Blackhawks,Adam Berkhoel,9.0,0.0,0.0,0.0,9.0
 2000,241,Vancouver Canucks,Nathan Barrett,,,,,
-2000,242,Atlanta Thrashers,Evan Nielsen,,,,,
 2000,243,Montreal Canadiens,Joni Puurula,,,,,
-2000,244,Atlanta Thrashers,Eric Bowen,,,,,
 2000,245,Los Angeles Kings,Dan Welch,,,,,
 2000,246,San Jose Sharks,Chad Wiseman,9.0,1.0,1.0,2.0,11.0
 2000,247,Edmonton Oilers,Jason Platt,,,,,
@@ -5314,13 +5220,10 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 2000,285,Colorado Avalanche,Blake Ward,,,,,
 2000,286,Columbus Blue Jackets,Andrej Nedorost,28.0,2.0,3.0,5.0,33.0
 2000,287,Philadelphia Flyers,Milan Kopecky,,,,,
-2000,288,Atlanta Thrashers,Mark McRae,,,,,
 2000,289,Washington Capitals,Bjorn Nord,,,,,
-2000,290,Atlanta Thrashers,Simon Gamache,48.0,6.0,7.0,13.0,61.0
 2000,291,Chicago Blackhawks,Arne Ramholt,,,,,
 2000,292,Columbus Blue Jackets,Louis Mandeville,,,,,
 2000,293,St. Louis Blues,Lauri Kinos,,,,,
-1999,1,Atlanta Thrashers,Patrik Stefan,455.0,64.0,124.0,188.0,643.0
 1999,2,Vancouver Canucks,Daniel Sedin,1306.0,393.0,648.0,1041.0,2347.0
 1999,3,Vancouver Canucks,Henrik Sedin,1330.0,240.0,830.0,1070.0,2400.0
 1999,4,New York Rangers,Pavel Brendl,78.0,11.0,11.0,22.0,100.0
@@ -5349,7 +5252,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,27,New Jersey Devils,Ari Ahonen,,,,,
 1999,28,New York Islanders,Kristian Kudroc,26.0,2.0,2.0,4.0,30.0
 1999,29,Washington Capitals,Michal Sivek,38.0,3.0,3.0,6.0,44.0
-1999,30,Atlanta Thrashers,Luke Sellars,1.0,0.0,0.0,0.0,1.0
 1999,31,Washington Capitals,Charlie Stephens,8.0,0.0,2.0,2.0,10.0
 1999,32,Dallas Stars,Michael Ryan,83.0,7.0,8.0,15.0,98.0
 1999,33,Nashville Predators,Jonas Andersson,9.0,0.0,0.0,0.0,9.0
@@ -5387,7 +5289,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,65,Nashville Predators,Jan Lasak,6.0,0.0,0.0,0.0,6.0
 1999,66,Dallas Stars,Dan Jancevski,9.0,0.0,0.0,0.0,9.0
 1999,67,Tampa Bay Lightning,Evgeny Konstantinov,2.0,0.0,0.0,0.0,2.0
-1999,68,Atlanta Thrashers,Zdenek Blatny,25.0,3.0,0.0,3.0,28.0
 1999,69,Vancouver Canucks,Rene Vydareny,,,,,
 1999,70,Florida Panthers,Niklas Hagman,770.0,147.0,154.0,301.0,1071.0
 1999,71,Phoenix Coyotes,Jason Jaspers,9.0,0.0,1.0,1.0,10.0
@@ -5417,8 +5318,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,95,New Jersey Devils,Andre Lakos,,,,,
 1999,96,Dallas Stars,Mathias Tjarnqvist,173.0,13.0,19.0,32.0,205.0
 1999,97,Montreal Canadiens,Chris Dyment,,,,,
-1999,98,Atlanta Thrashers,David Kaczowka,,,,,
-1999,99,Atlanta Thrashers,Rob Zepp,10.0,0.0,0.0,0.0,10.0
 1999,100,New Jersey Devils,Teemu Kesa,,,,,
 1999,101,New York Islanders,Juraj Kolnik,240.0,46.0,49.0,95.0,335.0
 1999,102,New York Islanders,Johan Halvardsson,,,,,
@@ -5447,7 +5346,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,125,Los Angeles Kings,Daniel Johansson,,,,,
 1999,126,Dallas Stars,Jeff Bateman,,,,,
 1999,127,Tampa Bay Lightning,Kaspars Astashenko,23.0,1.0,2.0,3.0,26.0
-1999,128,Atlanta Thrashers,Derek MacKenzie,611.0,51.0,74.0,125.0,736.0
 1999,129,Vancouver Canucks,Ryan Thorpe,,,,,
 1999,130,New York Islanders,Justin Mapletoft,38.0,3.0,6.0,9.0,47.0
 1999,131,Nashville Predators,Konstantin Panov,,,,,
@@ -5478,7 +5376,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,156,Dallas Stars,Gregor Baumgartner,,,,,
 1999,157,Pittsburgh Penguins,Vladimir Malenkykh,,,,,
 1999,158,Colorado Avalanche,Anders Lovdahl,,,,,
-1999,159,Atlanta Thrashers,Yuri Dobryshkin,,,,,
 1999,160,Philadelphia Flyers,Konstantin Rudenko,,,,,
 1999,161,Toronto Maple Leafs,Jan Sochor,,,,,
 1999,162,Nashville Predators,Timo Helbling,11.0,0.0,1.0,1.0,12.0
@@ -5507,7 +5404,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,185,New Jersey Devils,Scott Cameron,,,,,
 1999,186,Dallas Stars,Brett Draney,,,,,
 1999,187,Tampa Bay Lightning,Ivan Rachunek,,,,,
-1999,188,Atlanta Thrashers,Stephen Baby,,,,,
 1999,189,Vancouver Canucks,Kevin Swanson,,,,,
 1999,190,Calgary Flames,Blair Stayzer,,,,,
 1999,191,Nashville Predators,Martin Erat,881.0,176.0,369.0,545.0,1426.0
@@ -5536,7 +5432,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,214,New Jersey Devils,Chris Hartsburg,,,,,
 1999,215,Dallas Stars,Jeff MacMillan,4.0,0.0,0.0,0.0,4.0
 1999,216,Tampa Bay Lightning,Erkki Rajamaki,,,,,
-1999,217,Atlanta Thrashers,Garnet Exelby,408.0,7.0,43.0,50.0,458.0
 1999,218,Vancouver Canucks,Markus Kankaanpera,,,,,
 1999,219,Washington Capitals,Maxim Orlov,,,,,
 1999,220,Nashville Predators,Miroslav Durak,,,,,
@@ -5564,8 +5459,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1999,242,New Jersey Devils,Justin Dziama,,,,,
 1999,243,Dallas Stars,Brian Sullivan,,,,,
 1999,244,Tampa Bay Lightning,Mikko Kuparinen,,,,,
-1999,245,Atlanta Thrashers,Tommi Santala,63.0,2.0,7.0,9.0,72.0
-1999,246,Atlanta Thrashers,Raymond DiLauro,,,,,
 1999,247,Boston Bruins,Mikko Eloranta,264.0,32.0,44.0,76.0,340.0
 1999,248,Nashville Predators,Darren Haydar,23.0,1.0,7.0,8.0,31.0
 1999,249,Washington Capitals,Igor Shadilov,,,,,
@@ -6129,7 +6022,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,31,Chicago Blackhawks,Remi Royer,18.0,0.0,0.0,0.0,18.0
 1996,32,Edmonton Oilers,Chris Hajt,6.0,0.0,0.0,0.0,6.0
 1996,33,Buffalo Sabres,Darren Van Oene,,,,,
-1996,34,Hartford Whalers,Trevor Wasyluk,,,,,
 1996,35,Anaheim Ducks,Matt Cullen,1516.0,266.0,465.0,731.0,2247.0
 1996,36,Toronto Maple Leafs,Marek Posmyk,19.0,1.0,2.0,3.0,22.0
 1996,37,Los Angeles Kings,Marian Cisar,73.0,13.0,17.0,30.0,103.0
@@ -6156,7 +6048,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,58,Washington Capitals,Sergei Zimakov,,,,,
 1996,59,Edmonton Oilers,Tom Poti,824.0,69.0,258.0,327.0,1151.0
 1996,60,Florida Panthers,Chris Allen,2.0,0.0,0.0,0.0,2.0
-1996,61,Hartford Whalers,Andrei Petrunin,,,,,
 1996,62,Phoenix Coyotes,Per-Anton Lundstrom,,,,,
 1996,63,New Jersey Devils,Scott Parker,308.0,7.0,14.0,21.0,329.0
 1996,64,Philadelphia Flyers,Chester Gallant,,,,,
@@ -6183,7 +6074,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,85,Washington Capitals,Justin Davis,,,,,
 1996,86,Toronto Maple Leafs,Jason Sessa,,,,,
 1996,87,Buffalo Sabres,Kurt Walsh,,,,,
-1996,88,Hartford Whalers,Craig MacDonald,233.0,11.0,24.0,35.0,268.0
 1996,89,Calgary Flames,Toni Lydman,847.0,36.0,206.0,242.0,1089.0
 1996,90,Dallas Stars,Mike Hurley,,,,,
 1996,91,New Jersey Devils,Josef Boumedienne,47.0,4.0,12.0,16.0,63.0
@@ -6199,7 +6089,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,101,New Jersey Devils,Josh MacNevin,,,,,
 1996,102,San Jose Sharks,Matt Bradley,675.0,59.0,90.0,149.0,824.0
 1996,103,Toronto Maple Leafs,Vladimir Antipov,,,,,
-1996,104,Hartford Whalers,Steve Wasylko,,,,,
 1996,105,Pittsburgh Penguins,Michal Rozsival,963.0,68.0,241.0,309.0,1272.0
 1996,106,Buffalo Sabres,Mike Martone,,,,,
 1996,107,Colorado Avalanche,Randy Petruk,,,,,
@@ -6211,7 +6100,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,113,Dallas Stars,Yevgeny Tsybuk,,,,,
 1996,114,Edmonton Oilers,Brian Urick,,,,,
 1996,115,Buffalo Sabres,Alexei Tezikov,30.0,1.0,1.0,2.0,32.0
-1996,116,Hartford Whalers,Mark McMahon,,,,,
 1996,117,Anaheim Ducks,Brendan Buckley,,,,,
 1996,118,New Jersey Devils,Glenn Crawford,,,,,
 1996,119,Phoenix Coyotes,Richard Lintner,112.0,8.0,12.0,20.0,132.0
@@ -6238,7 +6126,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,140,Toronto Maple Leafs,Dmitri Yakushin,2.0,0.0,0.0,0.0,2.0
 1996,141,Edmonton Oilers,Bryan Randall,,,,,
 1996,142,Buffalo Sabres,Ryan Davis,,,,,
-1996,143,Hartford Whalers,Aaron Baker,,,,,
 1996,144,Detroit Red Wings,Magnus Nilsson,,,,,
 1996,145,New Jersey Devils,Sean Ritchlin,,,,,
 1996,146,Colorado Avalanche,Brian Willsie,381.0,52.0,57.0,109.0,490.0
@@ -6266,7 +6153,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,168,Edmonton Oilers,David Bernier,,,,,
 1996,169,St. Louis Blues,Daniel Corso,77.0,14.0,11.0,25.0,102.0
 1996,170,Edmonton Oilers,Brandon Lafrance,,,,,
-1996,171,Hartford Whalers,Greg Kuznik,1.0,0.0,0.0,0.0,1.0
 1996,172,Anaheim Ducks,Timo Ahmaoja,,,,,
 1996,173,New Jersey Devils,Daryl Andrews,,,,,
 1996,174,Phoenix Coyotes,Trevor Letowski,616.0,84.0,117.0,201.0,817.0
@@ -6292,7 +6178,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,194,Dallas Stars,Joel Kwiatkowski,282.0,16.0,29.0,45.0,327.0
 1996,195,Edmonton Oilers,Fernando Pisani,462.0,87.0,82.0,169.0,631.0
 1996,196,St. Louis Blues,Andrej Podkonicky,8.0,1.0,0.0,1.0,9.0
-1996,197,Hartford Whalers,Kevin Marsh,,,,,
 1996,198,Anaheim Ducks,Kevin Kellett,,,,,
 1996,199,New Jersey Devils,Willie Mitchell,907.0,34.0,146.0,180.0,1087.0
 1996,200,Phoenix Coyotes,Nicholas Lent,,,,,
@@ -6318,7 +6203,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,220,Dallas Stars,Nick Bootland,,,,,
 1996,221,Edmonton Oilers,John Hultberg,,,,,
 1996,222,Buffalo Sabres,Scott Buhler,,,,,
-1996,223,Hartford Whalers,Craig Adams,951.0,55.0,105.0,160.0,1111.0
 1996,224,Anaheim Ducks,Tobias Johwelin,,,,,
 1996,225,New Jersey Devils,Pasi Petrilainen,,,,,
 1996,226,Phoenix Coyotes,Marc-Etienne Hubert,,,,,
@@ -6326,7 +6210,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1996,228,Calgary Flames,Ronald Petrovicky,342.0,41.0,51.0,92.0,434.0
 1996,229,St. Louis Blues,Konstantin Shafranov,5.0,2.0,1.0,3.0,8.0
 1996,230,Toronto Maple Leafs,Jared Hope,,,,,
-1996,231,Hartford Whalers,Ashkat Rakhmatullin,,,,,
 1996,232,Washington Capitals,Chad Cavanagh,,,,,
 1996,233,Montreal Canadiens,Michel Tremblay,,,,,
 1996,234,Boston Bruins,Anders Soderberg,,,,,
@@ -6349,7 +6232,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,10,Florida Panthers,Radek Dvorak,1260.0,227.0,363.0,590.0,1850.0
 1995,11,Dallas Stars,Jarome Iginla,1554.0,625.0,675.0,1300.0,2854.0
 1995,12,San Jose Sharks,Teemu Riihijarvi,,,,,
-1995,13,Hartford Whalers,Jean-Sebastien Giguere,597.0,0.0,7.0,7.0,604.0
 1995,14,Buffalo Sabres,Jay McKee,802.0,21.0,104.0,125.0,927.0
 1995,15,Toronto Maple Leafs,Jeff Ware,21.0,0.0,1.0,1.0,22.0
 1995,16,Buffalo Sabres,Martin Biron,508.0,0.0,14.0,14.0,522.0
@@ -6371,7 +6253,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,32,Winnipeg Jets,Marc Chouinard,320.0,37.0,41.0,78.0,398.0
 1995,33,Los Angeles Kings,Don MacLean,41.0,8.0,5.0,13.0,54.0
 1995,34,Winnipeg Jets,Jason Doig,158.0,6.0,18.0,24.0,182.0
-1995,35,Hartford Whalers,Sergei Fedotov,,,,,
 1995,36,Florida Panthers,Aaron MacDonald,,,,,
 1995,37,Dallas Stars,Patrick Cote,105.0,1.0,2.0,3.0,108.0
 1995,38,San Jose Sharks,Peter Roed,,,,,
@@ -6421,9 +6302,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,82,Chicago Blackhawks,Chris Van Dyk,,,,,
 1995,83,Edmonton Oilers,Mike Minard,1.0,0.0,0.0,0.0,1.0
 1995,84,Winnipeg Jets,Justin Kurtz,27.0,3.0,5.0,8.0,35.0
-1995,85,Hartford Whalers,Ian MacNeil,2.0,0.0,0.0,0.0,2.0
 1995,86,Montreal Canadiens,Jonathan Delisle,1.0,0.0,0.0,0.0,1.0
-1995,87,Hartford Whalers,Sami Kapanen,831.0,189.0,269.0,458.0,1289.0
 1995,88,Florida Panthers,Daniel Tjarnqvist,352.0,18.0,72.0,90.0,442.0
 1995,89,Ottawa Senators,Kevin Bolibruck,,,,,
 1995,90,San Jose Sharks,Vesa Toskala,266.0,0.0,10.0,10.0,276.0
@@ -6449,7 +6328,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,110,New York Rangers,Alexei Vasiliev,1.0,0.0,0.0,0.0,1.0
 1995,111,Buffalo Sabres,Marian Menhart,,,,,
 1995,112,Montreal Canadiens,Niklas Anger,,,,,
-1995,113,Hartford Whalers,Hugh Hamilton,,,,,
 1995,114,Florida Panthers,Francois Cloutier,,,,,
 1995,115,Dallas Stars,Wade Strand,,,,,
 1995,116,San Jose Sharks,Miikka Kiprusoff,623.0,0.0,10.0,10.0,633.0
@@ -6501,7 +6379,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,162,Winnipeg Jets,Paul Traynor,,,,,
 1995,163,Los Angeles Kings,Juha Vuorivirta,,,,,
 1995,164,Montreal Canadiens,Stephane Robidas,937.0,57.0,201.0,258.0,1195.0
-1995,165,Hartford Whalers,Byron Ritchie,324.0,25.0,33.0,58.0,382.0
 1995,166,Florida Panthers,Peter Worrell,391.0,19.0,27.0,46.0,437.0
 1995,167,San Jose Sharks,Brad Mehalko,,,,,
 1995,168,San Jose Sharks,Robert Jindrich,,,,,
@@ -6527,7 +6404,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,188,Winnipeg Jets,Jaroslav Obsut,7.0,0.0,0.0,0.0,7.0
 1995,189,Winnipeg Jets,Fredrik Loven,,,,,
 1995,190,Montreal Canadiens,Greg Hart,,,,,
-1995,191,Hartford Whalers,Milan Kostolny,,,,,
 1995,192,Florida Panthers,Filip Kuba,836.0,70.0,263.0,333.0,1169.0
 1995,193,Dallas Stars,Anatoli Kovesnikov,,,,,
 1995,194,San Jose Sharks,Ryan Kraft,7.0,0.0,1.0,1.0,8.0
@@ -6553,7 +6429,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1995,214,Winnipeg Jets,Rob Deciantis,,,,,
 1995,215,Los Angeles Kings,Brian Stewart,,,,,
 1995,216,Montreal Canadiens,Eric Houde,30.0,2.0,3.0,5.0,35.0
-1995,217,Hartford Whalers,Mike Rucinski,26.0,0.0,2.0,2.0,28.0
 1995,218,Florida Panthers,David Lemanowicz,,,,,
 1995,219,Dallas Stars,Stephen Lowe,,,,,
 1995,220,San Jose Sharks,Mikko Markkanen,,,,,
@@ -6575,7 +6450,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,2,Anaheim Ducks,Oleg Tverdovsky,713.0,77.0,240.0,317.0,1030.0
 1994,3,Ottawa Senators,Radek Bonk,969.0,194.0,303.0,497.0,1466.0
 1994,4,Edmonton Oilers,Jason Bonsignore,79.0,3.0,13.0,16.0,95.0
-1994,5,Hartford Whalers,Jeff O'Neill,821.0,237.0,259.0,496.0,1317.0
 1994,6,Edmonton Oilers,Ryan Smyth,1270.0,386.0,456.0,842.0,2112.0
 1994,7,Los Angeles Kings,Jamie Storr,219.0,0.0,3.0,3.0,222.0
 1994,8,Tampa Bay Lightning,Jason Wiemer,726.0,90.0,112.0,202.0,928.0
@@ -6653,7 +6527,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,80,Anaheim Ducks,Byron Briske,,,,,
 1994,81,Ottawa Senators,Bryan Masotta,,,,,
 1994,82,Winnipeg Jets,Steve Cheredaryk,,,,,
-1994,83,Hartford Whalers,Hnat Domenichelli,267.0,52.0,61.0,113.0,380.0
 1994,84,Florida Panthers,David Nemirovsky,91.0,16.0,22.0,38.0,129.0
 1994,85,Chicago Blackhawks,Steve McLaren,6.0,0.0,0.0,0.0,6.0
 1994,86,Tampa Bay Lightning,Dmitri Klevakin,,,,,
@@ -6679,7 +6552,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,106,Anaheim Ducks,Pavel Trnka,411.0,14.0,63.0,77.0,488.0
 1994,107,Calgary Flames,Nils Ekman,264.0,60.0,91.0,151.0,415.0
 1994,108,Winnipeg Jets,Craig Mills,31.0,0.0,5.0,5.0,36.0
-1994,109,Hartford Whalers,Ryan Risidore,,,,,
 1994,110,Edmonton Oilers,Jon Gaskins,,,,,
 1994,111,Los Angeles Kings,Chris Schmidt,10.0,0.0,2.0,2.0,12.0
 1994,112,New York Islanders,Mark McArthur,,,,,
@@ -6757,7 +6629,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,184,Anaheim Ducks,Brad Englehart,,,,,
 1994,185,Edmonton Oilers,Rob Guinn,,,,,
 1994,186,Winnipeg Jets,Ramil Saifullin,,,,,
-1994,187,Hartford Whalers,Tom Buckley,,,,,
 1994,188,Edmonton Oilers,Jason Reid,,,,,
 1994,189,Los Angeles Kings,Andrew Dale,,,,,
 1994,190,Tampa Bay Lightning,Alexei Baranov,,,,,
@@ -6783,7 +6654,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,210,Ottawa Senators,Frederic Cassivi,13.0,0.0,0.0,0.0,13.0
 1994,211,Ottawa Senators,Danny Dupont,,,,,
 1994,212,Winnipeg Jets,Henrik Smangs,,,,,
-1994,213,Hartford Whalers,Ashlin Halfnight,,,,,
 1994,214,Edmonton Oilers,Jeremy Jablonski,,,,,
 1994,215,Los Angeles Kings,Jan Nemecek,7.0,1.0,0.0,1.0,8.0
 1994,216,Tampa Bay Lightning,Yuri Smirnov,,,,,
@@ -6800,7 +6670,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,227,Calgary Flames,Jorgen Jonsson,81.0,12.0,19.0,31.0,112.0
 1994,228,Dallas Stars,Marty Flichel,,,,,
 1994,229,Boston Bruins,John Grahame,224.0,0.0,9.0,9.0,233.0
-1994,230,Hartford Whalers,Matt Ball,,,,,
 1994,231,Detroit Red Wings,Jeff Mikesch,,,,,
 1994,232,Pittsburgh Penguins,Jason Godbout,,,,,
 1994,233,New Jersey Devils,Steve Sullivan,1011.0,290.0,457.0,747.0,1758.0
@@ -6809,7 +6678,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,236,Anaheim Ducks,Tommi Miettinen,,,,,
 1994,237,Ottawa Senators,Stephen MacKinnon,,,,,
 1994,238,Winnipeg Jets,Mike Mader,,,,,
-1994,239,Hartford Whalers,Brian Regan,,,,,
 1994,240,San Jose Sharks,Tomas Pisa,,,,,
 1994,241,Los Angeles Kings,Sergei Shalomai,,,,,
 1994,242,Tampa Bay Lightning,Shawn Gervais,,,,,
@@ -6835,7 +6703,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,262,Anaheim Ducks,Jeremy Stevenson,207.0,19.0,19.0,38.0,245.0
 1994,263,Chicago Blackhawks,Rob Mara,,,,,
 1994,264,Winnipeg Jets,Jason Issel,,,,,
-1994,265,Hartford Whalers,Steve Nimigon,,,,,
 1994,266,Edmonton Oilers,Ladislav Benysek,161.0,3.0,12.0,15.0,176.0
 1994,267,New York Rangers,Jamie Butt,,,,,
 1994,268,Tampa Bay Lightning,Brian White,2.0,0.0,0.0,0.0,2.0
@@ -6858,7 +6725,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1994,285,Quebec Nordiques,Steven Low,,,,,
 1994,286,New York Rangers,Kim Johnsson,739.0,67.0,217.0,284.0,1023.0
 1993,1,Ottawa Senators,Alexandre Daigle,616.0,129.0,198.0,327.0,943.0
-1993,2,Hartford Whalers,Chris Pronger,1167.0,157.0,541.0,698.0,1865.0
 1993,3,Tampa Bay Lightning,Chris Gratton,1092.0,214.0,354.0,568.0,1660.0
 1993,4,Anaheim Ducks,Paul Kariya,989.0,402.0,587.0,989.0,1978.0
 1993,5,Florida Panthers,Rob Niedermayer,1153.0,186.0,283.0,469.0,1622.0
@@ -6928,7 +6794,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,69,Washington Capitals,Patrick Boileau,48.0,5.0,11.0,16.0,64.0
 1993,70,Calgary Flames,Dan Tompkins,,,,,
 1993,71,Philadelphia Flyers,Vinny Prospal,1108.0,255.0,510.0,765.0,1873.0
-1993,72,Hartford Whalers,Marek Malik,691.0,33.0,135.0,168.0,859.0
 1993,73,Montreal Canadiens,Sebastien Bordeleau,251.0,37.0,61.0,98.0,349.0
 1993,74,Detroit Red Wings,Kevin Hilton,,,,,
 1993,75,Quebec Nordiques,Bill Pierce,,,,,
@@ -6940,7 +6805,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,81,Tampa Bay Lightning,Marian Kacir,,,,,
 1993,82,Anaheim Ducks,Joel Gagnon,,,,,
 1993,83,Florida Panthers,Bill McCauley,,,,,
-1993,84,Hartford Whalers,Trevor Roenick,,,,,
 1993,85,Montreal Canadiens,Adam Wiesel,,,,,
 1993,86,New York Rangers,Sergei Olimpiyev,,,,,
 1993,87,Dallas Stars,Chad Lang,,,,,
@@ -6971,7 +6835,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,112,New York Rangers,Gary Roach,,,,,
 1993,113,Montreal Canadiens,Jeff Lank,2.0,0.0,0.0,0.0,2.0
 1993,114,Philadelphia Flyers,Vladimir Krechin,,,,,
-1993,115,Hartford Whalers,Nolan Pratt,592.0,9.0,56.0,65.0,657.0
 1993,116,Buffalo Sabres,Richard Safarik,,,,,
 1993,117,Los Angeles Kings,Jason Saal,,,,,
 1993,118,New York Islanders,Tommy Salo,526.0,0.0,7.0,7.0,533.0
@@ -7044,7 +6907,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,185,Tampa Bay Lightning,Ryan Nauss,,,,,
 1993,186,Anaheim Ducks,Tom Askey,7.0,0.0,0.0,0.0,7.0
 1993,187,Florida Panthers,Briane Thompson,,,,,
-1993,188,Hartford Whalers,Manny Legace,365.0,0.0,9.0,9.0,374.0
 1993,189,Edmonton Oilers,Martin Bakula,,,,,
 1993,190,New York Rangers,Ed Campbell,,,,,
 1993,191,Dallas Stars,Rob Lurtsema,,,,,
@@ -7070,7 +6932,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,211,Tampa Bay Lightning,Alexandre Laporte,,,,,
 1993,212,Anaheim Ducks,Vitali Kozel,,,,,
 1993,213,Florida Panthers,Chad Cabana,,,,,
-1993,214,Hartford Whalers,Dmitri Gorenko,,,,,
 1993,215,Edmonton Oilers,Brad Norton,124.0,3.0,8.0,11.0,135.0
 1993,216,New York Rangers,Ken Shepard,,,,,
 1993,217,Winnipeg Jets,Vladimir Potapov,,,,,
@@ -7096,7 +6957,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,237,Tampa Bay Lightning,Brett Duncan,,,,,
 1993,238,Anaheim Ducks,Anatoli Fedotov,4.0,0.0,2.0,2.0,6.0
 1993,239,Florida Panthers,John Demarco,,,,,
-1993,240,Hartford Whalers,Wes Swinson,,,,,
 1993,241,Edmonton Oilers,Oleg Maltsev,,,,,
 1993,242,New York Rangers,Andrei Kudinov,,,,,
 1993,243,Dallas Stars,Jordan Willis,1.0,0.0,0.0,0.0,1.0
@@ -7122,7 +6982,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1993,263,Tampa Bay Lightning,Mark Szoke,,,,,
 1993,264,Anaheim Ducks,David Penney,,,,,
 1993,265,Florida Panthers,Eric Montreuil,,,,,
-1993,266,Hartford Whalers,Igor Chibirev,45.0,7.0,12.0,19.0,64.0
 1993,267,Edmonton Oilers,Ilja Byakin,57.0,8.0,25.0,33.0,90.0
 1993,268,New York Rangers,Maxim Smelnitsky,,,,,
 1993,269,Dallas Stars,Cory Peterson,,,,,
@@ -7151,7 +7010,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,6,Calgary Flames,Cory Stillman,1025.0,278.0,449.0,727.0,1752.0
 1992,7,Philadelphia Flyers,Ryan Sittler,,,,,
 1992,8,Toronto Maple Leafs,Brandon Convery,72.0,9.0,19.0,28.0,100.0
-1992,9,Hartford Whalers,Robert Petrovicky,208.0,27.0,38.0,65.0,273.0
 1992,10,San Jose Sharks,Andrei Nazarov,571.0,53.0,71.0,124.0,695.0
 1992,11,Buffalo Sabres,David Cooper,30.0,3.0,7.0,10.0,40.0
 1992,12,Chicago Blackhawks,Sergei Krivokrasov,450.0,86.0,109.0,195.0,645.0
@@ -7176,7 +7034,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,31,Philadelphia Flyers,Denis Metlyuk,,,,,
 1992,32,Washington Capitals,Jim Carey,172.0,0.0,1.0,1.0,173.0
 1992,33,Montreal Canadiens,Valeri Bure,621.0,174.0,226.0,400.0,1021.0
-1992,34,Minnesota North Stars,Jarkko Varvio,13.0,3.0,4.0,7.0,20.0
 1992,35,Buffalo Sabres,Jozef Cierny,1.0,0.0,0.0,0.0,1.0
 1992,36,Chicago Blackhawks,Jeff Shantz,642.0,72.0,139.0,211.0,853.0
 1992,37,Edmonton Oilers,Martin Reichel,,,,,
@@ -7189,7 +7046,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,44,Montreal Canadiens,Keli Corpse,,,,,
 1992,45,Vancouver Canucks,Mike Fountain,11.0,0.0,0.0,0.0,11.0
 1992,46,Detroit Red Wings,Darren McCarty,758.0,127.0,161.0,288.0,1046.0
-1992,47,Hartford Whalers,Andrei Nikolishin,628.0,93.0,187.0,280.0,908.0
 1992,48,New York Rangers,Mattias Norstrom,903.0,18.0,147.0,165.0,1068.0
 1992,49,Tampa Bay Lightning,Brent Gretzky,13.0,1.0,3.0,4.0,17.0
 1992,50,Ottawa Senators,Patrick Traverse,279.0,14.0,51.0,65.0,344.0
@@ -7199,8 +7055,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,54,Calgary Flames,Mathias Johansson,58.0,5.0,10.0,15.0,73.0
 1992,55,Boston Bruins,Sergei Zholtok,588.0,111.0,147.0,258.0,846.0
 1992,56,New York Islanders,Jarrett Deuling,15.0,0.0,1.0,1.0,16.0
-1992,57,Hartford Whalers,Jan Vopat,126.0,11.0,20.0,31.0,157.0
-1992,58,Minnesota North Stars,Jeff Bes,,,,,
 1992,59,Buffalo Sabres,Ondrej Steiner,,,,,
 1992,60,Winnipeg Jets,Jeremy Stevenson,207.0,19.0,19.0,38.0,245.0
 1992,61,Edmonton Oilers,Simon Roy,,,,,
@@ -7221,16 +7075,13 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,76,Quebec Nordiques,Ian McIntyre,,,,,
 1992,77,Toronto Maple Leafs,Nikolai Borschevsky,162.0,49.0,73.0,122.0,284.0
 1992,78,Calgary Flames,Robert Svehla,655.0,68.0,267.0,335.0,990.0
-1992,79,Hartford Whalers,Kevin Smyth,58.0,6.0,8.0,14.0,72.0
 1992,80,Buffalo Sabres,Dean Melanson,9.0,0.0,0.0,0.0,9.0
-1992,81,Hartford Whalers,Jason McBain,9.0,0.0,0.0,0.0,9.0
 1992,82,Montreal Canadiens,Louis Bernard,,,,,
 1992,83,Buffalo Sabres,Matthew Barnaby,834.0,113.0,187.0,300.0,1134.0
 1992,84,Winnipeg Jets,Mark Visheau,29.0,1.0,3.0,4.0,33.0
 1992,85,New York Rangers,Chris Ferraro,74.0,7.0,9.0,16.0,90.0
 1992,86,St. Louis Blues,Lee Leslie,,,,,
 1992,87,Los Angeles Kings,Kevin Brown,64.0,7.0,9.0,16.0,80.0
-1992,88,Minnesota North Stars,Jere Lehtinen,875.0,243.0,271.0,514.0,1389.0
 1992,89,Chicago Blackhawks,Andy MacIntyre,,,,,
 1992,90,New Jersey Devils,Vitali Tomilin,,,,,
 1992,91,Pittsburgh Penguins,Todd Klassen,,,,,
@@ -7272,7 +7123,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,127,Philadelphia Flyers,Roman Zolotov,,,,,
 1992,128,New York Islanders,Derek Armstrong,477.0,72.0,149.0,221.0,698.0
 1992,129,Calgary Flames,Joel Bouchard,364.0,22.0,53.0,75.0,439.0
-1992,130,Minnesota North Stars,Michael Johnson,,,,,
 1992,131,Buffalo Sabres,Paul Rushforth,,,,,
 1992,132,Winnipeg Jets,Alexander Alexeyev,,,,,
 1992,133,Boston Bruins,Jiri Dopita,73.0,12.0,21.0,33.0,106.0
@@ -7285,7 +7135,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,140,Montreal Canadiens,Martin Sychra,,,,,
 1992,141,Vancouver Canucks,Jason Clark,,,,,
 1992,142,Detroit Red Wings,Jason MacDonald,4.0,0.0,0.0,0.0,4.0
-1992,143,Hartford Whalers,Jarrett Reid,,,,,
 1992,144,New York Rangers,David Dal Grande,,,,,
 1992,145,Tampa Bay Lightning,Derek Wilkinson,22.0,0.0,0.0,0.0,22.0
 1992,146,Ottawa Senators,Jaroslav Miklenda,,,,,
@@ -7295,8 +7144,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,150,Calgary Flames,Pavel Rajnoha,,,,,
 1992,151,Philadelphia Flyers,Kirk Daubenspeck,,,,,
 1992,152,New York Islanders,Vladimir Grachev,,,,,
-1992,153,Hartford Whalers,Ken Belanger,248.0,11.0,12.0,23.0,271.0
-1992,154,Minnesota North Stars,Kyle Peterson,,,,,
 1992,155,Winnipeg Jets,Artur Oktyabrev,,,,,
 1992,156,Winnipeg Jets,Andrei Raisky,,,,,
 1992,157,Edmonton Oilers,Steve Gibson,,,,,
@@ -7319,8 +7166,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,174,Calgary Flames,Ryan Mulhern,3.0,0.0,0.0,0.0,3.0
 1992,175,Philadelphia Flyers,Claude Jr. Jutras,,,,,
 1992,176,New York Islanders,Jason Widmer,7.0,0.0,1.0,1.0,8.0
-1992,177,Hartford Whalers,Konstantin Korotkov,,,,,
-1992,178,Minnesota North Stars,Juha Lind,133.0,9.0,13.0,22.0,155.0
 1992,179,Buffalo Sabres,Dean Tiltgen,,,,,
 1992,180,St. Louis Blues,Igor Boldin,,,,,
 1992,181,Edmonton Oilers,Kyuin Shim,,,,,
@@ -7343,8 +7188,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,198,Calgary Flames,Brandon Carper,,,,,
 1992,199,Philadelphia Flyers,Jonas Hakansson,,,,,
 1992,200,New York Islanders,Daniel Paradis,,,,,
-1992,201,Hartford Whalers,Greg Zwakman,,,,,
-1992,202,Minnesota North Stars,Lars Edstrom,,,,,
 1992,203,Buffalo Sabres,Todd Simon,15.0,0.0,1.0,1.0,16.0
 1992,204,Winnipeg Jets,Nikolai Khabibulin,799.0,0.0,18.0,18.0,817.0
 1992,205,Edmonton Oilers,Marko Tuomainen,79.0,9.0,9.0,18.0,97.0
@@ -7367,8 +7210,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,222,Calgary Flames,Jonas Hoglund,545.0,117.0,145.0,262.0,807.0
 1992,223,Philadelphia Flyers,Chris Herperger,169.0,18.0,25.0,43.0,212.0
 1992,224,New York Islanders,David Wainwright,,,,,
-1992,225,Hartford Whalers,Steven Halko,155.0,0.0,15.0,15.0,170.0
-1992,226,Minnesota North Stars,Jeff Romfo,,,,,
 1992,227,Buffalo Sabres,Rick Kowalsky,,,,,
 1992,228,Winnipeg Jets,Yevgeny Garanin,,,,,
 1992,229,Winnipeg Jets,Teemu Numminen,,,,,
@@ -7391,8 +7232,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1992,246,Calgary Flames,Andrei Potaichuk,,,,,
 1992,247,Philadelphia Flyers,Patrice Paquin,,,,,
 1992,248,New York Islanders,Andrei Vasilyev,16.0,2.0,5.0,7.0,23.0
-1992,249,Hartford Whalers,Joacim Esbjors,,,,,
-1992,250,Minnesota North Stars,Jeffrey Moen,,,,,
 1992,251,Buffalo Sabres,Chris Clancy,,,,,
 1992,252,Winnipeg Jets,Andrei Karpovstev,,,,,
 1992,253,Edmonton Oilers,Bryan Rasmussen,,,,,
@@ -7414,8 +7253,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,5,Winnipeg Jets,Aaron Ward,839.0,44.0,107.0,151.0,990.0
 1991,6,Philadelphia Flyers,Peter Forsberg,708.0,249.0,636.0,885.0,1593.0
 1991,7,Vancouver Canucks,Alek Stojanov,107.0,2.0,5.0,7.0,114.0
-1991,8,Minnesota North Stars,Richard Matvichuk,796.0,39.0,139.0,178.0,974.0
-1991,9,Hartford Whalers,Patrick Poulin,634.0,101.0,134.0,235.0,869.0
 1991,10,Detroit Red Wings,Martin Lapointe,991.0,181.0,200.0,381.0,1372.0
 1991,11,New Jersey Devils,Brian Rolston,1256.0,342.0,419.0,761.0,2017.0
 1991,12,Edmonton Oilers,Tyler Wright,613.0,79.0,70.0,149.0,762.0
@@ -7437,7 +7274,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,28,Montreal Canadiens,Jim Campbell,285.0,61.0,75.0,136.0,421.0
 1991,29,Vancouver Canucks,Jassen Cullimore,812.0,26.0,85.0,111.0,923.0
 1991,30,San Jose Sharks,Sandis Ozolinsh,875.0,167.0,397.0,564.0,1439.0
-1991,31,Hartford Whalers,Martin Hamrlik,,,,,
 1991,32,Detroit Red Wings,Jamie Pushor,521.0,14.0,46.0,60.0,581.0
 1991,33,New Jersey Devils,Donevan Hextall,,,,,
 1991,34,Edmonton Oilers,Andrew Verner,,,,,
@@ -7459,13 +7295,11 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,50,Philadelphia Flyers,Yanick Dupre,35.0,2.0,0.0,2.0,37.0
 1991,51,Vancouver Canucks,Sean Pronger,260.0,23.0,36.0,59.0,319.0
 1991,52,Calgary Flames,Sandy McCarthy,736.0,72.0,76.0,148.0,884.0
-1991,53,Hartford Whalers,Todd Hall,,,,,
 1991,54,Detroit Red Wings,Chris Osgood,744.0,1.0,19.0,20.0,764.0
 1991,55,New Jersey Devils,Fredrik Bremberg,8.0,0.0,0.0,0.0,8.0
 1991,56,Edmonton Oilers,George Breen,,,,,
 1991,57,Buffalo Sabres,Jason Young,,,,,
 1991,58,Washington Capitals,Steve Konowalchuk,790.0,171.0,225.0,396.0,1186.0
-1991,59,Hartford Whalers,Michael Nylander,920.0,209.0,470.0,679.0,1599.0
 1991,60,Pittsburgh Penguins,Shane Peacock,,,,,
 1991,61,Montreal Canadiens,Yves Sarault,106.0,10.0,10.0,20.0,126.0
 1991,62,Boston Bruins,Marcel Cousineau,26.0,0.0,1.0,1.0,27.0
@@ -7480,8 +7314,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,71,Chicago Blackhawks,Igor Kravchuk,699.0,64.0,210.0,274.0,973.0
 1991,72,Buffalo Sabres,Peter Ambroziak,12.0,0.0,1.0,1.0,13.0
 1991,73,Montreal Canadiens,Vladimir Vujtek,110.0,7.0,30.0,37.0,147.0
-1991,74,Minnesota North Stars,Mike Torchia,6.0,0.0,0.0,0.0,6.0
-1991,75,Hartford Whalers,Jim Storm,84.0,7.0,15.0,22.0,106.0
 1991,76,Detroit Red Wings,Mike Knuble,1068.0,278.0,270.0,548.0,1616.0
 1991,77,New Jersey Devils,Bradley Willner,,,,,
 1991,78,Edmonton Oilers,Mario Nobili,,,,,
@@ -7503,7 +7335,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,94,Philadelphia Flyers,Yanick Degrace,,,,,
 1991,95,Vancouver Canucks,Dan Kesa,139.0,8.0,22.0,30.0,169.0
 1991,96,New York Rangers,Corey Machanic,,,,,
-1991,97,Minnesota North Stars,Mike Kennedy,145.0,16.0,36.0,52.0,197.0
 1991,98,Detroit Red Wings,Dimitri Motkov,,,,,
 1991,99,Winnipeg Jets,Yan Kaminsky,26.0,3.0,2.0,5.0,31.0
 1991,100,Montreal Canadiens,Brad Layzell,,,,,
@@ -7524,8 +7355,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,115,Winnipeg Jets,Jeff Sebastian,,,,,
 1991,116,Philadelphia Flyers,Clayton Norris,,,,,
 1991,117,Vancouver Canucks,Evgeny Namestnikov,43.0,0.0,9.0,9.0,52.0
-1991,118,Minnesota North Stars,Mark Lawrence,142.0,18.0,26.0,44.0,186.0
-1991,119,Hartford Whalers,Mike Harding,,,,,
 1991,120,Toronto Maple Leafs,Alexander Kuzminsky,,,,,
 1991,121,New Jersey Devils,Curt Regnier,,,,,
 1991,122,Philadelphia Flyers,Dmitry Yushkevich,786.0,43.0,182.0,225.0,1011.0
@@ -7543,11 +7372,9 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,134,Quebec Nordiques,Mikael Johansson,,,,,
 1991,135,Toronto Maple Leafs,Martin Prochazka,32.0,2.0,5.0,7.0,39.0
 1991,136,New York Islanders,Andreas Johansson,377.0,81.0,88.0,169.0,546.0
-1991,137,Minnesota North Stars,Geoff Finch,,,,,
 1991,138,Philadelphia Flyers,Andrei Lomakin,215.0,42.0,62.0,104.0,319.0
 1991,139,Vancouver Canucks,Brent Thurston,,,,,
 1991,140,Calgary Flames,Matt Hoffman,,,,,
-1991,141,Hartford Whalers,Brian Mueller,,,,,
 1991,142,Detroit Red Wings,Igor Malykhin,,,,,
 1991,143,New Jersey Devils,David Craievich,,,,,
 1991,144,Edmonton Oilers,David Oliver,233.0,49.0,49.0,98.0,331.0
@@ -7569,7 +7396,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,160,Toronto Maple Leafs,Dmitri Mironov,556.0,54.0,206.0,260.0,816.0
 1991,161,Vancouver Canucks,Eric Johnson,,,,,
 1991,162,Buffalo Sabres,Jiri Kuntos,,,,,
-1991,163,Hartford Whalers,Steve Yule,,,,,
 1991,164,Toronto Maple Leafs,Robb McIntyre,,,,,
 1991,165,New Jersey Devils,Paul Wolanski,,,,,
 1991,166,Edmonton Oilers,Gary Kitching,,,,,
@@ -7580,7 +7406,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,171,Montreal Canadiens,Brian Savage,674.0,192.0,167.0,359.0,1033.0
 1991,172,Boston Bruins,Jay Moser,,,,,
 1991,173,Calgary Flames,David St-Pierre,,,,,
-1991,174,Minnesota North Stars,Michael Burkett,,,,,
 1991,175,St. Louis Blues,Chris Kenady,7.0,0.0,2.0,2.0,9.0
 1991,176,Chicago Blackhawks,Roch Belley,,,,,
 1991,177,San Jose Sharks,Corwin Saurdiff,,,,,
@@ -7590,8 +7415,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,181,Winnipeg Jets,Sean Gauthier,1.0,0.0,0.0,0.0,1.0
 1991,182,Philadelphia Flyers,James Bode,,,,,
 1991,183,Vancouver Canucks,David Neilson,,,,,
-1991,184,Minnesota North Stars,Derek Herlofsky,,,,,
-1991,185,Hartford Whalers,Chris Belanger,,,,,
 1991,186,Detroit Red Wings,Jim Bermingham,,,,,
 1991,187,New Jersey Devils,Daniel Reimann,,,,,
 1991,188,Quebec Nordiques,Brent Brekke,,,,,
@@ -7612,8 +7435,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,203,Winnipeg Jets,Igor Ulanov,739.0,27.0,135.0,162.0,901.0
 1991,204,Philadelphia Flyers,Josh Bartell,,,,,
 1991,205,Vancouver Canucks,Brad Barton,,,,,
-1991,206,Minnesota North Stars,Tom Nemeth,,,,,
-1991,207,Hartford Whalers,Jason Currie,,,,,
 1991,208,Detroit Red Wings,Jason Firth,,,,,
 1991,209,Washington Capitals,Rob Leask,,,,,
 1991,210,Edmonton Oilers,Vegar Barlie,,,,,
@@ -7634,8 +7455,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,225,Winnipeg Jets,Jason Jennings,,,,,
 1991,226,Philadelphia Flyers,Neil Little,2.0,0.0,0.0,0.0,2.0
 1991,227,Vancouver Canucks,Jason Fitzsimmons,,,,,
-1991,228,Minnesota North Stars,Shayne Green,,,,,
-1991,229,Hartford Whalers,Mike Santonelli,,,,,
 1991,230,Detroit Red Wings,Bart Turner,,,,,
 1991,231,New Jersey Devils,Kevin Riehl,,,,,
 1991,232,Edmonton Oilers,Yevgeny Belosheiken,,,,,
@@ -7656,8 +7475,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1991,247,Winnipeg Jets,Sergei Sorokin,,,,,
 1991,248,Philadelphia Flyers,John Porco,,,,,
 1991,249,Vancouver Canucks,Xavier Majic,,,,,
-1991,250,Minnesota North Stars,Jukka Suomalainen,,,,,
-1991,251,Hartford Whalers,Rob Peters,,,,,
 1991,252,Detroit Red Wings,Andrew Miller,,,,,
 1991,253,New Jersey Devils,Jason Hehr,,,,,
 1991,254,Edmonton Oilers,Juha Riihijarvi,,,,,
@@ -7678,14 +7495,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,5,Pittsburgh Penguins,Jaromir Jagr,1733.0,766.0,1155.0,1921.0,3654.0
 1990,6,New York Islanders,Scott Scissons,2.0,0.0,0.0,0.0,2.0
 1990,7,Los Angeles Kings,Darryl Sydor,1291.0,98.0,409.0,507.0,1798.0
-1990,8,Minnesota North Stars,Derian Hatcher,1045.0,80.0,251.0,331.0,1376.0
 1990,9,Washington Capitals,John Slaney,268.0,22.0,69.0,91.0,359.0
 1990,10,Toronto Maple Leafs,Drake Berehowsky,549.0,37.0,112.0,149.0,698.0
 1990,11,Calgary Flames,Trevor Kidd,387.0,0.0,13.0,13.0,400.0
 1990,12,Montreal Canadiens,Turner Stevenson,644.0,75.0,115.0,190.0,834.0
 1990,13,New York Rangers,Michael Stewart,,,,,
 1990,14,Buffalo Sabres,Brad May,1041.0,127.0,161.0,288.0,1329.0
-1990,15,Hartford Whalers,Mark Greig,125.0,13.0,27.0,40.0,165.0
 1990,16,Chicago Blackhawks,Karl Dykhuis,644.0,42.0,91.0,133.0,777.0
 1990,17,Edmonton Oilers,Scott Allison,,,,,
 1990,18,Vancouver Canucks,Shawn Antoski,183.0,3.0,5.0,8.0,191.0
@@ -7706,7 +7521,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,33,St. Louis Blues,Craig Johnson,557.0,75.0,98.0,173.0,730.0
 1990,34,New York Rangers,Doug Weight,1238.0,278.0,755.0,1033.0,2271.0
 1990,35,Winnipeg Jets,Mike Muller,,,,,
-1990,36,Hartford Whalers,Geoff Sanderson,1104.0,355.0,345.0,700.0,1804.0
 1990,37,Chicago Blackhawks,Ivan Droppa,19.0,0.0,1.0,1.0,20.0
 1990,38,Edmonton Oilers,Alexandre Legault,,,,,
 1990,39,Montreal Canadiens,Ryan Kuwabara,,,,,
@@ -7720,14 +7534,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,47,Philadelphia Flyers,Chris Therien,764.0,29.0,130.0,159.0,923.0
 1990,48,New York Islanders,Dan Plante,159.0,9.0,14.0,23.0,182.0
 1990,49,Los Angeles Kings,Bill Berg,,,,,
-1990,50,Minnesota North Stars,Laurie Billeck,,,,,
 1990,51,Washington Capitals,Chris Longo,,,,,
 1990,52,Philadelphia Flyers,Al Kinisky,,,,,
 1990,53,New Jersey Devils,Mike Dunham,394.0,0.0,5.0,5.0,399.0
 1990,54,St. Louis Blues,Patrice Tardif,65.0,7.0,11.0,18.0,83.0
 1990,55,New York Rangers,John Vary,,,,,
 1990,56,New Jersey Devils,Brad Bombardir,356.0,8.0,46.0,54.0,410.0
-1990,57,Hartford Whalers,Mike Lenarduzzi,4.0,0.0,0.0,0.0,4.0
 1990,58,Montreal Canadiens,Charles Poulin,,,,,
 1990,59,Edmonton Oilers,Joe Crowley,,,,,
 1990,60,Montreal Canadiens,Robert Guillet,,,,,
@@ -7740,15 +7552,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,67,Edmonton Oilers,Joel Blain,,,,,
 1990,68,Pittsburgh Penguins,Chris Tamer,644.0,21.0,64.0,85.0,729.0
 1990,69,New York Rangers,Jeff Nielsen,252.0,20.0,27.0,47.0,299.0
-1990,70,Minnesota North Stars,Cal McGowan,,,,,
-1990,71,Minnesota North Stars,Frank Kovacs,,,,,
 1990,72,Washington Capitals,Randy Pearce,,,,,
 1990,73,Toronto Maple Leafs,Darby Hendrickson,518.0,65.0,64.0,129.0,647.0
 1990,74,Winnipeg Jets,Roman Meluzin,,,,,
 1990,75,Winnipeg Jets,Scott Levins,124.0,13.0,20.0,33.0,157.0
 1990,76,New York Rangers,Rick Willis,,,,,
 1990,77,Winnipeg Jets,Alex Zhamnov,807.0,249.0,470.0,719.0,1526.0
-1990,78,Hartford Whalers,Chris Bright,,,,,
 1990,79,Chicago Blackhawks,Chris Tucker,,,,,
 1990,80,Toronto Maple Leafs,Greg Walters,,,,,
 1990,81,Montreal Canadiens,Gilbert Dionne,223.0,61.0,79.0,140.0,363.0
@@ -7762,7 +7571,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,89,Pittsburgh Penguins,Brian Farrell,,,,,
 1990,90,New York Islanders,Chris Marinucci,13.0,1.0,4.0,5.0,18.0
 1990,91,Los Angeles Kings,David Goverde,5.0,0.0,1.0,1.0,6.0
-1990,92,Minnesota North Stars,Enrico Ciccone,374.0,10.0,18.0,28.0,402.0
 1990,93,Washington Capitals,Brian Sakic,,,,,
 1990,94,Washington Capitals,Mark Ouimet,,,,,
 1990,95,New Jersey Devils,Dean Malkoc,116.0,1.0,3.0,4.0,120.0
@@ -7783,14 +7591,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,110,Pittsburgh Penguins,Denis Casey,,,,,
 1990,111,New York Islanders,Joni Lehto,,,,,
 1990,112,Los Angeles Kings,Erik Andersson,12.0,2.0,1.0,3.0,15.0
-1990,113,Minnesota North Stars,Roman Turek,328.0,0.0,12.0,12.0,340.0
 1990,114,Washington Capitals,Andrei Kovalev,,,,,
 1990,115,Toronto Maple Leafs,Alexander Godynyuk,223.0,10.0,39.0,49.0,272.0
 1990,116,New Jersey Devils,Lubomir Kolnik,,,,,
 1990,117,St. Louis Blues,Kurtis Miller,,,,,
 1990,118,New York Rangers,Jason Weinrich,,,,,
 1990,119,Winnipeg Jets,Daniel Jardemyr,,,,,
-1990,120,Hartford Whalers,Cory Keenan,,,,,
 1990,121,Chicago Blackhawks,Brett Stickney,,,,,
 1990,122,Edmonton Oilers,Keijo Sailynoja,,,,,
 1990,123,Montreal Canadiens,Craig Conroy,1009.0,182.0,360.0,542.0,1551.0
@@ -7804,14 +7610,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,131,Pittsburgh Penguins,Ken Plaquin,,,,,
 1990,132,New York Islanders,Michael Guilbert,,,,,
 1990,133,Los Angeles Kings,Robert Lang,989.0,261.0,442.0,703.0,1692.0
-1990,134,Minnesota North Stars,Jeff Levy,,,,,
 1990,135,Washington Capitals,Roman Kontsek,,,,,
 1990,136,Toronto Maple Leafs,Eric Lacroix,472.0,67.0,70.0,137.0,609.0
 1990,137,New Jersey Devils,Chris McAlpine,289.0,6.0,24.0,30.0,319.0
 1990,138,St. Louis Blues,Wayne Conlan,,,,,
 1990,139,New York Rangers,Brian Lonsinger,,,,,
 1990,140,Winnipeg Jets,John Lilley,23.0,3.0,8.0,11.0,34.0
-1990,141,Hartford Whalers,Jergus Baca,10.0,0.0,2.0,2.0,12.0
 1990,142,Buffalo Sabres,Viktor Gordiouk,26.0,3.0,8.0,11.0,37.0
 1990,143,Edmonton Oilers,Mike Power,,,,,
 1990,144,Montreal Canadiens,Stephen Rohr,,,,,
@@ -7825,14 +7629,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,152,Pittsburgh Penguins,Petteri Koskimaki,,,,,
 1990,153,New York Islanders,Sylvain Fleury,,,,,
 1990,154,Los Angeles Kings,Dean Hulett,,,,,
-1990,155,Minnesota North Stars,Doug Barrault,4.0,0.0,0.0,0.0,4.0
 1990,156,Washington Capitals,Peter Bondra,1081.0,503.0,389.0,892.0,1973.0
 1990,157,Toronto Maple Leafs,Dan Stiver,,,,,
 1990,158,Quebec Nordiques,Alexander Karpovtsev,596.0,34.0,154.0,188.0,784.0
 1990,159,Washington Capitals,Steve Martell,,,,,
 1990,160,New York Rangers,Todd Hedlund,,,,,
 1990,161,Winnipeg Jets,Henrik Andersson,,,,,
-1990,162,Hartford Whalers,Martin D'Orsonnens,,,,,
 1990,163,Chicago Blackhawks,Hugo Belanger,,,,,
 1990,164,Edmonton Oilers,Roman Mejzlik,,,,,
 1990,165,Montreal Canadiens,Brent Fleetwood,,,,,
@@ -7846,14 +7648,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,173,Pittsburgh Penguins,Ladislav Karabin,9.0,0.0,0.0,0.0,9.0
 1990,174,New York Islanders,John Joyce,,,,,
 1990,175,Los Angeles Kings,Denis Leblanc,,,,,
-1990,176,Minnesota North Stars,Joe Biondi,,,,,
 1990,177,Washington Capitals,Ken Klee,934.0,55.0,140.0,195.0,1129.0
 1990,178,Toronto Maple Leafs,Robert Horyna,,,,,
 1990,179,New Jersey Devils,Jaroslav Modry,725.0,49.0,201.0,250.0,975.0
 1990,180,St. Louis Blues,Parris Duffus,1.0,0.0,0.0,0.0,1.0
 1990,181,New York Rangers,Andrew Silverman,,,,,
 1990,182,Winnipeg Jets,Rauli Raitanen,,,,,
-1990,183,Hartford Whalers,Corey Osmak,,,,,
 1990,184,Chicago Blackhawks,Owen Lessard,,,,,
 1990,185,Edmonton Oilers,Richard Zemlicka,,,,,
 1990,186,Montreal Canadiens,Derek Maguire,,,,,
@@ -7867,14 +7667,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,194,Pittsburgh Penguins,Timothy Fingerhut,,,,,
 1990,195,New York Islanders,Richard Enga,,,,,
 1990,196,Los Angeles Kings,Patrik Ross,,,,,
-1990,197,Minnesota North Stars,Troy Binnie,,,,,
 1990,198,Washington Capitals,Michael Boback,,,,,
 1990,199,Toronto Maple Leafs,Rob Chebator,,,,,
 1990,200,New Jersey Devils,Corey Schwab,147.0,0.0,6.0,6.0,153.0
 1990,201,St. Louis Blues,Steve Widmeyer,,,,,
 1990,202,New York Rangers,Jon Hillebrandt,,,,,
 1990,203,Winnipeg Jets,Mika Alatalo,152.0,17.0,29.0,46.0,198.0
-1990,204,Hartford Whalers,Espen Knutsen,207.0,30.0,81.0,111.0,318.0
 1990,205,Chicago Blackhawks,Erik Peterson,,,,,
 1990,206,Edmonton Oilers,Petr Korinek,,,,,
 1990,207,Montreal Canadiens,Mark Kettelhut,,,,,
@@ -7888,14 +7686,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,215,Pittsburgh Penguins,Michael Thompson,,,,,
 1990,216,New York Islanders,Martin Lacroix,,,,,
 1990,217,Los Angeles Kings,K.J.(Kevin) White,,,,,
-1990,218,Minnesota North Stars,Ole-Eskild Dahlstrom,,,,,
 1990,219,Washington Capitals,Alan Brown,,,,,
 1990,220,Toronto Maple Leafs,Scott Malone,,,,,
 1990,221,New Jersey Devils,Valeri Zelepukin,595.0,117.0,177.0,294.0,889.0
 1990,222,St. Louis Blues,Joe Hawley,,,,,
 1990,223,New York Rangers,Brett Lievers,,,,,
 1990,224,Winnipeg Jets,Sergei Selyanin,,,,,
-1990,225,Hartford Whalers,Tommie Eriksen,,,,,
 1990,226,Chicago Blackhawks,Steve Dubinsky,375.0,25.0,45.0,70.0,445.0
 1990,227,Edmonton Oilers,invalid pick,,,,,
 1990,228,Montreal Canadiens,John Uniac,,,,,
@@ -7909,14 +7705,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1990,236,Pittsburgh Penguins,Brian Bruininks,,,,,
 1990,237,New York Islanders,Andy Shier,,,,,
 1990,238,Los Angeles Kings,Troy Mohns,,,,,
-1990,239,Minnesota North Stars,John McKersie,,,,,
 1990,240,Washington Capitals,Todd Hlushko,79.0,8.0,13.0,21.0,100.0
 1990,241,Toronto Maple Leafs,Nick Vachon,1.0,0.0,0.0,0.0,1.0
 1990,242,New Jersey Devils,Todd Reirden,183.0,11.0,35.0,46.0,229.0
 1990,243,St. Louis Blues,Joe Fleming,,,,,
 1990,244,New York Rangers,Sergei Nemchinov,761.0,152.0,193.0,345.0,1106.0
 1990,245,Winnipeg Jets,Keith Morris,,,,,
-1990,246,Hartford Whalers,Denis Chalifoux,,,,,
 1990,247,Chicago Blackhawks,Dino Grossi,,,,,
 1990,248,Edmonton Oilers,Sami Nuutinen,,,,,
 1990,249,Montreal Canadiens,Sergei Martynyuk,,,,,
@@ -7929,10 +7723,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,4,Winnipeg Jets,Stu Barnes,1136.0,261.0,336.0,597.0,1733.0
 1989,5,New Jersey Devils,Bill Guerin,1263.0,429.0,427.0,856.0,2119.0
 1989,6,Chicago Blackhawks,Adam Bennett,69.0,3.0,8.0,11.0,80.0
-1989,7,Minnesota North Stars,Doug Zmolek,467.0,11.0,53.0,64.0,531.0
 1989,8,Vancouver Canucks,Jason Herter,1.0,0.0,1.0,1.0,2.0
 1989,9,St. Louis Blues,Jason Marshall,526.0,16.0,51.0,67.0,593.0
-1989,10,Hartford Whalers,Bobby Holik,1314.0,326.0,421.0,747.0,2061.0
 1989,11,Detroit Red Wings,Mike Sillinger,1049.0,240.0,308.0,548.0,1597.0
 1989,12,Toronto Maple Leafs,Rob Pearson,269.0,56.0,54.0,110.0,379.0
 1989,13,Montreal Canadiens,Lindsay Vallis,1.0,0.0,0.0,0.0,1.0
@@ -7950,7 +7742,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,25,Winnipeg Jets,Dan Ratushny,1.0,0.0,1.0,1.0,2.0
 1989,26,New Jersey Devils,Jarrod Skalde,115.0,13.0,21.0,34.0,149.0
 1989,27,Chicago Blackhawks,Michael Speer,,,,,
-1989,28,Minnesota North Stars,Mike Craig,423.0,71.0,97.0,168.0,591.0
 1989,29,Vancouver Canucks,Robert Woodward,,,,,
 1989,30,Montreal Canadiens,Patrice Brisebois,1009.0,98.0,322.0,420.0,1429.0
 1989,31,St. Louis Blues,Rick Corriveau,,,,,
@@ -7974,7 +7765,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,49,New York Rangers,Louie DeBrusk,401.0,24.0,17.0,41.0,442.0
 1989,50,Calgary Flames,Veli-Pekka Kautonen,,,,,
 1989,51,Montreal Canadiens,Pierre Sevigny,78.0,4.0,5.0,9.0,87.0
-1989,52,Hartford Whalers,Blair Atcheynum,196.0,27.0,33.0,60.0,256.0
 1989,53,Detroit Red Wings,Nicklas Lidstrom,1564.0,264.0,878.0,1142.0,2706.0
 1989,54,Quebec Nordiques,John Tanner,21.0,0.0,0.0,0.0,21.0
 1989,55,St. Louis Blues,Denny Felsner,18.0,1.0,4.0,5.0,23.0
@@ -7982,7 +7772,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,57,Boston Bruins,Wes Walz,607.0,109.0,151.0,260.0,867.0
 1989,58,Pittsburgh Penguins,John Brill,,,,,
 1989,59,Washington Capitals,Jim Mathieson,2.0,0.0,0.0,0.0,2.0
-1989,60,Minnesota North Stars,Murray Garbutt,,,,,
 1989,61,Washington Capitals,Jason Woolley,718.0,68.0,246.0,314.0,1032.0
 1989,62,Winnipeg Jets,Kris Draper,1157.0,161.0,203.0,364.0,1521.0
 1989,63,Calgary Flames,Corey Lyons,,,,,
@@ -7995,9 +7784,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,70,Calgary Flames,Robert Reichel,830.0,252.0,378.0,630.0,1460.0
 1989,71,Vancouver Canucks,Brett Hauer,37.0,4.0,4.0,8.0,45.0
 1989,72,Philadelphia Flyers,Reid Simpson,301.0,18.0,18.0,36.0,337.0
-1989,73,Hartford Whalers,Jim McKenzie,880.0,48.0,52.0,100.0,980.0
 1989,74,Detroit Red Wings,Sergei Fedorov,1248.0,483.0,696.0,1179.0,2427.0
-1989,75,Minnesota North Stars,Jean-Francois Quintin,22.0,5.0,5.0,10.0,32.0
 1989,76,Quebec Nordiques,Eric Dubois,,,,,
 1989,77,Buffalo Sabres,Doug MacDonald,11.0,1.0,0.0,1.0,12.0
 1989,78,Edmonton Oilers,Josef Beranek,531.0,118.0,144.0,262.0,793.0
@@ -8009,17 +7796,13 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,84,Calgary Flames,Ryan O'Leary,,,,,
 1989,85,Quebec Nordiques,Kevin Kaiser,,,,,
 1989,86,New York Islanders,Jace Reed,,,,,
-1989,87,Minnesota North Stars,Pat MacLeod,53.0,5.0,13.0,18.0,71.0
 1989,88,New York Rangers,Aaron Miller,677.0,25.0,94.0,119.0,796.0
 1989,89,New Jersey Devils,Mike Heinke,,,,,
 1989,90,New York Islanders,Steve Young,,,,,
-1989,91,Minnesota North Stars,Bryan Schoen,,,,,
 1989,92,Edmonton Oilers,Peter White,220.0,23.0,37.0,60.0,280.0
 1989,93,St. Louis Blues,Daniel Laperriere,48.0,2.0,5.0,7.0,55.0
-1989,94,Hartford Whalers,James Black,352.0,58.0,57.0,115.0,467.0
 1989,95,Detroit Red Wings,Shawn McCosh,9.0,1.0,0.0,1.0,10.0
 1989,96,Toronto Maple Leafs,Keith Carney,,,,,
-1989,97,Minnesota North Stars,Rhys Hollyman,,,,,
 1989,98,Buffalo Sabres,Ken Sutton,388.0,23.0,80.0,103.0,491.0
 1989,99,New York Islanders,Kevin O'Sullivan,,,,,
 1989,100,Pittsburgh Penguins,Tom Nevers,,,,,
@@ -8034,10 +7817,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,109,Winnipeg Jets,Dan Bylsma,429.0,19.0,43.0,62.0,491.0
 1989,110,New Jersey Devils,David Emma,34.0,5.0,6.0,11.0,45.0
 1989,111,Chicago Blackhawks,Tommi Pullola,,,,,
-1989,112,Minnesota North Stars,Scott Cashman,,,,,
 1989,113,Vancouver Canucks,Pavel Bure,702.0,437.0,342.0,779.0,1481.0
 1989,114,St. Louis Blues,David Roberts,125.0,20.0,33.0,53.0,178.0
-1989,115,Hartford Whalers,Jerome Bechard,,,,,
 1989,116,Detroit Red Wings,Dallas Drake,1009.0,177.0,300.0,477.0,1486.0
 1989,117,Philadelphia Flyers,Niklas Eriksson,,,,,
 1989,118,New York Rangers,Joby Messier,25.0,0.0,4.0,4.0,29.0
@@ -8058,7 +7839,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,133,New York Islanders,Brett Harkins,78.0,6.0,30.0,36.0,114.0
 1989,134,Vancouver Canucks,James Revenberg,,,,,
 1989,135,St. Louis Blues,Jeff Batters,16.0,0.0,0.0,0.0,16.0
-1989,136,Hartford Whalers,Scott Daniels,149.0,8.0,12.0,20.0,169.0
 1989,137,Detroit Red Wings,Scott Zygulski,,,,,
 1989,138,Philadelphia Flyers,John Callahan Jr.,,,,,
 1989,139,New York Rangers,Greg Leahy,,,,,
@@ -8076,10 +7856,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,151,Winnipeg Jets,Jim Solly,,,,,
 1989,152,New Jersey Devils,Sergei Starikov,16.0,0.0,1.0,1.0,17.0
 1989,153,Chicago Blackhawks,Milan Tichy,23.0,0.0,5.0,5.0,28.0
-1989,154,Minnesota North Stars,Jonathon Pratt,,,,,
 1989,155,Vancouver Canucks,Rob Sangster,,,,,
 1989,156,St. Louis Blues,Kevin Plager,,,,,
-1989,157,Hartford Whalers,Raymond Saumier,,,,,
 1989,158,Detroit Red Wings,Andy Suhy,,,,,
 1989,159,Philadelphia Flyers,Sverre Sears,,,,,
 1989,160,New York Rangers,Greg Spenrath,,,,,
@@ -8097,10 +7875,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,172,Winnipeg Jets,Stephane Gauvin,,,,,
 1989,173,New Jersey Devils,Andre Faust,47.0,10.0,7.0,17.0,64.0
 1989,174,Chicago Blackhawks,Jason Greyerbiehl,,,,,
-1989,175,Minnesota North Stars,Kenneth Blum,,,,,
 1989,176,Vancouver Canucks,Sandy Moger,236.0,41.0,38.0,79.0,315.0
 1989,177,St. Louis Blues,John Roderick,,,,,
-1989,178,Hartford Whalers,Michel Picard,166.0,28.0,42.0,70.0,236.0
 1989,179,Detroit Red Wings,Bob Jones,,,,,
 1989,180,Philadelphia Flyers,Glen Wisser,,,,,
 1989,181,New York Rangers,Mark Bavis,,,,,
@@ -8118,10 +7894,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,193,Winnipeg Jets,Joe Larson,,,,,
 1989,194,Buffalo Sabres,Mark Astley,75.0,4.0,19.0,23.0,98.0
 1989,195,Chicago Blackhawks,Matt Saunders,,,,,
-1989,196,Minnesota North Stars,Arturs Irbe,568.0,0.0,9.0,9.0,577.0
 1989,197,Vancouver Canucks,Gus Morschauser,,,,,
 1989,198,St. Louis Blues,John Valo,,,,,
-1989,199,Hartford Whalers,Trevor Buchanan,,,,,
 1989,200,Detroit Red Wings,Greg Bignell,,,,,
 1989,201,Philadelphia Flyers,Al Kummu,,,,,
 1989,202,New York Rangers,Roman Oksiuta,153.0,46.0,41.0,87.0,240.0
@@ -8139,10 +7913,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,214,Winnipeg Jets,Bradley Podiak,,,,,
 1989,215,New Jersey Devils,Jason Simon,5.0,0.0,0.0,0.0,5.0
 1989,216,Chicago Blackhawks,Mike Kozak,,,,,
-1989,217,Minnesota North Stars,Tom Pederson,240.0,20.0,49.0,69.0,309.0
 1989,218,Vancouver Canucks,Hayden O'Rear,,,,,
 1989,219,St. Louis Blues,Brian Lukowski,,,,,
-1989,220,Hartford Whalers,John Battice,,,,,
 1989,221,Detroit Red Wings,Vladimir Konstantinov,446.0,47.0,128.0,175.0,621.0
 1989,222,Philadelphia Flyers,Matt Brait,,,,,
 1989,223,New York Rangers,Steve Locke,,,,,
@@ -8160,10 +7932,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,235,Winnipeg Jets,Evgeny Davydov,155.0,40.0,39.0,79.0,234.0
 1989,236,New Jersey Devils,Peter Larsson,,,,,
 1989,237,Chicago Blackhawks,Michael Doneghey,,,,,
-1989,238,Minnesota North Stars,Helmut Balderis,26.0,3.0,6.0,9.0,35.0
 1989,239,Vancouver Canucks,Darcy Cahill,,,,,
 1989,240,Winnipeg Jets,Sergei Kharin,7.0,2.0,3.0,5.0,12.0
-1989,241,Hartford Whalers,Peter Kasowski,,,,,
 1989,242,Detroit Red Wings,Joseph Frederick,,,,,
 1989,243,Philadelphia Flyers,James Pollio,,,,,
 1989,244,New York Rangers,Ken MacDermid,,,,,
@@ -8175,7 +7945,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1989,250,Washington Capitals,Ken House,,,,,
 1989,251,Montreal Canadiens,Steve Cadieux,,,,,
 1989,252,Calgary Flames,Kenneth Kennholt,,,,,
-1988,1,Minnesota North Stars,Mike Modano,1499.0,561.0,813.0,1374.0,2873.0
 1988,2,Vancouver Canucks,Trevor Linden,1382.0,375.0,492.0,867.0,2249.0
 1988,3,Quebec Nordiques,Curtis Leschyshyn,1033.0,47.0,165.0,212.0,1245.0
 1988,4,Pittsburgh Penguins,Darrin Shannon,506.0,87.0,163.0,250.0,756.0
@@ -8185,7 +7954,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,8,Chicago Blackhawks,Jeremy Roenick,1363.0,513.0,703.0,1216.0,2579.0
 1988,9,St. Louis Blues,Rod Brind'Amour,1484.0,452.0,732.0,1184.0,2668.0
 1988,10,Winnipeg Jets,Teemu Selanne,1451.0,684.0,773.0,1457.0,2908.0
-1988,11,Hartford Whalers,Chris Govedaris,45.0,4.0,6.0,10.0,55.0
 1988,12,New Jersey Devils,Corey Foster,45.0,5.0,6.0,11.0,56.0
 1988,13,Buffalo Sabres,Joel Savage,3.0,0.0,1.0,1.0,4.0
 1988,14,Philadelphia Flyers,Claude Boivin,132.0,12.0,19.0,31.0,163.0
@@ -8206,7 +7974,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,29,New York Islanders,Wayne Doucet,,,,,
 1988,30,St. Louis Blues,Adrien Plavsic,214.0,16.0,56.0,72.0,286.0
 1988,31,Winnipeg Jets,Russell Romaniuk,102.0,13.0,14.0,27.0,129.0
-1988,32,Hartford Whalers,Barry Richter,151.0,11.0,34.0,45.0,196.0
 1988,33,Vancouver Canucks,Leif Rohlin,96.0,8.0,24.0,32.0,128.0
 1988,34,Montreal Canadiens,Martin St. Amour,1.0,0.0,0.0,0.0,1.0
 1988,35,Philadelphia Flyers,Pat Murray,25.0,3.0,1.0,4.0,29.0
@@ -8214,10 +7981,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,37,New York Islanders,Sean Lebrun,,,,,
 1988,38,Detroit Red Wings,Serge Anglehart,,,,,
 1988,39,Edmonton Oilers,Petro Koivunen,,,,,
-1988,40,Minnesota North Stars,Link Gaetz,65.0,6.0,8.0,14.0,79.0
 1988,41,Washington Capitals,Wade Bartley,,,,,
 1988,42,Calgary Flames,Todd Harkins,48.0,3.0,3.0,6.0,54.0
-1988,43,Minnesota North Stars,Shaun Kane,,,,,
 1988,44,Vancouver Canucks,Dane Jackson,45.0,12.0,6.0,18.0,63.0
 1988,45,Quebec Nordiques,Petri Aaltonen,,,,,
 1988,46,Montreal Canadiens,Neil Carnes,,,,,
@@ -8238,7 +8003,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,61,Edmonton Oilers,Collin Bauer,,,,,
 1988,62,Pittsburgh Penguins,Daniel Gauthier,5.0,0.0,0.0,0.0,5.0
 1988,63,Philadelphia Flyers,Dominic Roussel,205.0,0.0,4.0,4.0,209.0
-1988,64,Minnesota North Stars,Jeffrey Stolp,,,,,
 1988,65,New Jersey Devils,Matt Ruchty,,,,,
 1988,66,Quebec Nordiques,Darin Kimble,311.0,23.0,20.0,43.0,354.0
 1988,67,Pittsburgh Penguins,Mark Recchi,1652.0,577.0,956.0,1533.0,3185.0
@@ -8248,7 +8012,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,71,Chicago Blackhawks,Stefan Elvenas,,,,,
 1988,72,St. Louis Blues,Jaan Luik,,,,,
 1988,73,Winnipeg Jets,Brian Hunt,,,,,
-1988,74,Hartford Whalers,Dean Dyer,,,,,
 1988,75,New Jersey Devils,Scott Luik,,,,,
 1988,76,Buffalo Sabres,Keith Carney,1018.0,45.0,183.0,228.0,1246.0
 1988,77,Philadelphia Flyers,Scott Lagrand,,,,,
@@ -8269,7 +8032,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,92,Chicago Blackhawks,Joe Cleary,,,,,
 1988,93,Montreal Canadiens,Peter Popovic,485.0,10.0,63.0,73.0,558.0
 1988,94,Winnipeg Jets,Tony Joseph,2.0,1.0,0.0,1.0,3.0
-1988,95,Hartford Whalers,Scott Morrow,4.0,0.0,0.0,0.0,4.0
 1988,96,New Jersey Devils,Chris Nelson,,,,,
 1988,97,Buffalo Sabres,Rob Ray,900.0,41.0,50.0,91.0,991.0
 1988,98,Philadelphia Flyers,Edward O'Brien,,,,,
@@ -8290,7 +8052,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,113,Chicago Blackhawks,Justin Lafayette,,,,,
 1988,114,St. Louis Blues,Dan Fowler,,,,,
 1988,115,Winnipeg Jets,Ronald Jones,,,,,
-1988,116,Hartford Whalers,Corey Beaulieu,,,,,
 1988,117,New Jersey Devils,Chad Johnson,,,,,
 1988,118,Buffalo Sabres,Mike McLaughlin,,,,,
 1988,119,Philadelphia Flyers,Gordie Frantti,,,,,
@@ -8311,7 +8072,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,134,Chicago Blackhawks,Craig Woodcroft,,,,,
 1988,135,St. Louis Blues,Matt Hayes,,,,,
 1988,136,Winnipeg Jets,Jukka Marttila,,,,,
-1988,137,Hartford Whalers,Kerry Russell,,,,,
 1988,138,New Jersey Devils,Chad Erickson,2.0,0.0,0.0,0.0,2.0
 1988,139,Buffalo Sabres,Mike Griffith,,,,,
 1988,140,Philadelphia Flyers,Jamie Cooke,,,,,
@@ -8322,7 +8082,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,145,Edmonton Oilers,Mike Glover,,,,,
 1988,146,Montreal Canadiens,Tim Chase,,,,,
 1988,147,Calgary Flames,Stefan Nilsson,,,,,
-1988,148,Minnesota North Stars,Ken MacArthur,,,,,
 1988,149,Vancouver Canucks,Greg Geldart,,,,,
 1988,150,Quebec Nordiques,Sakari Lindfors,,,,,
 1988,151,Pittsburgh Penguins,Jeff Blaeser,,,,,
@@ -8332,7 +8091,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,155,Chicago Blackhawks,Jon Pojar,,,,,
 1988,156,St. Louis Blues,John McCoy,,,,,
 1988,157,Winnipeg Jets,Mark Smith,,,,,
-1988,158,Hartford Whalers,Jim Burke,,,,,
 1988,159,New Jersey Devils,Bryan Lafort,,,,,
 1988,160,Buffalo Sabres,Daniel Ruoho,,,,,
 1988,161,Philadelphia Flyers,Johan Salle,,,,,
@@ -8343,7 +8101,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,166,Edmonton Oilers,Shjon Podein,699.0,100.0,106.0,206.0,905.0
 1988,167,Montreal Canadiens,Sean Hill,876.0,62.0,236.0,298.0,1174.0
 1988,168,Calgary Flames,Troy Kennedy,,,,,
-1988,169,Minnesota North Stars,Travis Richards,3.0,0.0,0.0,0.0,3.0
 1988,170,Vancouver Canucks,Roger Akerstrom,,,,,
 1988,171,Quebec Nordiques,Dan Wiebe,,,,,
 1988,172,Pittsburgh Penguins,Rob Gaudreau,231.0,51.0,54.0,105.0,336.0
@@ -8353,7 +8110,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,176,Chicago Blackhawks,Mathew Hentges,,,,,
 1988,177,St. Louis Blues,Tony Twist,445.0,10.0,18.0,28.0,473.0
 1988,178,Winnipeg Jets,Mike Helber,,,,,
-1988,179,Hartford Whalers,Mark Hirth,,,,,
 1988,180,New Jersey Devils,Sergei Svetlov,,,,,
 1988,181,Buffalo Sabres,Wade Flaherty,120.0,0.0,3.0,3.0,123.0
 1988,182,Philadelphia Flyers,Brian Arthur,,,,,
@@ -8364,7 +8120,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,187,Edmonton Oilers,Tim Cole,,,,,
 1988,188,Montreal Canadiens,Harijs Vitolinsh,8.0,0.0,0.0,0.0,8.0
 1988,189,Calgary Flames,Brett Peterson,,,,,
-1988,190,Minnesota North Stars,Ari Matilainen,,,,,
 1988,191,Vancouver Canucks,Paul Constantin,,,,,
 1988,192,Washington Capitals,Mark Sorensen,,,,,
 1988,193,Pittsburgh Penguins,David Pancoe,,,,,
@@ -8374,7 +8129,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,197,Chicago Blackhawks,Daniel Maurice,,,,,
 1988,198,St. Louis Blues,Bret Hedican,1039.0,55.0,239.0,294.0,1333.0
 1988,199,Winnipeg Jets,Pavel Kostichkin,,,,,
-1988,200,Hartford Whalers,Wayde Bucsis,,,,,
 1988,201,New Jersey Devils,Bob Woods,,,,,
 1988,202,New York Rangers,Eric Fenton,,,,,
 1988,203,Philadelphia Flyers,Jeff Dandretta,,,,,
@@ -8385,7 +8139,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,208,Edmonton Oilers,Vladimir Zubkov,,,,,
 1988,209,Montreal Canadiens,Yuri Krivokhizha,,,,,
 1988,210,Calgary Flames,Guy Darveau,,,,,
-1988,211,Minnesota North Stars,Grant Bischoff,,,,,
 1988,212,Vancouver Canucks,Chris Wolanin,,,,,
 1988,213,Quebec Nordiques,Alexei Gusarov,607.0,39.0,128.0,167.0,774.0
 1988,214,Pittsburgh Penguins,Cory Laylin,,,,,
@@ -8395,7 +8148,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,218,Chicago Blackhawks,Dirk Tenzer,,,,,
 1988,219,St. Louis Blues,Heath DeBoer,,,,,
 1988,220,Winnipeg Jets,Kevin Heise,,,,,
-1988,221,Hartford Whalers,Rob White,,,,,
 1988,222,New Jersey Devils,Charles Hughes,,,,,
 1988,223,Buffalo Sabres,Thomas Nieman,,,,,
 1988,224,Philadelphia Flyers,Scott Billey,,,,,
@@ -8406,7 +8158,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,229,Edmonton Oilers,Darin MacDonald,,,,,
 1988,230,Montreal Canadiens,Kevin Dahl,188.0,7.0,22.0,29.0,217.0
 1988,231,Calgary Flames,Dave Tretowicz,,,,,
-1988,232,Minnesota North Stars,Trent Andison,,,,,
 1988,233,Vancouver Canucks,Steffan Nilsson,,,,,
 1988,234,Quebec Nordiques,Claude Lapointe,879.0,127.0,178.0,305.0,1184.0
 1988,235,Pittsburgh Penguins,Darren Stolk,,,,,
@@ -8416,7 +8167,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1988,239,Chicago Blackhawks,Andreas Lupzig,,,,,
 1988,240,St. Louis Blues,Michael Francis,,,,,
 1988,241,Winnipeg Jets,Kyle Galloway,,,,,
-1988,242,Hartford Whalers,Dan Slatalla,,,,,
 1988,243,Buffalo Sabres,Michael Pohl,,,,,
 1988,244,New Jersey Devils,Robert Wallwork,,,,,
 1988,245,Philadelphia Flyers,Drahomir Kadlec,,,,,
@@ -8432,7 +8182,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,3,Boston Bruins,Glen Wesley,1457.0,128.0,409.0,537.0,1994.0
 1987,4,Los Angeles Kings,Wayne McBean,211.0,10.0,39.0,49.0,260.0
 1987,5,Pittsburgh Penguins,Chris Joseph,510.0,39.0,112.0,151.0,661.0
-1987,6,Minnesota North Stars,Dave Archibald,323.0,57.0,67.0,124.0,447.0
 1987,7,Toronto Maple Leafs,Luke Richardson,1417.0,35.0,166.0,201.0,1618.0
 1987,8,Chicago Blackhawks,Jimmy Waite,106.0,0.0,1.0,1.0,107.0
 1987,9,Quebec Nordiques,Bryan Fogarty,156.0,22.0,52.0,74.0,230.0
@@ -8444,7 +8193,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,15,Quebec Nordiques,Joe Sakic,1378.0,625.0,1016.0,1641.0,3019.0
 1987,16,Winnipeg Jets,Bryan Marchment,926.0,40.0,142.0,182.0,1108.0
 1987,17,Montreal Canadiens,Andrew Cassels,1015.0,204.0,528.0,732.0,1747.0
-1987,18,Hartford Whalers,Jody Hull,831.0,124.0,137.0,261.0,1092.0
 1987,19,Calgary Flames,Bryan Deasley,,,,,
 1987,20,Philadelphia Flyers,Darren Rumble,193.0,10.0,26.0,36.0,229.0
 1987,21,Edmonton Oilers,Peter Soberlak,,,,,
@@ -8461,11 +8209,9 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,32,Detroit Red Wings,Gord Kruppke,23.0,0.0,0.0,0.0,23.0
 1987,33,Montreal Canadiens,John LeClair,967.0,406.0,413.0,819.0,1786.0
 1987,34,New York Islanders,Jeff Hackett,500.0,0.0,9.0,9.0,509.0
-1987,35,Minnesota North Stars,Scott McCrady,,,,,
 1987,36,Washington Capitals,Jeff Ballantyne,,,,,
 1987,37,Winnipeg Jets,Patrik Ericksson,,,,,
 1987,38,Montreal Canadiens,Eric Desjardins,1143.0,136.0,439.0,575.0,1718.0
-1987,39,Hartford Whalers,Adam Burt,737.0,37.0,115.0,152.0,889.0
 1987,40,Calgary Flames,Kevin Grant,,,,,
 1987,41,Detroit Red Wings,Bob Wilkie,18.0,2.0,5.0,7.0,25.0
 1987,42,Edmonton Oilers,Brad Werenka,320.0,19.0,61.0,80.0,400.0
@@ -8474,7 +8220,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,45,Vancouver Canucks,Steve Veilleux,,,,,
 1987,46,New York Rangers,Simon Gagne,,,,,
 1987,47,Pittsburgh Penguins,Jamie Leach,81.0,11.0,9.0,20.0,101.0
-1987,48,Minnesota North Stars,Kevin Kaminski,139.0,3.0,10.0,13.0,152.0
 1987,49,Toronto Maple Leafs,John McIntyre,351.0,24.0,54.0,78.0,429.0
 1987,50,Chicago Blackhawks,Cam Russell,396.0,9.0,21.0,30.0,426.0
 1987,51,Quebec Nordiques,Jim Sprott,,,,,
@@ -8499,7 +8244,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,70,Calgary Flames,Tim Harris,,,,,
 1987,71,Toronto Maple Leafs,Joe Sacco,738.0,94.0,119.0,213.0,951.0
 1987,72,Quebec Nordiques,Kip Miller,449.0,74.0,165.0,239.0,688.0
-1987,73,Minnesota North Stars,John Weisbrod,,,,,
 1987,74,Detroit Red Wings,Mark Reimer,,,,,
 1987,75,St. Louis Blues,Darren Smith,,,,,
 1987,76,New York Islanders,George Maneluk,4.0,0.0,0.0,0.0,4.0
@@ -8507,14 +8251,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,78,Washington Capitals,Tyler Larter,1.0,0.0,0.0,0.0,1.0
 1987,79,Winnipeg Jets,Don McLennan,,,,,
 1987,80,Montreal Canadiens,Kris Miller,,,,,
-1987,81,Hartford Whalers,Terry Yake,403.0,77.0,120.0,197.0,600.0
 1987,82,St. Louis Blues,Andy Rymsha,6.0,0.0,0.0,0.0,6.0
 1987,83,Philadelphia Flyers,Tomaz Eriksson,,,,,
 1987,84,Buffalo Sabres,John Bradley,,,,,
 1987,85,Buffalo Sabres,David Pergola,,,,,
 1987,86,New Jersey Devils,Kevin Dean,331.0,7.0,48.0,55.0,386.0
 1987,87,Vancouver Canucks,Sean Fabian,,,,,
-1987,88,Minnesota North Stars,Teppo Kivela,,,,,
 1987,89,Pittsburgh Penguins,Jeff Waver,,,,,
 1987,90,Los Angeles Kings,Mike Vukonich,,,,,
 1987,91,Toronto Maple Leafs,Mike Eastwood,783.0,87.0,149.0,236.0,1019.0
@@ -8528,14 +8270,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,99,Washington Capitals,Pat Beauchesne,,,,,
 1987,100,Winnipeg Jets,Darrin Amundson,,,,,
 1987,101,Montreal Canadiens,Steve McCool,,,,,
-1987,102,Hartford Whalers,Marc Rousseau,,,,,
 1987,103,Calgary Flames,Tim Corkery,,,,,
 1987,104,Philadelphia Flyers,Bill Gall,,,,,
 1987,105,Edmonton Oilers,Shaun Van Allen,794.0,84.0,185.0,269.0,1063.0
 1987,106,Buffalo Sabres,Chris Marshall,,,,,
 1987,107,New Jersey Devils,Ben Hankinson,43.0,3.0,3.0,6.0,49.0
 1987,108,Vancouver Canucks,Garry Valk,777.0,100.0,156.0,256.0,1033.0
-1987,109,Minnesota North Stars,D'arcy Norton,,,,,
 1987,110,Pittsburgh Penguins,Shawn McEachern,911.0,256.0,323.0,579.0,1490.0
 1987,111,Los Angeles Kings,Greg Batters,,,,,
 1987,112,Toronto Maple Leafs,Damian Rhodes,309.0,1.0,6.0,7.0,316.0
@@ -8549,14 +8289,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,120,Washington Capitals,Rich Defreitas,,,,,
 1987,121,Winnipeg Jets,Joe Harwell,,,,,
 1987,122,Montreal Canadiens,Les Kuntar,6.0,0.0,0.0,0.0,6.0
-1987,123,Hartford Whalers,Jeff St. Cyr,,,,,
 1987,124,Calgary Flames,Joe Aloi,,,,,
 1987,125,Philadelphia Flyers,Tony Link,,,,,
 1987,126,Edmonton Oilers,Radek Toupal,,,,,
 1987,127,Buffalo Sabres,Paul Flanagan,,,,,
 1987,128,New Jersey Devils,Tom Neziol,,,,,
 1987,129,Vancouver Canucks,Todd Fanning,,,,,
-1987,130,Minnesota North Stars,Timo Kulonen,,,,,
 1987,131,Pittsburgh Penguins,Jim Bodden,,,,,
 1987,132,Los Angeles Kings,Kyosti Karjalainen,28.0,1.0,8.0,9.0,37.0
 1987,133,Toronto Maple Leafs,Trevor Jobe,,,,,
@@ -8570,14 +8308,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,141,Washington Capitals,Devon Oleniuk,,,,,
 1987,142,Winnipeg Jets,Todd Hartje,,,,,
 1987,143,Montreal Canadiens,Rob Kelley,,,,,
-1987,144,Hartford Whalers,Greg Wolf,,,,,
 1987,145,Calgary Flames,Peter Ciavaglia,5.0,0.0,0.0,0.0,5.0
 1987,146,Philadelphia Flyers,Mark Strapon,,,,,
 1987,147,Edmonton Oilers,Tomas Srsen,2.0,0.0,0.0,0.0,2.0
 1987,148,Buffalo Sabres,Sean Dooley,,,,,
 1987,149,New Jersey Devils,Jim Dowd,728.0,71.0,168.0,239.0,967.0
 1987,150,Vancouver Canucks,Viktor Tyumenev,,,,,
-1987,151,Minnesota North Stars,Don Schmidt,,,,,
 1987,152,Pittsburgh Penguins,Jiri Kucera,,,,,
 1987,153,Buffalo Sabres,Tim Roberts,,,,,
 1987,154,Toronto Maple Leafs,Chris Jensen,,,,,
@@ -8591,14 +8327,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,162,Washington Capitals,Thomas Sjogren,,,,,
 1987,163,Winnipeg Jets,Markku Kyllonen,9.0,0.0,2.0,2.0,11.0
 1987,164,Montreal Canadiens,Will Geist,,,,,
-1987,165,Hartford Whalers,John Moore,,,,,
 1987,166,Calgary Flames,Theoren Fleury,1084.0,455.0,633.0,1088.0,2172.0
 1987,167,Philadelphia Flyers,Darryl Ingham,,,,,
 1987,168,Edmonton Oilers,Age Ellingsen,,,,,
 1987,169,Buffalo Sabres,Grant Tkachuk,,,,,
 1987,170,New Jersey Devils,John Blessman,,,,,
 1987,171,Vancouver Canucks,Greg Daly,,,,,
-1987,172,Minnesota North Stars,Jarmo Myllys,39.0,0.0,1.0,1.0,40.0
 1987,173,Pittsburgh Penguins,Jack MacDougall,,,,,
 1987,174,Los Angeles Kings,Jeff Gawlicki,,,,,
 1987,175,Toronto Maple Leafs,Brian Blad,,,,,
@@ -8612,14 +8346,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,183,Quebec Nordiques,Ladislav Tresl,,,,,
 1987,184,Winnipeg Jets,Jim Fernholz,,,,,
 1987,185,Montreal Canadiens,Eric Tremblay,,,,,
-1987,186,Hartford Whalers,Joe Day,72.0,1.0,10.0,11.0,83.0
 1987,187,Calgary Flames,Mark Osiecki,93.0,3.0,11.0,14.0,107.0
 1987,188,Philadelphia Flyers,Bruce McDonald,,,,,
 1987,189,Edmonton Oilers,Gavin Armstrong,,,,,
 1987,190,Buffalo Sabres,Ian Herbers,65.0,0.0,5.0,5.0,70.0
 1987,191,New Jersey Devils,Peter Fry,,,,,
 1987,192,Vancouver Canucks,John Fletcher,,,,,
-1987,193,Minnesota North Stars,Larry Olimb,,,,,
 1987,194,Pittsburgh Penguins,Daryn McBride,,,,,
 1987,195,Los Angeles Kings,John Preston,,,,,
 1987,196,Toronto Maple Leafs,Ron Bernacci,,,,,
@@ -8640,7 +8372,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,211,Buffalo Sabres,David Littman,3.0,0.0,0.0,0.0,3.0
 1987,212,New Jersey Devils,Alain Charland,,,,,
 1987,213,Vancouver Canucks,Roger Hansson,,,,,
-1987,214,Minnesota North Stars,Mark Felicio,,,,,
 1987,215,Pittsburgh Penguins,Mark Carlson,,,,,
 1987,216,Los Angeles Kings,Rostislav Vlach,,,,,
 1987,217,Toronto Maple Leafs,Ken Alexander,,,,,
@@ -8654,14 +8385,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,225,Washington Capitals,Milos Vanik,,,,,
 1987,226,Winnipeg Jets,Roger Rougelot,,,,,
 1987,227,Montreal Canadiens,Ed Ronan,182.0,13.0,23.0,36.0,218.0
-1987,228,Hartford Whalers,Kevin Sullivan,,,,,
 1987,229,Calgary Flames,Peter Hasselblad,,,,,
 1987,230,Philadelphia Flyers,Darius Rusnak,,,,,
 1987,231,Edmonton Oilers,Jeff Pauletti,,,,,
 1987,232,Buffalo Sabres,Allan MacIsaac,,,,,
 1987,233,Vancouver Canucks,Neil Eisenhut,16.0,1.0,3.0,4.0,20.0
 1987,234,Vancouver Canucks,Matt Evo,,,,,
-1987,235,Minnesota North Stars,Dave Shields,,,,,
 1987,236,Pittsburgh Penguins,Ake Lilljebjorn,,,,,
 1987,237,Los Angeles Kings,Mikael Lindholm,18.0,2.0,2.0,4.0,22.0
 1987,238,Toronto Maple Leafs,Alex Weinrich,,,,,
@@ -8675,7 +8404,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1987,246,Washington Capitals,Ryan Kummo,,,,,
 1987,247,Winnipeg Jets,Hans Goran Elo,,,,,
 1987,248,Montreal Canadiens,Bryan Herring,,,,,
-1987,249,Hartford Whalers,Steve Laurin,,,,,
 1987,250,Calgary Flames,Magnus Svensson,46.0,4.0,14.0,18.0,64.0
 1987,251,Philadelphia Flyers,Dale Roehl,,,,,
 1987,252,Edmonton Oilers,Igor Vyazmikin,4.0,1.0,0.0,1.0,5.0
@@ -8689,8 +8417,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,8,Winnipeg Jets,Pat Elynuik,506.0,154.0,188.0,342.0,848.0
 1986,9,New York Rangers,Brian Leetch,1205.0,247.0,781.0,1028.0,2233.0
 1986,10,St. Louis Blues,Jocelyn Lemieux,598.0,80.0,84.0,164.0,762.0
-1986,11,Hartford Whalers,Scott Young,1181.0,342.0,415.0,757.0,1938.0
-1986,12,Minnesota North Stars,Warren Babe,21.0,2.0,5.0,7.0,28.0
 1986,13,Boston Bruins,Craig Janney,760.0,188.0,563.0,751.0,1511.0
 1986,14,Chicago Blackhawks,Everett Sanipass,164.0,25.0,34.0,59.0,223.0
 1986,15,Montreal Canadiens,Mark Pederson,169.0,35.0,50.0,85.0,254.0
@@ -8708,10 +8434,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,27,Montreal Canadiens,Benoit Brunet,539.0,101.0,161.0,262.0,801.0
 1986,28,Philadelphia Flyers,Kent Hawley,,,,,
 1986,29,Winnipeg Jets,Teppo Numminen,1372.0,117.0,520.0,637.0,2009.0
-1986,30,Minnesota North Stars,Neil Wilkinson,460.0,16.0,67.0,83.0,543.0
 1986,31,St. Louis Blues,Mike Posma,,,,,
-1986,32,Hartford Whalers,Marc Laforge,14.0,0.0,0.0,0.0,14.0
-1986,33,Minnesota North Stars,Dean Kolstad,40.0,1.0,7.0,8.0,48.0
 1986,34,Boston Bruins,Pekka Tirkkonen,,,,,
 1986,35,Chicago Blackhawks,Mark Kurzawski,,,,,
 1986,36,Toronto Maple Leafs,Darryl Shannon,544.0,28.0,111.0,139.0,683.0
@@ -8732,11 +8455,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,51,New York Rangers,Bret Walter,,,,,
 1986,52,St. Louis Blues,Tony Hejna,,,,,
 1986,53,New York Rangers,Shawn Clouston,,,,,
-1986,54,Minnesota North Stars,Rick Bennett,15.0,1.0,1.0,2.0,17.0
-1986,55,Minnesota North Stars,Rob Zettler,569.0,5.0,65.0,70.0,639.0
 1986,56,Buffalo Sabres,Kevin Kerr,,,,,
 1986,57,Montreal Canadiens,Jyrki Lumme,985.0,114.0,354.0,468.0,1453.0
-1986,58,Minnesota North Stars,Brad Turner,3.0,0.0,0.0,0.0,3.0
 1986,59,New York Islanders,Bill Berg,546.0,55.0,67.0,122.0,668.0
 1986,60,Washington Capitals,Shawn Simpson,,,,,
 1986,61,Washington Capitals,Jim Hrivnak,85.0,0.0,5.0,5.0,90.0
@@ -8752,8 +8472,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,71,Winnipeg Jets,Hannu Jarvenpaa,114.0,11.0,26.0,37.0,151.0
 1986,72,New York Rangers,Mark Janssens,711.0,40.0,73.0,113.0,824.0
 1986,73,St. Louis Blues,Glen Featherstone,384.0,19.0,61.0,80.0,464.0
-1986,74,Hartford Whalers,Brian Chapman,3.0,0.0,0.0,0.0,3.0
-1986,75,Minnesota North Stars,Kirk Tomlinson,1.0,0.0,0.0,0.0,1.0
 1986,76,Boston Bruins,Dean Hall,,,,,
 1986,77,Chicago Blackhawks,Frantisek Kucera,465.0,24.0,95.0,119.0,584.0
 1986,78,Montreal Canadiens,Brent Bobyck,,,,,
@@ -8773,8 +8491,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,92,Winnipeg Jets,Craig Endean,2.0,0.0,1.0,1.0,3.0
 1986,93,New York Rangers,Jeff Bloemberg,43.0,3.0,6.0,9.0,52.0
 1986,94,Montreal Canadiens,Eric Aubertin,,,,,
-1986,95,Hartford Whalers,Bill Horn,,,,,
-1986,96,Minnesota North Stars,Jari Gronstrand,185.0,8.0,26.0,34.0,219.0
 1986,97,Boston Bruins,Matt Pesklewis,,,,,
 1986,98,Chicago Blackhawks,Lonnie Loach,56.0,10.0,13.0,23.0,79.0
 1986,99,Montreal Canadiens,Mario Milani,,,,,
@@ -8794,7 +8510,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,113,Winnipeg Jets,Robertson Bateman,,,,,
 1986,114,New York Rangers,Darren Turcotte,635.0,195.0,216.0,411.0,1046.0
 1986,115,St. Louis Blues,Mike O' Toole,,,,,
-1986,116,Hartford Whalers,Joe Quinn,,,,,
 1986,117,Quebec Nordiques,Scott White,,,,,
 1986,118,Boston Bruins,Garth Premak,,,,,
 1986,119,Chicago Blackhawks,Mario Doyon,28.0,3.0,4.0,7.0,35.0
@@ -8815,7 +8530,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,134,Quebec Nordiques,Mark Vermette,67.0,5.0,13.0,18.0,85.0
 1986,135,New York Rangers,Robb Graham,,,,,
 1986,136,St. Louis Blues,Andy May,,,,,
-1986,137,Hartford Whalers,Steve Torrel,,,,,
 1986,138,New York Islanders,Will Anderson,,,,,
 1986,139,Boston Bruins,Paul Beraldo,10.0,0.0,0.0,0.0,10.0
 1986,140,Chicago Blackhawks,Mike Hudson,416.0,49.0,87.0,136.0,552.0
@@ -8836,8 +8550,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,155,Winnipeg Jets,Frank Furlan,,,,,
 1986,156,New York Rangers,Barry Chyzowski,,,,,
 1986,157,St. Louis Blues,Randy Skarda,26.0,0.0,5.0,5.0,31.0
-1986,158,Hartford Whalers,Ron Hoover,18.0,4.0,0.0,4.0,22.0
-1986,159,Minnesota North Stars,Scott Mathias,,,,,
 1986,160,Boston Bruins,Brian Ferreira,,,,,
 1986,161,Chicago Blackhawks,Marty Nanne,,,,,
 1986,162,Montreal Canadiens,Rick Hayward,4.0,0.0,0.0,0.0,4.0
@@ -8857,8 +8569,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,176,Winnipeg Jets,Mark Green,,,,,
 1986,177,New York Rangers,Pat Scanlon,,,,,
 1986,178,St. Louis Blues,Martyn Ball,,,,,
-1986,179,Hartford Whalers,Robert Glasgow,,,,,
-1986,180,Minnesota North Stars,Lance Pitlick,393.0,16.0,33.0,49.0,442.0
 1986,181,Boston Bruins,Jeff Flaherty,,,,,
 1986,182,Chicago Blackhawks,Geoff Benic,,,,,
 1986,183,Montreal Canadiens,Antonin Routa,,,,,
@@ -8878,8 +8588,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,197,Winnipeg Jets,John Blue,46.0,0.0,2.0,2.0,48.0
 1986,198,New York Rangers,Joe Ranger,,,,,
 1986,199,St. Louis Blues,Rod Thacker,,,,,
-1986,200,Hartford Whalers,Sean Evoy,,,,,
-1986,201,Minnesota North Stars,Dan Keczmer,235.0,8.0,38.0,46.0,281.0
 1986,202,Boston Bruins,Greg Hawgood,474.0,60.0,164.0,224.0,698.0
 1986,203,Chicago Blackhawks,Glen Lowes,,,,,
 1986,204,Montreal Canadiens,Eric Bohemier,,,,,
@@ -8899,8 +8607,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,218,Winnipeg Jets,Matt Cote,,,,,
 1986,219,New York Rangers,Russell Parent,,,,,
 1986,220,St. Louis Blues,Terry MacLean,,,,,
-1986,221,Hartford Whalers,Cal Brown,,,,,
-1986,222,Minnesota North Stars,Garth Joy,,,,,
 1986,223,Boston Bruins,Steffan Malmqvist,,,,,
 1986,224,Chicago Blackhawks,Chris Thayer,,,,,
 1986,225,Montreal Canadiens,Charlie Moore,,,,,
@@ -8920,8 +8626,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1986,239,Winnipeg Jets,Arto Blomsten,25.0,0.0,4.0,4.0,29.0
 1986,240,New York Rangers,Soren True,,,,,
 1986,241,St. Louis Blues,David O'Brien,,,,,
-1986,242,Hartford Whalers,Brian Verbeek,,,,,
-1986,243,Minnesota North Stars,Kurt Stahura,,,,,
 1986,244,Boston Bruins,Joel Gardner,,,,,
 1986,245,Chicago Blackhawks,Sean Williams,2.0,0.0,0.0,0.0,2.0
 1986,246,Montreal Canadiens,Karel Svoboda,,,,,
@@ -8935,7 +8639,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,2,Pittsburgh Penguins,Craig Simpson,634.0,247.0,250.0,497.0,1131.0
 1985,3,New Jersey Devils,Craig Wolanin,695.0,40.0,133.0,173.0,868.0
 1985,4,Vancouver Canucks,Jim Sandlak,549.0,110.0,119.0,229.0,778.0
-1985,5,Hartford Whalers,Dana Murzyn,838.0,52.0,152.0,204.0,1042.0
 1985,6,New York Islanders,Brad Dalgarno,321.0,49.0,71.0,120.0,441.0
 1985,7,New York Rangers,Ulf Dahlen,966.0,301.0,354.0,655.0,1621.0
 1985,8,Detroit Red Wings,Brent Fedyk,470.0,97.0,112.0,209.0,679.0
@@ -8956,7 +8659,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,23,Pittsburgh Penguins,Lee Giffin,27.0,1.0,3.0,4.0,31.0
 1985,24,New Jersey Devils,Sean Burke,820.0,0.0,28.0,28.0,848.0
 1985,25,Vancouver Canucks,Troy Gamble,72.0,0.0,1.0,1.0,73.0
-1985,26,Hartford Whalers,Kay Whitmore,155.0,0.0,9.0,9.0,164.0
 1985,27,Calgary Flames,Joe Nieuwendyk,1257.0,564.0,562.0,1126.0,2383.0
 1985,28,New York Rangers,Mike Richter,666.0,0.0,11.0,11.0,677.0
 1985,29,Detroit Red Wings,Jeff Sharples,105.0,14.0,35.0,49.0,154.0
@@ -8981,7 +8683,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,48,Philadelphia Flyers,Darryl Gilmour,,,,,
 1985,49,New York Rangers,Sam Lindstahl,,,,,
 1985,50,Detroit Red Wings,Steve Chiasson,751.0,93.0,305.0,398.0,1149.0
-1985,51,Minnesota North Stars,Stephane Roy,12.0,1.0,0.0,1.0,13.0
 1985,52,Boston Bruins,Bill Ranford,647.0,0.0,24.0,24.0,671.0
 1985,53,Chicago Blackhawks,Andy Helmuth,,,,,
 1985,54,St. Louis Blues,Ned Desmond,,,,,
@@ -8998,8 +8699,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,65,Quebec Nordiques,Peter Massey,,,,,
 1985,66,New Jersey Devils,Gregg Polak,,,,,
 1985,67,Vancouver Canucks,Randy Siska,,,,,
-1985,68,Hartford Whalers,Gary Callaghan,,,,,
-1985,69,Minnesota North Stars,Mike Berger,30.0,3.0,1.0,4.0,34.0
 1985,70,New York Rangers,Pat Janostin,,,,,
 1985,71,Detroit Red Wings,Mark Gowans,,,,,
 1985,72,Los Angeles Kings,Perry Florio,,,,,
@@ -9020,7 +8719,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,87,Chicago Blackhawks,Rick Herbert,,,,,
 1985,88,Vancouver Canucks,Robert Kron,771.0,144.0,194.0,338.0,1109.0
 1985,89,New York Islanders,Tommy Hedlund,,,,,
-1985,90,Minnesota North Stars,Dwight Mullins,,,,,
 1985,91,New York Rangers,Brad Stephan,,,,,
 1985,92,Detroit Red Wings,Chris Luongo,218.0,8.0,23.0,31.0,249.0
 1985,93,Los Angeles Kings,Petr Prajsler,46.0,3.0,10.0,13.0,59.0
@@ -9040,8 +8738,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,107,Pittsburgh Penguins,Kevin Clemens,,,,,
 1985,108,New Jersey Devils,Bill McMillan,,,,,
 1985,109,Vancouver Canucks,Martin Hrstka,,,,,
-1985,110,Hartford Whalers,Shane Churla,488.0,26.0,45.0,71.0,559.0
-1985,111,Minnesota North Stars,Michael Mullowney,,,,,
 1985,112,New York Rangers,Brian McReynolds,30.0,1.0,5.0,6.0,36.0
 1985,113,Detroit Red Wings,Randy McKay,932.0,162.0,201.0,363.0,1295.0
 1985,114,Pittsburgh Penguins,Stuart Marston,,,,,
@@ -9061,8 +8757,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,128,Pittsburgh Penguins,Steve Titus,,,,,
 1985,129,New Jersey Devils,Kevin Schrader,,,,,
 1985,130,Vancouver Canucks,Brian McFarlane,,,,,
-1985,131,Hartford Whalers,Chris Brant,,,,,
-1985,132,Minnesota North Stars,Michael Kelfer,,,,,
 1985,133,New York Rangers,Neil Pilon,,,,,
 1985,134,Detroit Red Wings,Thomas Bjur,,,,,
 1985,135,Los Angeles Kings,Tim Flanagan,,,,,
@@ -9082,8 +8776,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,149,Pittsburgh Penguins,Paul Stanton,295.0,14.0,49.0,63.0,358.0
 1985,150,New Jersey Devils,Ed Krayer,,,,,
 1985,151,Vancouver Canucks,Hakan Ahlund,,,,,
-1985,152,Hartford Whalers,Brian Puhalsky,,,,,
-1985,153,Minnesota North Stars,Ross Johnson,,,,,
 1985,154,New York Rangers,Larry Bernard,,,,,
 1985,155,Detroit Red Wings,Mike Luckraft,,,,,
 1985,156,Los Angeles Kings,John Hyduke,,,,,
@@ -9103,8 +8795,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,170,Pittsburgh Penguins,Jim Paek,217.0,5.0,29.0,34.0,251.0
 1985,171,New Jersey Devils,Jamie Huscroft,352.0,5.0,33.0,38.0,390.0
 1985,172,Vancouver Canucks,Curtis Hunt,,,,,
-1985,173,Hartford Whalers,Greg Dornbach,,,,,
-1985,174,Minnesota North Stars,Tim Helmer,,,,,
 1985,175,New York Rangers,Stephane Brochu,1.0,0.0,0.0,0.0,1.0
 1985,176,Detroit Red Wings,Rob Schenna,,,,,
 1985,177,Los Angeles Kings,Steve Horner,,,,,
@@ -9124,8 +8814,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,191,Pittsburgh Penguins,Steve Shaunessy,,,,,
 1985,192,New Jersey Devils,Terry Shold,,,,,
 1985,193,Vancouver Canucks,Carl Valimont,,,,,
-1985,194,Hartford Whalers,Paul Tory,,,,,
-1985,195,Minnesota North Stars,Gordon Ernst,,,,,
 1985,196,New York Rangers,Steve Nemeth,12.0,2.0,0.0,2.0,14.0
 1985,197,Detroit Red Wings,Erik Hamalainen,,,,,
 1985,198,Montreal Canadiens,Maurice Mansi,,,,,
@@ -9145,8 +8833,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,212,Pittsburgh Penguins,Doug Greschuk,,,,,
 1985,213,New Jersey Devils,Jamie McKinley,,,,,
 1985,214,Vancouver Canucks,Igor Larionov,921.0,169.0,475.0,644.0,1565.0
-1985,215,Hartford Whalers,Jerry Pawlowski,,,,,
-1985,216,Minnesota North Stars,Ladislav Lubina,,,,,
 1985,217,New York Rangers,Robert Burakovsky,23.0,2.0,3.0,5.0,28.0
 1985,218,Detroit Red Wings,Bo Svanberg,,,,,
 1985,219,Los Angeles Kings,Trent Ciprick,,,,,
@@ -9166,8 +8852,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1985,233,Pittsburgh Penguins,Gregory Choules,,,,,
 1985,234,New Jersey Devils,David Williams,173.0,11.0,53.0,64.0,237.0
 1985,235,Vancouver Canucks,Darren Taylor,,,,,
-1985,236,Hartford Whalers,Bruce Hill,,,,,
-1985,237,Minnesota North Stars,Tommy Sjodin,106.0,8.0,40.0,48.0,154.0
 1985,238,New York Rangers,Rudy Poeschek,364.0,6.0,25.0,31.0,395.0
 1985,239,Detroit Red Wings,Mikael Lindman,,,,,
 1985,240,Los Angeles Kings,Marian Horwath,,,,,
@@ -9193,9 +8877,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,8,Montreal Canadiens,Shayne Corson,1156.0,273.0,420.0,693.0,1849.0
 1984,9,Pittsburgh Penguins,Doug Bodger,1071.0,106.0,422.0,528.0,1599.0
 1984,10,Vancouver Canucks,J.J. Daigneault,899.0,53.0,197.0,250.0,1149.0
-1984,11,Hartford Whalers,Sylvain Cote,1171.0,122.0,313.0,435.0,1606.0
 1984,12,Calgary Flames,Gary Roberts,1224.0,438.0,472.0,910.0,2134.0
-1984,13,Minnesota North Stars,David Quinn,,,,,
 1984,14,New York Rangers,Terry Carkner,858.0,42.0,188.0,230.0,1088.0
 1984,15,Quebec Nordiques,Trevor Stienburg,71.0,8.0,4.0,12.0,83.0
 1984,16,Pittsburgh Penguins,Roger Belanger,44.0,3.0,5.0,8.0,52.0
@@ -9228,7 +8910,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,43,Philadelphia Flyers,David McLay,,,,,
 1984,44,New Jersey Devils,Neil Davey,,,,,
 1984,45,Chicago Blackhawks,Trent Yawney,593.0,27.0,102.0,129.0,722.0
-1984,46,Minnesota North Stars,Ken Hodge,142.0,39.0,48.0,87.0,229.0
 1984,47,Philadelphia Flyers,John Stevens,53.0,0.0,10.0,10.0,63.0
 1984,48,Los Angeles Kings,John English,3.0,1.0,3.0,4.0,7.0
 1984,49,Detroit Red Wings,Milan Chalupa,14.0,0.0,5.0,5.0,19.0
@@ -9258,7 +8939,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,73,Vancouver Canucks,Brian Bertuzzi,,,,,
 1984,74,New Jersey Devils,Paul Ysebaert,532.0,149.0,187.0,336.0,868.0
 1984,75,Calgary Flames,Petr Rosol,,,,,
-1984,76,Minnesota North Stars,Miroslav Maly,,,,,
 1984,77,New York Rangers,Paul Broten,322.0,46.0,55.0,101.0,423.0
 1984,78,Quebec Nordiques,Terry Perkins,,,,,
 1984,79,Philadelphia Flyers,Dave Hanson,,,,,
@@ -9271,7 +8951,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,86,New Jersey Devils,Jon Morris,103.0,16.0,33.0,49.0,152.0
 1984,87,Los Angeles Kings,David Grannis,,,,,
 1984,88,Toronto Maple Leafs,Jack Capuano,6.0,0.0,0.0,0.0,6.0
-1984,89,Minnesota North Stars,Jiri Poner,,,,,
 1984,90,Chicago Blackhawks,Timo Lehkonen,,,,,
 1984,91,Detroit Red Wings,Mats Lundstrom,,,,,
 1984,92,St. Louis Blues,Scott Paluch,,,,,
@@ -9279,7 +8958,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,94,Vancouver Canucks,Brett MacDonald,1.0,0.0,0.0,0.0,1.0
 1984,95,Montreal Canadiens,Gerald Johannson,,,,,
 1984,96,Calgary Flames,Joel Paunio,,,,,
-1984,97,Minnesota North Stars,Kari Takko,142.0,0.0,2.0,2.0,144.0
 1984,98,New York Rangers,Clark Donatelli,35.0,3.0,4.0,7.0,42.0
 1984,99,Winnipeg Jets,Brent Severyn,328.0,10.0,30.0,40.0,368.0
 1984,100,Philadelphia Flyers,Brian Dobbin,63.0,7.0,8.0,15.0,78.0
@@ -9292,7 +8970,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,107,New Jersey Devils,Kirk McLean,612.0,0.0,23.0,23.0,635.0
 1984,108,Los Angeles Kings,Greg Strome,,,,,
 1984,109,Toronto Maple Leafs,Fabian Joseph,,,,,
-1984,110,Hartford Whalers,Mike Millar,78.0,18.0,18.0,36.0,114.0
 1984,111,Chicago Blackhawks,Chris Clifford,2.0,0.0,0.0,0.0,2.0
 1984,112,Detroit Red Wings,Randy Hansch,,,,,
 1984,113,St. Louis Blues,Steve Tuttle,144.0,28.0,28.0,56.0,200.0
@@ -9300,7 +8977,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,115,Vancouver Canucks,Jeff Korchinski,,,,,
 1984,116,Montreal Canadiens,Jim Nesich,,,,,
 1984,117,Calgary Flames,Brett Hull,1269.0,741.0,650.0,1391.0,2660.0
-1984,118,Minnesota North Stars,Gary McColgan,,,,,
 1984,119,New York Rangers,Kjell Samuelsson,813.0,48.0,138.0,186.0,999.0
 1984,120,Quebec Nordiques,Darren Cota,,,,,
 1984,121,Philadelphia Flyers,John Dzikowski,,,,,
@@ -9313,7 +8989,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,128,New Jersey Devils,Ian Ferguson,,,,,
 1984,129,Los Angeles Kings,Timothy Hanley,,,,,
 1984,130,Toronto Maple Leafs,Joseph McInnis,,,,,
-1984,131,Hartford Whalers,Mike Vellucci,2.0,0.0,0.0,0.0,2.0
 1984,132,Chicago Blackhawks,Mike Stapleton,697.0,71.0,111.0,182.0,879.0
 1984,133,Detroit Red Wings,Stefan Larsson,,,,,
 1984,134,St. Louis Blues,Cliff Ronning,1137.0,306.0,563.0,869.0,2006.0
@@ -9321,7 +8996,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,136,Vancouver Canucks,Blaine Chrest,,,,,
 1984,137,Montreal Canadiens,Scott MacTavish,,,,,
 1984,138,Calgary Flames,Kevan Melrose,,,,,
-1984,139,Minnesota North Stars,Vladimir Kyhos,,,,,
 1984,140,New York Rangers,Thomas Hussey,,,,,
 1984,141,Quebec Nordiques,Henrik Cedegren,,,,,
 1984,142,Philadelphia Flyers,Tom Allen,,,,,
@@ -9342,7 +9016,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,157,Vancouver Canucks,Jim Agnew,81.0,0.0,1.0,1.0,82.0
 1984,158,Montreal Canadiens,Brad McCaughey,,,,,
 1984,159,Calgary Flames,Jiri Hrdina,250.0,45.0,85.0,130.0,380.0
-1984,160,Minnesota North Stars,Darin MacInnis,,,,,
 1984,161,New York Rangers,Brian Nelson,,,,,
 1984,162,Quebec Nordiques,Jyrki Maki,,,,,
 1984,163,Philadelphia Flyers,Luke Vitale,,,,,
@@ -9355,7 +9028,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,170,New Jersey Devils,Mike Roth,,,,,
 1984,171,Los Angeles Kings,Luc Robitaille,1431.0,668.0,726.0,1394.0,2825.0
 1984,172,Toronto Maple Leafs,Dan Turner,,,,,
-1984,173,Hartford Whalers,John Devereaux,,,,,
 1984,174,Chicago Blackhawks,Ralph Difiore,,,,,
 1984,175,Detroit Red Wings,Bill Shibicky,,,,,
 1984,176,St. Louis Blues,Daniel Jomphe,,,,,
@@ -9363,7 +9035,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,178,Vancouver Canucks,Rex Grant,,,,,
 1984,179,Montreal Canadiens,Eric Demers,,,,,
 1984,180,Calgary Flames,Gary Suter,1145.0,203.0,641.0,844.0,1989.0
-1984,181,Minnesota North Stars,Duane Wahlin,,,,,
 1984,182,New York Rangers,Ville Kentala,,,,,
 1984,183,Quebec Nordiques,Guy Ouellette,,,,,
 1984,184,Philadelphia Flyers,Billy Powers,,,,,
@@ -9375,7 +9046,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,190,New Jersey Devils,Mike Peluso,458.0,38.0,52.0,90.0,548.0
 1984,191,Los Angeles Kings,Jeff Crossman,,,,,
 1984,192,Toronto Maple Leafs,David Buckley,,,,,
-1984,193,Hartford Whalers,Brent Regan,,,,,
 1984,194,Chicago Blackhawks,Joakim Persson,,,,,
 1984,195,Detroit Red Wings,Jay Rose,,,,,
 1984,196,St. Louis Blues,Tom Tilley,174.0,4.0,38.0,42.0,216.0
@@ -9383,7 +9053,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,198,Vancouver Canucks,Ed Lowney,,,,,
 1984,199,Montreal Canadiens,Ron Annear,,,,,
 1984,200,Calgary Flames,Petr Rucka,,,,,
-1984,201,Minnesota North Stars,Michael Orn,,,,,
 1984,202,New York Rangers,Kevin Miller,620.0,150.0,185.0,335.0,955.0
 1984,203,Quebec Nordiques,Ken Quinney,59.0,7.0,13.0,20.0,79.0
 1984,204,Philadelphia Flyers,Daryn Fersovich,,,,,
@@ -9396,7 +9065,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,211,New Jersey Devils,Jarkko Piiparinen,,,,,
 1984,212,Los Angeles Kings,Paul Kenny,,,,,
 1984,213,Toronto Maple Leafs,Mike Wurst,,,,,
-1984,214,Hartford Whalers,Jim Culhane,6.0,0.0,1.0,1.0,7.0
 1984,215,Chicago Blackhawks,Bill Brown,,,,,
 1984,216,Detroit Red Wings,Tim Kaiser,,,,,
 1984,217,St. Louis Blues,Mark Cupolo,,,,,
@@ -9404,7 +9072,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,219,Vancouver Canucks,Doug Clarke,,,,,
 1984,220,Montreal Canadiens,Dave Tanner,,,,,
 1984,221,Calgary Flames,Stefan Jonsson,,,,,
-1984,222,Minnesota North Stars,Tom Terwilliger,,,,,
 1984,223,New York Rangers,Tom Lorentz,,,,,
 1984,224,Chicago Blackhawks,David Mackey,126.0,8.0,12.0,20.0,146.0
 1984,225,Washington Capitals,Mikhail Tatarinov,161.0,21.0,48.0,69.0,230.0
@@ -9416,7 +9083,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,231,New Jersey Devils,Chris Kiene,,,,,
 1984,232,Los Angeles Kings,Brian Martin,,,,,
 1984,233,Toronto Maple Leafs,Peter Slanina,,,,,
-1984,234,Hartford Whalers,Peter Abric,,,,,
 1984,235,Chicago Blackhawks,Dan Williams,,,,,
 1984,236,Detroit Red Wings,Tom Nickolau,,,,,
 1984,237,St. Louis Blues,Mark Lanigan,,,,,
@@ -9424,7 +9090,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,239,Vancouver Canucks,Ed Kister,,,,,
 1984,240,Montreal Canadiens,Troy Crosby,,,,,
 1984,241,Calgary Flames,Rudolf Suchanek,,,,,
-1984,242,Minnesota North Stars,Mike Nightengale,,,,,
 1984,243,New York Rangers,Scott Brower,,,,,
 1984,244,Quebec Nordiques,Peter Loob,8.0,1.0,2.0,3.0,11.0
 1984,245,Philadelphia Flyers,Juraj Bakos,,,,,
@@ -9433,8 +9098,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1984,248,Boston Bruins,Jim Newhouse,,,,,
 1984,249,New York Islanders,Allister Brown,,,,,
 1984,250,Edmonton Oilers,Darren Gani,,,,,
-1983,1,Minnesota North Stars,Brian Lawton,483.0,112.0,154.0,266.0,749.0
-1983,2,Hartford Whalers,Sylvain Turgeon,669.0,269.0,226.0,495.0,1164.0
 1983,3,New York Islanders,Pat LaFontaine,865.0,468.0,545.0,1013.0,1878.0
 1983,4,Detroit Red Wings,Steve Yzerman,1514.0,692.0,1063.0,1755.0,3269.0
 1983,5,Buffalo Sabres,Tom Barrasso,777.0,0.0,48.0,48.0,825.0
@@ -9452,10 +9115,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,17,Montreal Canadiens,Alfie Turcotte,112.0,17.0,29.0,46.0,158.0
 1983,18,Chicago Blackhawks,Bruce Cassidy,36.0,4.0,13.0,17.0,53.0
 1983,19,Edmonton Oilers,Jeff Beukeboom,804.0,30.0,129.0,159.0,963.0
-1983,20,Hartford Whalers,David Jensen,69.0,9.0,13.0,22.0,91.0
 1983,21,Boston Bruins,Nevin Markwart,309.0,41.0,68.0,109.0,418.0
 1983,22,Pittsburgh Penguins,Todd Charlesworth,93.0,3.0,9.0,12.0,105.0
-1983,23,Hartford Whalers,Ville Siren,290.0,14.0,68.0,82.0,372.0
 1983,24,New Jersey Devils,Shawn Evans,9.0,1.0,0.0,1.0,10.0
 1983,25,Detroit Red Wings,Lane Lambert,283.0,58.0,66.0,124.0,407.0
 1983,26,Montreal Canadiens,Claude Lemieux,1215.0,379.0,407.0,786.0,2001.0
@@ -9468,9 +9129,7 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,33,New York Rangers,Randy Heath,13.0,2.0,4.0,6.0,19.0
 1983,34,Buffalo Sabres,Richard Hajdu,5.0,0.0,0.0,0.0,5.0
 1983,35,Montreal Canadiens,Todd Francis,,,,,
-1983,36,Minnesota North Stars,Malcolm Parks,,,,,
 1983,37,New York Islanders,Garnet McKechney,,,,,
-1983,38,Minnesota North Stars,Frantisek Musil,797.0,34.0,106.0,140.0,937.0
 1983,39,Chicago Blackhawks,Wayne Presley,684.0,155.0,147.0,302.0,986.0
 1983,40,Edmonton Oilers,Mike Golden,,,,,
 1983,41,Philadelphia Flyers,Peter Zezel,873.0,219.0,388.0,607.0,1480.0
@@ -9488,15 +9147,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,53,New York Rangers,Gord Walker,31.0,3.0,4.0,7.0,38.0
 1983,54,Quebec Nordiques,Iiro Jarvi,116.0,18.0,43.0,61.0,177.0
 1983,55,Calgary Flames,Perry Berezan,378.0,61.0,75.0,136.0,514.0
-1983,56,Minnesota North Stars,Mitch Messier,20.0,0.0,2.0,2.0,22.0
 1983,57,New York Islanders,Mike Neill,,,,,
 1983,58,Pittsburgh Penguins,Mike Rowe,11.0,0.0,0.0,0.0,11.0
 1983,59,Chicago Blackhawks,Marc Bergevin,1191.0,36.0,145.0,181.0,1372.0
 1983,60,Edmonton Oilers,Mike Flanagan,,,,,
-1983,61,Hartford Whalers,Leif Karlsson,,,,,
 1983,62,Boston Bruins,Greg Puhalski,,,,,
 1983,63,Pittsburgh Penguins,Frank Pietrangelo,141.0,0.0,3.0,3.0,144.0
-1983,64,Hartford Whalers,Dave MacLean,,,,,
 1983,65,New York Islanders,Mikko Makela,423.0,118.0,147.0,265.0,688.0
 1983,66,Calgary Flames,John Bekkers,,,,,
 1983,67,Los Angeles Kings,Guy Benoit,,,,,
@@ -9504,11 +9160,9 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,69,Winnipeg Jets,Bob Essensa,446.0,0.0,15.0,15.0,461.0
 1983,70,Vancouver Canucks,Tim Lorentz,,,,,
 1983,71,Calgary Flames,Kevan Guy,156.0,5.0,20.0,25.0,181.0
-1983,72,Hartford Whalers,Ron Chyzowski,,,,,
 1983,73,New York Rangers,Peter Andersson,47.0,6.0,13.0,19.0,66.0
 1983,74,Buffalo Sabres,Daren Puppa,429.0,0.0,18.0,18.0,447.0
 1983,75,Washington Capitals,Tim Bergland,182.0,17.0,26.0,43.0,225.0
-1983,76,Minnesota North Stars,Brian Durand,,,,,
 1983,77,Calgary Flames,Bill Claviter,,,,,
 1983,78,Montreal Canadiens,John Kordic,244.0,17.0,18.0,35.0,279.0
 1983,79,Chicago Blackhawks,Tarek Howard,,,,,
@@ -9528,7 +9182,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,93,New York Rangers,Jim Andonoff,,,,,
 1983,94,Buffalo Sabres,Jayson Meyer,,,,,
 1983,95,Washington Capitals,Martin Bouliane,,,,,
-1983,96,Minnesota North Stars,Rich Geist,,,,,
 1983,97,New York Islanders,Ron Viglasi,,,,,
 1983,98,Montreal Canadiens,Dan Wurst,,,,,
 1983,99,Chicago Blackhawks,Kevin Robinson,,,,,
@@ -9536,7 +9189,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,101,Philadelphia Flyers,Jerome Carrier,,,,,
 1983,102,Boston Bruins,Allen Pedersen,428.0,5.0,36.0,41.0,469.0
 1983,103,Pittsburgh Penguins,Patrick Emond,,,,,
-1983,104,Hartford Whalers,Brian Johnson,,,,,
 1983,105,New Jersey Devils,Gordon Mark,85.0,3.0,10.0,13.0,98.0
 1983,106,Detroit Red Wings,Chris Pusey,1.0,0.0,0.0,0.0,1.0
 1983,107,Los Angeles Kings,Dave Lundmark,,,,,
@@ -9548,7 +9200,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,113,New York Rangers,Bob Alexander,,,,,
 1983,114,Buffalo Sabres,Jim Hofford,18.0,0.0,0.0,0.0,18.0
 1983,115,Chicago Blackhawks,Jari Torkki,4.0,1.0,0.0,1.0,5.0
-1983,116,Minnesota North Stars,Tom McComb,,,,,
 1983,117,New York Islanders,Darin Illikainen,,,,,
 1983,118,Montreal Canadiens,Arto Javanainen,14.0,4.0,1.0,5.0,19.0
 1983,119,Chicago Blackhawks,Mark LaVarre,78.0,9.0,16.0,25.0,103.0
@@ -9556,7 +9207,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,121,Philadelphia Flyers,Rick Tocchet,1144.0,440.0,512.0,952.0,2096.0
 1983,122,Boston Bruins,Terry Taillefer,,,,,
 1983,123,Pittsburgh Penguins,Paul Ames,,,,,
-1983,124,Hartford Whalers,Joe Reekie,902.0,25.0,139.0,164.0,1066.0
 1983,125,New Jersey Devils,Greg Evtushevski,,,,,
 1983,126,Detroit Red Wings,Bob Pierson,,,,,
 1983,127,Los Angeles Kings,Tim Burgess,,,,,
@@ -9568,15 +9218,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,133,New York Rangers,Steve Orth,,,,,
 1983,134,Buffalo Sabres,Christian Ruuttu,621.0,134.0,298.0,432.0,1053.0
 1983,135,Washington Capitals,Dwaine Hutton,,,,,
-1983,136,Minnesota North Stars,Sean Toomey,1.0,0.0,0.0,0.0,1.0
 1983,137,New York Islanders,Jim Sprenger,,,,,
 1983,138,Montreal Canadiens,Vladislav Tretiak,,,,,
 1983,139,Chicago Blackhawks,Scott Birnie,,,,,
 1983,140,Edmonton Oilers,Dale Derkatch,,,,,
 1983,141,Philadelphia Flyers,Bobby Mormina,,,,,
 1983,142,Boston Bruins,Ian Armstrong,,,,,
-1983,143,Hartford Whalers,Chris Duperron,,,,,
-1983,144,Hartford Whalers,James Falle,,,,,
 1983,145,New Jersey Devils,Viacheslav Fetisov,546.0,36.0,192.0,228.0,774.0
 1983,146,Detroit Red Wings,Craig Butz,,,,,
 1983,147,Los Angeles Kings,Ken Hammond,193.0,18.0,29.0,47.0,240.0
@@ -9588,7 +9235,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,153,New York Rangers,Peter Marcov,,,,,
 1983,154,Buffalo Sabres,Don McSween,47.0,3.0,10.0,13.0,60.0
 1983,155,Washington Capitals,Marty Abrams,,,,,
-1983,156,Minnesota North Stars,Don Biggs,12.0,2.0,0.0,2.0,14.0
 1983,157,New York Islanders,Dale Henry,132.0,13.0,26.0,39.0,171.0
 1983,158,Montreal Canadiens,Rob Bryden,,,,,
 1983,159,Chicago Blackhawks,Kent Paynter,37.0,1.0,3.0,4.0,41.0
@@ -9596,7 +9242,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,161,Philadelphia Flyers,Pelle Eklund,594.0,120.0,335.0,455.0,1049.0
 1983,162,Boston Bruins,Francois Olivier,,,,,
 1983,163,Pittsburgh Penguins,Marty Ketola,,,,,
-1983,164,Hartford Whalers,Bill Fordy,,,,,
 1983,165,New Jersey Devils,Jay Octeau,,,,,
 1983,166,Detroit Red Wings,Dave Sikorski,,,,,
 1983,167,Los Angeles Kings,Bruce Fishback,,,,,
@@ -9608,7 +9253,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,173,New York Rangers,Paul Jerrard,5.0,0.0,0.0,0.0,5.0
 1983,174,Buffalo Sabres,Tim Hoover,,,,,
 1983,175,Washington Capitals,David Cowan,,,,,
-1983,176,Minnesota North Stars,Paul Pulis,,,,,
 1983,177,New York Islanders,Kevin Vescio,,,,,
 1983,178,Montreal Canadiens,Grant MacKay,,,,,
 1983,179,Chicago Blackhawks,Brian Noonan,629.0,116.0,159.0,275.0,904.0
@@ -9625,10 +9269,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,190,Vancouver Canucks,Roger Grillo,,,,,
 1983,191,Calgary Flames,Tom Pratt,,,,,
 1983,192,Quebec Nordiques,Scott Shaunessy,7.0,0.0,0.0,0.0,7.0
-1983,193,Hartford Whalers,Reine Karlsson,,,,,
 1983,194,Buffalo Sabres,Mark Ferner,91.0,3.0,10.0,13.0,104.0
 1983,195,Washington Capitals,Yves Beaudoin,11.0,0.0,0.0,0.0,11.0
-1983,196,Minnesota North Stars,Milos Riha,,,,,
 1983,197,New York Islanders,Dave Shellington,,,,,
 1983,198,Montreal Canadiens,Thomas Rundqvist,2.0,0.0,1.0,1.0,3.0
 1983,199,Chicago Blackhawks,Dominik Hasek,735.0,0.0,19.0,19.0,754.0
@@ -9636,7 +9278,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,201,Philadelphia Flyers,William McCormick,,,,,
 1983,202,Boston Bruins,Paul Fitzsimmons,,,,,
 1983,203,Pittsburgh Penguins,Garth Hildebrand,,,,,
-1983,204,Hartford Whalers,Allan Acton,,,,,
 1983,205,New Jersey Devils,Allan Stewart,64.0,6.0,4.0,10.0,74.0
 1983,206,Detroit Red Wings,Jeff Frank,,,,,
 1983,207,Los Angeles Kings,Miroslav Blaha,,,,,
@@ -9644,7 +9285,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,209,Winnipeg Jets,Eric Cormier,,,,,
 1983,210,Vancouver Canucks,Steve Kayser,,,,,
 1983,211,Calgary Flames,Jaroslav Benak,,,,,
-1983,212,Minnesota North Stars,Oldrich Valek,,,,,
 1983,213,New York Rangers,Bryan Walker,,,,,
 1983,214,Buffalo Sabres,Uwe Krupp,729.0,69.0,212.0,281.0,1010.0
 1983,215,Washington Capitals,Alain Raymond,1.0,0.0,0.0,0.0,1.0
@@ -9656,7 +9296,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,221,Philadelphia Flyers,Brian Jopling,,,,,
 1983,222,Boston Bruins,Norm Foster,13.0,0.0,0.0,0.0,13.0
 1983,223,Pittsburgh Penguins,Dave Goertz,2.0,0.0,0.0,0.0,2.0
-1983,224,Hartford Whalers,Darcy Kaminski,,,,,
 1983,225,New Jersey Devils,Alexei Kasatonov,383.0,38.0,122.0,160.0,543.0
 1983,226,Detroit Red Wings,Charles Chiatto,,,,,
 1983,227,Los Angeles Kings,Chad Johnson,,,,,
@@ -9668,7 +9307,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,233,New York Rangers,Ulf Nilsson,,,,,
 1983,234,Buffalo Sabres,Marc Hamelin,,,,,
 1983,235,Buffalo Sabres,Kermit Salfi,,,,,
-1983,236,Minnesota North Stars,Paul Roff,,,,,
 1983,237,New York Islanders,Peter McGeough,,,,,
 1983,238,Montreal Canadiens,Jean-Guy Bergeron,,,,,
 1983,239,Quebec Nordiques,Jindrich Kokrment,,,,,
@@ -9676,7 +9314,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1983,241,Philadelphia Flyers,Harold Duvall,,,,,
 1983,242,Boston Bruins,Greg Murphy,,,,,
 1982,1,Boston Bruins,Gord Kluzak,299.0,25.0,98.0,123.0,422.0
-1982,2,Minnesota North Stars,Brian Bellows,1188.0,485.0,537.0,1022.0,2210.0
 1982,3,Toronto Maple Leafs,Gary Nylund,608.0,32.0,139.0,171.0,779.0
 1982,4,Philadelphia Flyers,Ron Sutter,1093.0,205.0,330.0,535.0,1628.0
 1982,5,Washington Capitals,Scott Stevens,1635.0,196.0,712.0,908.0,2543.0
@@ -9688,7 +9325,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,11,Vancouver Canucks,Michel Petit,827.0,90.0,238.0,328.0,1155.0
 1982,12,Winnipeg Jets,Jim Kyte,598.0,17.0,49.0,66.0,664.0
 1982,13,Quebec Nordiques,David Shaw,769.0,41.0,153.0,194.0,963.0
-1982,14,Hartford Whalers,Paul Lawless,239.0,49.0,77.0,126.0,365.0
 1982,15,New York Rangers,Chris Kontos,230.0,54.0,69.0,123.0,353.0
 1982,16,Buffalo Sabres,Dave Andreychuk,1639.0,640.0,698.0,1338.0,2977.0
 1982,17,Detroit Red Wings,Murray Craven,1071.0,266.0,493.0,759.0,1830.0
@@ -9709,7 +9345,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,32,Montreal Canadiens,Kent Carlson,113.0,7.0,11.0,18.0,131.0
 1982,33,Montreal Canadiens,David Maley,466.0,43.0,81.0,124.0,590.0
 1982,34,Quebec Nordiques,Paul Gillis,624.0,88.0,154.0,242.0,866.0
-1982,35,Hartford Whalers,Mark Paterson,29.0,3.0,3.0,6.0,35.0
 1982,36,New York Rangers,Tomas Sandstrom,983.0,394.0,462.0,856.0,1839.0
 1982,37,Calgary Flames,Richard Kromm,372.0,70.0,103.0,173.0,545.0
 1982,38,Pittsburgh Penguins,Tim Hrynewich,55.0,6.0,8.0,14.0,69.0
@@ -9730,10 +9365,8 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,53,Vancouver Canucks,Yves Lapointe,,,,,
 1982,54,New Jersey Devils,Dave Kasper,,,,,
 1982,55,Quebec Nordiques,Mario Gosselin,241.0,0.0,9.0,9.0,250.0
-1982,56,Hartford Whalers,Kevin Dineen,1188.0,355.0,405.0,760.0,1948.0
 1982,57,New York Rangers,Corey Millen,335.0,90.0,119.0,209.0,544.0
 1982,58,Washington Capitals,Milan Novy,73.0,18.0,30.0,48.0,121.0
-1982,59,Minnesota North Stars,Wally Chapman,,,,,
 1982,60,Boston Bruins,Dave Reid,961.0,165.0,204.0,369.0,1330.0
 1982,61,Montreal Canadiens,Scott Harlow,1.0,0.0,1.0,1.0,2.0
 1982,62,Edmonton Oilers,Brent Loney,,,,,
@@ -9741,7 +9374,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,64,Los Angeles Kings,Dave Gans,6.0,0.0,0.0,0.0,6.0
 1982,65,Calgary Flames,Dave Meszaros,,,,,
 1982,66,Detroit Red Wings,Craig Coxe,235.0,14.0,31.0,45.0,280.0
-1982,67,Hartford Whalers,Ulf Samuelsson,1080.0,57.0,275.0,332.0,1412.0
 1982,68,Buffalo Sabres,Timo Jutila,10.0,1.0,5.0,6.0,16.0
 1982,69,Montreal Canadiens,John Devoe,,,,,
 1982,70,Chicago Blackhawks,Bill Watson,115.0,23.0,36.0,59.0,174.0
@@ -9754,15 +9386,12 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,77,Philadelphia Flyers,Mikael Hjalm,,,,,
 1982,78,New York Rangers,Chris Jensen,73.0,9.0,12.0,21.0,94.0
 1982,79,Buffalo Sabres,Jeff Hamilton,,,,,
-1982,80,Minnesota North Stars,Bob Rouse,1061.0,37.0,181.0,218.0,1279.0
-1982,81,Minnesota North Stars,Dusan Pasek,48.0,4.0,10.0,14.0,62.0
 1982,82,Los Angeles Kings,Dave Ross,,,,,
 1982,83,Edmonton Oilers,Jaroslav Pouzar,186.0,34.0,48.0,82.0,268.0
 1982,84,New York Islanders,Alan Kerr,391.0,72.0,94.0,166.0,557.0
 1982,85,New Jersey Devils,Scott Brydges,,,,,
 1982,86,Detroit Red Wings,Brad Shaw,377.0,22.0,137.0,159.0,536.0
 1982,87,Toronto Maple Leafs,Eduard Uvira,,,,,
-1982,88,Hartford Whalers,Ray Ferraro,1258.0,408.0,490.0,898.0,2156.0
 1982,89,Washington Capitals,Dean Evason,803.0,139.0,233.0,372.0,1175.0
 1982,90,Los Angeles Kings,Darcy Roy,,,,,
 1982,91,Chicago Blackhawks,Brad Beck,,,,,
@@ -9775,7 +9404,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,98,Philadelphia Flyers,Todd Bergen,14.0,11.0,5.0,16.0,30.0
 1982,99,Toronto Maple Leafs,Sylvain Charland,,,,,
 1982,100,Buffalo Sabres,Robert Logan,42.0,10.0,5.0,15.0,57.0
-1982,101,Minnesota North Stars,Marty Wiitala,,,,,
 1982,102,Boston Bruins,Bob Nicholson,,,,,
 1982,103,Montreal Canadiens,Kevin Houle,,,,,
 1982,104,Edmonton Oilers,Dwayne Boettger,,,,,
@@ -9783,7 +9411,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,106,New Jersey Devils,Mike Moher,9.0,0.0,1.0,1.0,10.0
 1982,107,Detroit Red Wings,Claude Vilgrain,89.0,21.0,32.0,53.0,142.0
 1982,108,Toronto Maple Leafs,Ron Dreger,,,,,
-1982,109,Hartford Whalers,Randy Gilhen,457.0,55.0,60.0,115.0,572.0
 1982,110,Washington Capitals,Ed Kastelic,220.0,11.0,10.0,21.0,241.0
 1982,111,Buffalo Sabres,Jeff Parker,141.0,16.0,19.0,35.0,176.0
 1982,112,Chicago Blackhawks,Mark Hatcher,,,,,
@@ -9796,7 +9423,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,119,Philadelphia Flyers,Ron Hextall,608.0,1.0,32.0,33.0,641.0
 1982,120,New York Rangers,Tony Granato,773.0,248.0,244.0,492.0,1265.0
 1982,121,Buffalo Sabres,Jacob Gustavsson,,,,,
-1982,122,Minnesota North Stars,Todd Carlile,,,,,
 1982,123,Boston Bruins,Bob Sweeney,639.0,125.0,163.0,288.0,927.0
 1982,124,Montreal Canadiens,Michael Dark,43.0,5.0,6.0,11.0,54.0
 1982,125,Edmonton Oilers,Raimo Summanen,151.0,36.0,40.0,76.0,227.0
@@ -9804,7 +9430,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,127,New Jersey Devils,Paul Fulcher,,,,,
 1982,128,Detroit Red Wings,Greg Hudas,,,,,
 1982,129,Toronto Maple Leafs,Dom Campedelli,2.0,0.0,0.0,0.0,2.0
-1982,130,Hartford Whalers,Jim Johannson,,,,,
 1982,131,Quebec Nordiques,Daniel Poudrier,25.0,1.0,5.0,6.0,31.0
 1982,132,Los Angeles Kings,Viktor Nechayev,3.0,1.0,0.0,1.0,4.0
 1982,133,Chicago Blackhawks,Jay Ness,,,,,
@@ -9817,7 +9442,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,140,Philadelphia Flyers,Dave Brown,729.0,45.0,52.0,97.0,826.0
 1982,141,New York Rangers,Sergei Kapustin,,,,,
 1982,142,Buffalo Sabres,Allen Bishop,,,,,
-1982,143,Minnesota North Stars,Viktor Zhluktov,,,,,
 1982,144,Boston Bruins,John Meulenbroeks,,,,,
 1982,145,Montreal Canadiens,Hannu Jarvenpaa,114.0,11.0,26.0,37.0,151.0
 1982,146,Edmonton Oilers,Brian Small,,,,,
@@ -9825,7 +9449,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,148,New Jersey Devils,John Hutchings,,,,,
 1982,149,Detroit Red Wings,Pat Lahey,,,,,
 1982,150,Montreal Canadiens,Steve Smith,,,,,
-1982,151,Hartford Whalers,Mickey Kramptoich,,,,,
 1982,152,Washington Capitals,Wally Schreiber,41.0,8.0,10.0,18.0,59.0
 1982,153,Los Angeles Kings,Peter Helander,7.0,0.0,1.0,1.0,8.0
 1982,154,Chicago Blackhawks,Jeff Smith,,,,,
@@ -9838,7 +9461,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,161,Philadelphia Flyers,Alain Lavigne,,,,,
 1982,162,New York Rangers,Jan Karlsson,,,,,
 1982,163,Buffalo Sabres,Claude Verret,14.0,2.0,5.0,7.0,21.0
-1982,164,Minnesota North Stars,Paul Miller,,,,,
 1982,165,Boston Bruins,Tony Fiore,,,,,
 1982,166,Montreal Canadiens,Tom Koliouspoulos,,,,,
 1982,167,Edmonton Oilers,Dean Clark,1.0,0.0,0.0,0.0,1.0
@@ -9846,7 +9468,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,169,New Jersey Devils,Alan Hepple,3.0,0.0,0.0,0.0,3.0
 1982,170,Detroit Red Wings,Gary Cullen,,,,,
 1982,171,Toronto Maple Leafs,Miroslav Ihnacak,56.0,8.0,9.0,17.0,73.0
-1982,172,Hartford Whalers,Kevin Skilliter,,,,,
 1982,173,Washington Capitals,Jamie Reeve,,,,,
 1982,174,Los Angeles Kings,Dave Chartier,,,,,
 1982,175,Chicago Blackhawks,Phil Patterson,,,,,
@@ -9859,7 +9480,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,182,Philadelphia Flyers,Magnus Roupe,40.0,3.0,5.0,8.0,48.0
 1982,183,New York Rangers,Kelly Miller,1057.0,181.0,282.0,463.0,1520.0
 1982,184,Buffalo Sabres,Rob Norman,,,,,
-1982,185,Minnesota North Stars,Pat Micheletti,12.0,2.0,0.0,2.0,14.0
 1982,186,Boston Bruins,Doug Kostynski,15.0,3.0,1.0,4.0,19.0
 1982,187,Montreal Canadiens,Brian Williams,,,,,
 1982,188,Edmonton Oilers,Ian Wood,,,,,
@@ -9880,7 +9500,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,203,Philadelphia Flyers,Tom Allen,,,,,
 1982,204,New York Rangers,Bob Lowes,,,,,
 1982,205,Buffalo Sabres,Mike Craig,,,,,
-1982,206,Minnesota North Stars,Arnold Kadlec,,,,,
 1982,207,Boston Bruins,Tony Gilliard,,,,,
 1982,208,Montreal Canadiens,Bob Emery,,,,,
 1982,209,Edmonton Oilers,Grant Dion,,,,,
@@ -9888,7 +9507,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,211,New Jersey Devils,Scott Fusco,,,,,
 1982,212,Detroit Red Wings,Mike Stern,,,,,
 1982,213,Toronto Maple Leafs,Tim Loven,,,,,
-1982,214,Hartford Whalers,Martin Linse,,,,,
 1982,215,Washington Capitals,Wayne Prestage,,,,,
 1982,216,Los Angeles Kings,Ray Shero,,,,,
 1982,217,Chicago Blackhawks,Mike James,,,,,
@@ -9901,7 +9519,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,224,Philadelphia Flyers,Rick Gal,,,,,
 1982,225,New York Rangers,Andy Otto,,,,,
 1982,226,Buffalo Sabres,Jim Plankers,,,,,
-1982,227,Minnesota North Stars,Scott Knutson,,,,,
 1982,228,Boston Bruins,Tommy Lehman,36.0,5.0,5.0,10.0,46.0
 1982,229,Montreal Canadiens,Darren Acheson,,,,,
 1982,230,Edmonton Oilers,Chris Smith,,,,,
@@ -9909,7 +9526,6 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,232,New Jersey Devils,Dan Dorion,4.0,1.0,1.0,2.0,6.0
 1982,233,Detroit Red Wings,Shaun Reagan,,,,,
 1982,234,Toronto Maple Leafs,Jim Appleby,,,,,
-1982,235,Hartford Whalers,Randy Cameron,,,,,
 1982,236,Washington Capitals,Jim Holden,,,,,
 1982,237,Los Angeles Kings,Mats Ulander,,,,,
 1982,238,Chicago Blackhawks,Bob Andrea,,,,,
@@ -9927,4 +9543,3 @@ year,overall_pick,team,player,games_played,goals,assists,points,score
 1982,250,Montreal Canadiens,Bill Brauer,,,,,
 1982,251,Edmonton Oilers,Jeff Crawford,,,,,
 1982,252,New York Islanders,Jim Koudys,,,,,
-1981,1,Winnipeg Jets,Dale Hawerchuk,1188.0,518.0,891.0,1409.0,2597.0
