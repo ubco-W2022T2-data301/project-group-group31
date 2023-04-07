@@ -1,0 +1,797 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20224.23.0209.1653                               -->
+<workbook original-version='18.1' source-build='2022.4.1 (20224.23.0209.1653)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='processed_analysis2_data' inline='true' name='federated.0416pr50w9savz16fouef0okprvu' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='processed_analysis2_data' name='textscan.0w43b5d0ieb53u1ei5mmp0ovtdiv'>
+            <connection class='textscan' directory='C:/Users/logan/school/2022WT2/project-group-group31/data/processed' filename='processed_analysis2_data.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0w43b5d0ieb53u1ei5mmp0ovtdiv' name='processed_analysis2_data.csv' table='[processed_analysis2_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='integer' name='Draft Year' ordinal='0' />
+            <column datatype='string' name='Nationality' ordinal='1' />
+            <column datatype='real' name='age' ordinal='2' />
+            <column datatype='string' name='Nation_Name' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0w43b5d0ieb53u1ei5mmp0ovtdiv' name='processed_analysis2_data.csv' table='[processed_analysis2_data#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+            <column datatype='integer' name='Draft Year' ordinal='0' />
+            <column datatype='string' name='Nationality' ordinal='1' />
+            <column datatype='real' name='age' ordinal='2' />
+            <column datatype='string' name='Nation_Name' ordinal='3' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[processed_analysis2_data.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_CA&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Draft Year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Draft Year]</local-name>
+            <parent-name>[processed_analysis2_data.csv]</parent-name>
+            <remote-alias>Draft Year</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nationality]</local-name>
+            <parent-name>[processed_analysis2_data.csv]</parent-name>
+            <remote-alias>Nationality</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>age</remote-name>
+            <remote-type>5</remote-type>
+            <local-name>[age]</local-name>
+            <parent-name>[processed_analysis2_data.csv]</parent-name>
+            <remote-alias>age</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>real</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Nation_Name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Nation_Name]</local-name>
+            <parent-name>[processed_analysis2_data.csv]</parent-name>
+            <remote-alias>Nation_Name</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Draft Year]' role='dimension' type='quantitative' />
+      <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+      <_.fcp.ObjectModelTableType.true...column caption='processed_analysis2_data.csv' datatype='table' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+      <column-instance column='[Draft Year]' derivation='None' name='[none:Draft Year:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+      <group hidden='true' name='[Exclusions (Draft Year,Nation_Name)]' name-style='unqualified' user:auto-column='exclude'>
+        <groupfilter function='crossjoin'>
+          <groupfilter function='level-members' level='[none:Draft Year:qk]' />
+          <groupfilter function='level-members' level='[none:Nation_Name:nk]' />
+        </groupfilter>
+      </group>
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Nation_Name:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;China&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Kazakhstan&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Austria&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Finland&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Japan&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Thailand&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Denmark&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Netherlands&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Sweden&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Venezuela&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;Switzerland&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Serbia&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Slovakia&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Latvia&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Paraguay&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Brazil&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Yugoslavia&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Bahamas&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Italy&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Taiwan&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Belarus&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;South Korea&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Haiti&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;USA&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Brunei&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Germany&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;France&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Slovenia&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Australia&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Hungary&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Belgium&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Jamacia&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Tanzania&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Norway&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Poland&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Great Britain&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Nigeria&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Canada&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Soviet Union&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;South Africa&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Ukraine&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Estonia&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Russia&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Czechia&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Lithuania&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Uzbekistan&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Canada&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='processed_analysis2_data.csv' id='processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A'>
+            <properties context=''>
+              <relation connection='textscan.0w43b5d0ieb53u1ei5mmp0ovtdiv' name='processed_analysis2_data.csv' table='[processed_analysis2_data#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_CA' separator=','>
+                  <column datatype='integer' name='Draft Year' ordinal='0' />
+                  <column datatype='string' name='Nationality' ordinal='1' />
+                  <column datatype='real' name='age' ordinal='2' />
+                  <column datatype='string' name='Nation_Name' ordinal='3' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='processed_analysis2_data' name='federated.0416pr50w9savz16fouef0okprvu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0416pr50w9savz16fouef0okprvu'>
+            <column datatype='integer' name='[Draft Year]' role='dimension' type='quantitative' />
+            <_.fcp.ObjectModelTableType.false...column caption='processed_analysis2_data.csv' datatype='integer' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+            <_.fcp.ObjectModelTableType.true...column caption='processed_analysis2_data.csv' datatype='table' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[Draft Year]' derivation='None' name='[none:Draft Year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]'>
+            <groupfilter expression='COUNT([__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]) &gt;= 10' function='filter' user:ui-filter-by-field='true' user:ui-marker='filter-by'>
+              <groupfilter function='level-members' level='[none:Nation_Name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' field-type='quantitative' max='1989' min='1970' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='1' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' field-type='quantitative' max='2023' min='2000' range-type='fixed' scope='cols' type='space' />
+            <format attr='title' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' scope='cols' value='Draft Year (1970-1989)' />
+            <format attr='title' class='1' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' scope='cols' value='Draft Year (2000-Present)' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.4612706899642944' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='1' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.4612706899642944' />
+              </style-rule>
+            </style>
+          </pane>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow' x-axis-name='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' x-index='1'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Circle' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.4612706899642944' />
+                <format attr='mark-color' value='#59a14f' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</rows>
+        <cols>([federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk] + [federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk])</cols>
+      </table>
+      <simple-id uuid='{48659056-5114-4EE9-AE7E-C720776B9C82}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='processed_analysis2_data' name='federated.0416pr50w9savz16fouef0okprvu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0416pr50w9savz16fouef0okprvu'>
+            <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+            <_.fcp.ObjectModelTableType.false...column caption='processed_analysis2_data.csv' datatype='integer' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='processed_analysis2_data.csv' datatype='table' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]'>
+            <groupfilter expression='COUNT([__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]) &gt; 10' function='filter' user:ui-filter-by-field='true' user:ui-marker='filter-by'>
+              <groupfilter function='level-members' level='[none:Nation_Name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            </groupfilter>
+          </filter>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]' direction='ASC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0416pr50w9savz16fouef0okprvu].[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]' shelf='rows' />
+          </shelf-sorts>
+          <slices>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]' scope='cols' value='Number of Drafted Players' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#e15759' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</rows>
+        <cols>[federated.0416pr50w9savz16fouef0okprvu].[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]</cols>
+      </table>
+      <simple-id uuid='{4A5C2617-A284-47AD-868E-27BD1D44B083}' />
+    </worksheet>
+    <worksheet name='Sheet 3'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='processed_analysis2_data' name='federated.0416pr50w9savz16fouef0okprvu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0416pr50w9savz16fouef0okprvu'>
+            <_.fcp.ObjectModelTableType.false...column caption='processed_analysis2_data.csv' datatype='integer' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+            <_.fcp.ObjectModelTableType.true...column caption='processed_analysis2_data.csv' datatype='table' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column datatype='real' name='[age]' role='measure' type='quantitative' />
+            <column-instance column='[age]' derivation='Avg' name='[avg:age:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]'>
+            <groupfilter expression='COUNT([__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]) &gt;= 10' function='filter' user:ui-filter-by-field='true' user:ui-marker='filter-by'>
+              <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+                <groupfilter function='level-members' level='[none:Nation_Name:nk]' />
+                <groupfilter function='member' level='[none:Nation_Name:nk]' member='%null%' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>%all%</bucket>
+              <bucket>&quot;Denmark&quot;</bucket>
+              <bucket>&quot;Germany&quot;</bucket>
+              <bucket>&quot;Kazakhstan&quot;</bucket>
+              <bucket>&quot;USA&quot;</bucket>
+              <bucket>&quot;Norway&quot;</bucket>
+              <bucket>&quot;Canada&quot;</bucket>
+              <bucket>&quot;Great Britain&quot;</bucket>
+              <bucket>&quot;Belarus&quot;</bucket>
+              <bucket>&quot;Slovakia&quot;</bucket>
+              <bucket>&quot;Sweden&quot;</bucket>
+              <bucket>&quot;Ukraine&quot;</bucket>
+              <bucket>&quot;Switzerland&quot;</bucket>
+              <bucket>&quot;Finland&quot;</bucket>
+              <bucket>&quot;Czechia&quot;</bucket>
+              <bucket>&quot;Russia&quot;</bucket>
+              <bucket>&quot;Austria&quot;</bucket>
+              <bucket>&quot;Latvia&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <slices>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[avg:age:qk]' field-type='quantitative' max='20.0' min='18.0' range-type='fixed' scope='cols' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#e15759' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</rows>
+        <cols>[federated.0416pr50w9savz16fouef0okprvu].[avg:age:qk]</cols>
+      </table>
+      <simple-id uuid='{A2A815EB-BBE8-4FEE-81E3-2951B99BC086}' />
+    </worksheet>
+    <worksheet name='Sheet 4'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='processed_analysis2_data' name='federated.0416pr50w9savz16fouef0okprvu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0416pr50w9savz16fouef0okprvu'>
+            <column datatype='integer' name='[Draft Year]' role='dimension' type='quantitative' />
+            <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+            <column-instance column='[Nation_Name]' derivation='CountD' name='[ctd:Nation_Name:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Draft Year]' derivation='None' name='[none:Draft Year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' included-values='in-range'>
+            <min>1963</min>
+            <max>2022</max>
+          </filter>
+          <filter class='categorical' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Nation_Name:nk]' />
+              <groupfilter function='member' level='[none:Nation_Name:nk]' member='%null%' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]</column>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' field-type='quantitative' max='2023' min='1962' range-type='fixed' scope='cols' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+          </pane>
+        </panes>
+        <rows>[federated.0416pr50w9savz16fouef0okprvu].[ctd:Nation_Name:qk]</rows>
+        <cols>[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]</cols>
+      </table>
+      <simple-id uuid='{67A25B3B-F1AC-4020-8D09-6EA74F9DEBE6}' />
+    </worksheet>
+    <worksheet name='Sheet 5'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='processed_analysis2_data' name='federated.0416pr50w9savz16fouef0okprvu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0416pr50w9savz16fouef0okprvu'>
+            <column datatype='integer' name='[Draft Year]' role='dimension' type='quantitative' />
+            <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+            <_.fcp.ObjectModelTableType.false...column caption='processed_analysis2_data.csv' datatype='integer' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='processed_analysis2_data.csv' datatype='table' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[Draft Year]' derivation='None' name='[none:Draft Year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='quantitative' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' included-values='in-range'>
+            <min>1980</min>
+            <max>2022</max>
+          </filter>
+          <filter class='categorical' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]'>
+            <groupfilter expression='COUNT([__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]) &gt; 50' function='filter' user:ui-filter-by-field='true' user:ui-marker='filter-by'>
+              <groupfilter function='level-members' level='[none:Nation_Name:nk]' user:ui-enumeration='all' user:ui-marker='enumerate' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</column>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' field-type='quantitative' max='2023' min='1979' range-type='fixed' scope='cols' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0416pr50w9savz16fouef0okprvu].[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]</rows>
+        <cols>[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]</cols>
+      </table>
+      <simple-id uuid='{5BA7A1D9-002F-4E5B-BB69-DF470841ADB7}' />
+    </worksheet>
+    <worksheet name='Sheet 6'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='processed_analysis2_data' name='federated.0416pr50w9savz16fouef0okprvu' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0416pr50w9savz16fouef0okprvu'>
+            <column datatype='integer' name='[Draft Year]' role='dimension' type='quantitative' />
+            <column datatype='string' name='[Nation_Name]' role='dimension' type='nominal' />
+            <_.fcp.ObjectModelTableType.false...column caption='processed_analysis2_data.csv' datatype='integer' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]' pivot='key' type='quantitative' />
+            <_.fcp.ObjectModelTableType.true...column caption='processed_analysis2_data.csv' datatype='table' name='[__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]' role='measure' type='quantitative' />
+            <column-instance column='[Draft Year]' derivation='None' name='[none:Draft Year:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Nation_Name]' derivation='None' name='[none:Nation_Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]'>
+            <groupfilter expression='COUNT([__tableau_internal_object_id__].[processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A]) &lt; 50' function='filter' user:ui-filter-by-field='true' user:ui-marker='filter-by'>
+              <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+                <groupfilter function='level-members' level='[none:Nation_Name:nk]' />
+                <groupfilter function='member' level='[none:Nation_Name:nk]' member='%null%' />
+              </groupfilter>
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <encoding attr='space' class='0' field='[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]' field-type='quantitative' max='2026' min='1970' range-type='fixed' scope='cols' type='space' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='10' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Bar' />
+            <encodings>
+              <color column='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0416pr50w9savz16fouef0okprvu].[__tableau_internal_object_id__].[cnt:processed_analysis2_data.csv_01447D2B59614D19A8CE252E3D92E95A:qk]</rows>
+        <cols>[federated.0416pr50w9savz16fouef0okprvu].[none:Draft Year:qk]</cols>
+      </table>
+      <simple-id uuid='{99C04EA3-408E-4653-AFF9-0F355515DD46}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.5' source-height='44'>
+    <window class='worksheet' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{EE38AEE0-4035-41F8-AF9C-F0ADC421F976}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{C4578BE0-815F-46F7-96CF-B98AE7C3A751}' />
+    </window>
+    <window class='worksheet' name='Sheet 3'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{6EEB97CB-9284-44FB-8AC4-7710DEE67BD2}' />
+    </window>
+    <window class='worksheet' name='Sheet 4'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{2B8A2783-B25E-47F6-8C83-D0B70B554BC3}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Sheet 5'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F37B5A31-D24F-4409-B979-3B835313316E}' />
+    </window>
+    <window class='worksheet' name='Sheet 6'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='30'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='10' param='[federated.0416pr50w9savz16fouef0okprvu].[none:Nation_Name:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{781F297B-0C4C-412F-9CDB-9AFF96D6EF0F}' />
+    </window>
+  </windows>
+</workbook>
