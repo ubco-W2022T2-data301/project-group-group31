@@ -10,7 +10,7 @@ def load_and_process(path_to_csv_file):
                  .rename(columns={"nationality":"Country"}).assign(Nationality = lambda x: x.Country))
     
     dataframe2 = dataframe
-    dataframe2 = (dataframe2.drop(['Country'],axis=1).reset_index(drop=True))
+    dataframe2 = (dataframe2.drop(['Country','age'],axis=1).reset_index(drop=True))
 
     
     dataframe['Nationality'] = dataframe['Nationality'].replace('CA', 'Canada')
