@@ -4,6 +4,8 @@
 
 Our group was interested in deeply researching the history of the NHL draft. We chose this topic because there is more depth to the NHL drafts than initially observed. Our group is made up of passionate hockey fans who enjoy watching these drafts for a "first look" at the upcoming future stars in the NHL. This project is important because it displays which junior leagues, NHL teams, and countries produce the most NHL drafted players.
 
+## Exploratory Data Analysis
+
 ### Question 1
 The first question regarding this dataframe was inquiring which teams have drafted the most successful players since 1982 and what led to their success. From the **first visualization**
   ![first visualization](./images/Analysis1Plot1.png) 
@@ -18,4 +20,4 @@ The third question regarding this dataframe was Inquiring which countries have d
 
 ## Conclusion
 
-Through this project we were able to determine that the vast majority of NHL prospects come from either Canada or the USA, through teams such as (insert Chase's teams here). However, recently other countries such as Sweden, Finland and Russia have been rapidly improving the number of prospects they product through leagues such as Liiga or the SHL. As well as this, we were able to determine that the Buffalo Sabres have had the best history in their drafting, even though they haven't drafted as many individaul stars as teams like the Pittsburgh Penguins.
+Through this project we were able to determine that the vast majority of NHL prospects come from either Canada or the USA, through teams such as the USNDT and the London Knights. However, recently other countries such as Sweden, Finland and Russia have been rapidly improving the number of prospects they product through leagues such as Liiga or the SHL. As well as this, we were able to determine that the Buffalo Sabres have had the best history in their drafting, even though they haven't drafted as many individaul stars as teams like the Pittsburgh Penguins.
