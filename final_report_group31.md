@@ -11,6 +11,7 @@ The first question regarding this dataframe was inquiring which teams have draft
   ![first visualization](./images/Analysis1Plot1.png) 
 
 it became clear that the Buffalo Sabres have by far the best drafting history. Other good teams include the Detroit Red Wings, New Jersey Devils, and Montreal Canadiens, however these teams are still noticeably worse than Buffalo. Through the **second visualization** and the **third visualization**
+
 ![second visualization](./images/Analysis1Plot2.png) 
 ![third visualization](./images/Analysis1Plot3.png) 
 
