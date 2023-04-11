@@ -21,7 +21,22 @@ I could determine what makes the Buffalo Sabres so good at drafting. These visua
 The second question regarding this dataframe was inquiring which countries have developed the most NHL prospects since 1963. From the first visualization, I was able to determine that Canada and USA are the main contributors for NHL prospects. A few european countries are not too far behind these two north american. Sweden, Russia, Finland, and Czechia have been developing their programs and producing more NHL prospects as of lately. I could conclude that previous statement by observing the second visualization. Before the 1970s, the NHL drafts consisted of almost entirely Canadian or American born players. However, throughout the years more european players started to be recognized and scouted. In recent years, Although Canadians and Americans still develop majority of the NHL prospects, less than usual are now drafted each year and there has been a continuous increase in European prospects. Perhaps, at some point in the future, a european country like Sweden or Russia will catch up to the USA or Canada for most NHL prospects.
 
 ### Question 3 
-The third question regarding this dataframe was Inquiring which countries have developed the most NHL prospects since 1982.  From the first visualization, it became clear that the amateur teams playing in the Canadian Hockey League are the most successful at developing talent for the NHL. The second visualization shows how teams like the Kamloops Blazers have a golden age of talent, but have fallen off since, while teams like London have been more consistent. The third visualization shows the progress US hockey has made since 2010, they have jumped over all the Canadian teams by a huge margin. The forth visualization shows the reason why USNDT have been so successful since 2010, not only do they push out the most talent, but the most in all positions. The best two teams at developing amatuer talent are the USNDT and the London Knights. 
+The third question regarding this dataframe was Inquiring which countries have developed the most NHL prospects since 1982. 
+From the **first visualization**, 
+  ![first visualization](./images/A3_Plot1.png)
+it became clear that the amateur teams playing in the Canadian Hockey League are the most successful at developing talent for the NHL. After them the USNDT have a clear lead over non-Canadian based teams (Don't played in the CHL), with Russia, Sweden, and Finland all have successful amateur teams as well. 
+
+The **second visualization**,
+  ![second visualization](./images/A3_Plot2.png)
+shows how teams like the Kamloops Blazers have a golden age of talent, but have fallen off since, while teams like London have been more consistent. 
+
+The **third visualization**,
+  ![third visualization](./images/A3_Plot3.png)
+shows the progress US hockey has made since 2010, they have jumped over all the Canadian teams by a huge margin. This graph also shows Canada's consistency in the CHL as no European teams are in the top 10 since 2010.
+
+The **forth visualization**,
+  ![forth visualization](./images/A3_Plot4.png)
+shows the reason why USNDT have been so successful since 2010, not only do they push out the most talent, but the most in all positions. The best two teams at developing amatuer talent are the USNDT and the London Knights. 
 
 ## Conclusion
 
