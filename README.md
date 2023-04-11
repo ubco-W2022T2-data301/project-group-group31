@@ -30,7 +30,6 @@ Dashboard 3
 
 ## References
 
-{Add your stuff here}
-
+https://www.kaggle.com/datasets/mattop/nhl-draft-hockey-player-data-1963-2022
 
 
