@@ -6,11 +6,10 @@ def load_and_process(path_to_csv_file):
                  'points','plus_minus','penalties_minutes','goalie_games_played','goalie_wins',
                  'goalie_games_played','goalie_wins','goalie_losses','goalie_ties_overtime',
                  'save_percentage','goals_against_average','point_shares', 'games_played',
-                 'goals','assists'], axis=1).reset_index(drop=True).rename(columns={"year":"Draft Year"})
-                 .rename(columns={"nationality":"Country"}).assign(Nationality = lambda x: x.Country))
+                 'goals','assists'], axis=1).reset_index(drop=True))
     
-    dataframe2 = dataframe
-    dataframe2 = (dataframe2.drop(['Country','age'],axis=1).reset_index(drop=True))
+    dataframe =  (dataframe.rename(columns={"year":"Draft Year"})
+                  .rename(columns={"nationality":"Country"}).assign(Nationality = lambda x: x.Country))
 
     
     dataframe['Nationality'] = dataframe['Nationality'].replace('CA', 'Canada')
