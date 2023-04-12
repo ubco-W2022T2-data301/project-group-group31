@@ -14,6 +14,8 @@ For each research question, we have three different highlights.
 
 ### Question 1: Which NHL team drafts the most successful NHL players? What differentiates these teams from the other teams in terms of drafting patterns?
 
+- Full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group31/blob/main/analysis/analysis1.ipynb).
+
 The first question regarding this dataframe was inquiring which teams have drafted the most successful players since 1982 and what led to their success. From the **first visualization**
   ![first visualization](./images/Analysis1Plot1.png) 
 
@@ -25,6 +27,8 @@ it became clear that the Buffalo Sabres have by far the best drafting history. O
 I could determine what makes the Buffalo Sabres so good at drafting. These visualizations made it clear that Buffalo doesn't have a lot of extremely high end talent drafted, however, they had a very large amount of players that wound up being average in the league drafted. While other teams, such as the Pittsburgh Penguins, drafted multiple of the best players in the league and yet remain average in total success from the draft. From this, I can conclude that the main reason Buffalo is better than the rest of the league at drafting is because they consistently draft NHL caliber players, while drafting less busts than the other teams.
 
 ### Question 2: Which countries have developed the most NHL prospects through 1963-2022?
+
+- Full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group31/blob/main/analysis/analysis2.ipynb).
 
 The second question regarding this dataframe was inquiring which countries have developed the most NHL prospects since 1963. 
 From the **first visualization**,
@@ -39,6 +43,8 @@ Before the 1970s, the NHL drafts consisted of almost entirely Canadian or Americ
 In recent years, Although Canadians and Americans still develop majority of the NHL prospects, less than usual are now drafted each year and there has been a continuous increase in European prospects. Perhaps, at some point in the future, a european country like Sweden or Russia will catch up to the USA or Canada for most NHL prospects.
 
 ### Question 3: What amateur teams have found the most success at producing NHL skaters and what leagues have been leading the way?
+
+- Full analysis notebook [here](https://github.com/ubco-W2022T2-data301/project-group-group31/blob/main/analysis/analysis3.ipynb).
 
 The third question regarding this dataframe was Inquiring which countries have developed the most NHL prospects since 1982. 
 From the **first visualization**, 
