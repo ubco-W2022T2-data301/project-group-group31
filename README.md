@@ -23,6 +23,8 @@ The NHL Players Statistics dataset is a collection of stats on every player who 
 ## Images
 Dashboard
 (N/A)
+Dashboard 1
+![](./images/Dashboard1.png)
 Dashboard 2
 ![](./images/Dashboard2.png)
 Dashboard 3
