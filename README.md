@@ -21,8 +21,7 @@ The NHL Players Statistics dataset is a collection of stats on every player who 
 - Chase Winslow: I have wasted 11 years watching the Oilers. 
 
 ## Images
-Dashboard
-(N/A)
+
 Dashboard 1
 ![](./images/Dashboard1.png)
 Dashboard 2
