@@ -22,11 +22,15 @@ The NHL Players Statistics dataset is a collection of stats on every player who 
 
 ## Images
 
+Dashboard 1
+![](./images/Dashboard1.png)
+Dashboard 2
+![](./images/Dashboard2.png)
+Dashboard 3
 ![](./images/Dashboard.png)
 
 ## References
 
-{Add your stuff here}
-
+https://www.kaggle.com/datasets/mattop/nhl-draft-hockey-player-data-1963-2022
 
 
