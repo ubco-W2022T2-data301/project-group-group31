@@ -37,7 +37,7 @@ I was able to determine that Canada and USA are the main contributors for NHL pr
 
 I could conclude that previous statement about the growth of hockey by observing the **second visualization** and **third visualization**.
   ![second visualization](./images/A2_Plot2.png)
-  ![third visualization](./images/A2_Plot3.png) 
+  ![third visualization](./images/A2Plot3.png) 
 Before the 1970s, the NHL drafts consisted of almost entirely Canadian or American born players. However, throughout the years more european players started to be recognized and scouted. 
 In recent years, although Canada and America still develop majority of the NHL prospects, less players than usual are now drafted each year and there has been a continuous increase in European prospects. I was able to distinguish a clear decline in the number of drafted prospects from Canada and USA. I also noticed an uprise in european prospects in the latest draft years. Perhaps, at some point in the future, a european country like Sweden or Russia will catch up to the USA or Canada for most NHL prospects.
 
