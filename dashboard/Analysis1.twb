@@ -717,7 +717,7 @@
           <zone h='98014' id='31' param='vert' type-v2='layout-flow' w='99002' x='499' y='993'>
             <zone h='98014' id='16' param='horz' type-v2='layout-flow' w='99002' x='499' y='993'>
               <zone h='98014' id='14' type-v2='layout-basic' w='86783' x='499' y='993'>
-                <zone h='41690' id='12' name='Draft Score by Year' w='86783' x='499' y='57317'>
+                <zone h='41693' id='12' name='Draft Score by Year' w='86783' x='499' y='57314'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -725,7 +725,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='56324' id='13' name='Most Successful Teams' w='46006' x='499' y='993'>
+                <zone h='56321' id='13' name='Most Successful Teams' w='46003' x='499' y='993'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -733,7 +733,7 @@
                     <format attr='margin' value='4' />
                   </zone-style>
                 </zone>
-                <zone h='56324' id='19' name='Draft Success Compared to Draft Position' w='40777' x='46505' y='993'>
+                <zone h='56321' id='19' name='Draft Success Compared to Draft Position' w='40780' x='46502' y='993'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -766,8 +766,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='950' minheight='950' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='43' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98014' id='42' param='vert' type-v2='layout-flow' w='99002' x='499' y='993'>
+            <zone h='100000' id='45' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98014' id='44' param='vert' type-v2='layout-flow' w='99002' x='499' y='993'>
                 <zone h='4219' id='17' mode='checkdropdown' name='Most Successful Teams' param='[federated.0v4vpjq083k2qe155dnq41bun6wv].[none:team:nk]' type-v2='filter' w='12219' x='87282' y='993'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -777,7 +777,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='56324' id='13' is-fixed='true' name='Most Successful Teams' w='46006' x='499' y='993'>
+                <zone fixed-size='280' h='56321' id='13' is-fixed='true' name='Most Successful Teams' w='46003' x='499' y='993'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -786,7 +786,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='56324' id='19' is-fixed='true' name='Draft Success Compared to Draft Position' w='40777' x='46505' y='993'>
+                <zone fixed-size='280' h='56321' id='19' is-fixed='true' name='Draft Success Compared to Draft Position' w='40780' x='46502' y='993'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -795,7 +795,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='41690' id='12' is-fixed='true' name='Draft Score by Year' w='86783' x='499' y='57317'>
+                <zone fixed-size='280' h='41693' id='12' is-fixed='true' name='Draft Score by Year' w='86783' x='499' y='57314'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -970,7 +970,7 @@
       </viewpoint>
       <simple-id uuid='{585AE7A3-8638-4050-8758-8E0C6FF5E830}' />
     </window>
-    <window class='worksheet' maximized='true' name='Draft Score by Year'>
+    <window class='worksheet' name='Draft Score by Year'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1010,7 +1010,7 @@
       </viewpoint>
       <simple-id uuid='{B1FECA0A-F178-4AE6-A3A8-3301B8CB840B}' />
     </window>
-    <window class='dashboard' name='Dashboard'>
+    <window class='dashboard' maximized='true' name='Dashboard'>
       <viewpoints>
         <viewpoint name='Draft Score by Year'>
           <zoom type='entire-view' />
@@ -1022,7 +1022,7 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='12' />
+      <active id='15' />
       <simple-id uuid='{AC992BC1-EEF0-4DAB-9FEA-88DF108B2155}' />
     </window>
   </windows>
